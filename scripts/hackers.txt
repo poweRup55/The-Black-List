@@ -1,0 +1,4649 @@
+rev971001 2127
+
+hackers movie script
+typed by lo wang
+
+                     united artists pictures
+
+                             presents
+
+                       an iain softley film
+
+                            hackers
+
+                         jonny lee miller
+
+                          angelina jolie
+
+                          fisher stevens
+
+                       and lorraine bracco
+
+                      music by simon boswell
+
+           edited by christopher blunden  martin walsh
+
+                  production designer john beard
+
+              director of photography andrzej sekula
+
+                 executive producer iain softley
+
+                     coproducer janet graham
+
+                     written by rafael moreu
+
+             produced by michael peyser  ralph winter
+
+                     directed by iain softley
+
+                             seattle 1988
+
+ext front yard  day
+
+        slow motion armed troops in black uniforms pour out of
+        unmarked vans and swarm across a lawn in a middle class
+        residential neighborhood yuppie neighbours look on in
+        shock confused two of the troops carry a battering ram
+        to the front door of a white twostorey house a leashed
+        rottweiler snarls and barks in position their comrades
+        point m16s into firstfloor windows ready to be
+        ambushed pan into a window in the kitchen an
+        attractive woman in her thirties is making breakfast
+
+        now in regular motion the battering ram breaks open the
+        front door the woman startled drops her spatula
+
+int murphy residence day
+
+                                woman
+                                screams
+                    oough ahhh
+
+                                secret service agent
+                                to others
+                    upstairs
+
+        troops pour into the house
+
+                                woman
+                    whats going on whats the matter
+                    who are you
+
+        the troops and one or two trenchcoated agents continue
+        entering the house and heading upstairs still with rifles
+        ready
+
+                                woman
+                    hey
+
+        upstairs crowded in the narrow hallway the troops
+        descend on a bedroom
+
+                                woman
+                                off camera
+                    dade dade
+
+                                agent
+                    knock it down
+
+        the battering ram knocks down a bedroom door
+
+int courtroom
+
+        the prosecutor a woman of about forty gives her closing
+        argument blandly shed rather be somewhere else
+
+                                prosecutor
+                    the defendant dade murphy who calls
+                    himself zero cool has repeatedly
+                    committed criminal acts of a malicious
+                    nature this defendant possesses a
+                    superior intelligence which he uses to a
+                    destructive and antisocial end his
+                    computer virus crashed one thousand five
+                    hundred and seven computer systems
+                    including wall street trading systems
+                    single handedly causing a seven point drop
+                    in the new york stock market
+
+        as she speaks the camera pans across the court panning
+        down and stopping on the defendant eleven year old dade
+        murphy
+
+        fast forward to the sentencing
+
+                                judge
+                    dade murphy i hereby fine your family
+                    fortyfive thousand dollars
+
+        the court gasps dades father winces
+
+                                judge
+                    and sentence you to probation under
+                    which you are forbidden to own or operate
+                    a computer or touch tone telephone until
+                    the day of your eighteenth birthday
+
+        now dade winces in fact we almost expect him to cry
+
+        opening credits roll to a backdrop of dade and his family
+        and lawyer fighting through a gaggle of journalists and
+        photographers in slow motion and driving away
+
+                        seven years later
+
+        aboard a jetliner dade murphy is staring blankly out the
+        window wearing headphones exterior view from the
+        aircraft of approaching new york city the view becomes a
+        direct overhead of the buildings and streets of the city
+        which then metamorphoses through animation into chips
+        and digital signals on a stylised computer board the
+        title logo
+
+int dades room
+
+        segue to dade murphy now 18 wearing mirrorshades indoors
+        and at night working on his new computer his mother
+        calls him
+
+                                mrs murphy
+                                off camera
+                    dade
+
+                                dade
+                    yeah mom
+
+                                mrs murphy
+                    what are you doing
+
+                                dade
+                                after a semipregnant pause
+                    im taking over a tv network
+
+                                mrs murphy
+                    finish up honey and get to sleep and happy
+                    birthday
+
+int otv studios
+
+        in the otv studios security department a phone rings a
+        man answers nervously
+
+                                norm
+                    security uh norm norm speaking
+
+                                dade
+                    norman this is mr eddie vedder from
+                    accounting i just had a power surge here at
+                    home that wiped out a file i was working on
+                    listen im in big trouble do you know
+                    anything about computers
+
+                                norm
+                    uhhmmm uh gee uh
+
+                                dade
+                    right well my blt drive on my computer just
+                    went awol and ive got this big project due
+                    tomorrow for mr kawasaki and if i dont get
+                    it in hes gonna ask me to commit hari
+                    kari
+
+                                norm
+                    uhhh ahahaha
+
+                                dade
+                    yeah well you know these japanese management
+                    techniques
+                                pause
+                    could you uh read me the number on the
+                    modem
+
+                                norm
+                    uhhhmm
+
+                                dade
+                    its a little boxy thing norm with switches
+                    on it lets my computer talk to the one
+                    there
+
+                                norm
+                    2125554240
+
+        dade goes to work on otv he closes his eyes and a flurry
+        of halfsecond video clips from old tv shows flashes by
+        he opens his eyes his screen says entering arps 331 and
+        then wipes to another screen automated record playback
+        system there is a graphic representation of the
+        stations automatic videotape changer dade turns on his
+        tv set and turns to otv it is running a rushlimbaugh
+        type tv show
+
+                                commentator
+                                on tv
+                    socalled american indians latinos and
+                    blacks come from a genetically mediocre
+                    stock
+
+                                dade
+                    yak yak yak get a job
+
+        dade presses a key on his keyboard the video changer
+        diagram lights up in red at the station a robotic arm
+        selects a videotape from a huge rack of thousands of
+        tapes  the america first tape slides out of the vtr and
+        is replaced by an episode of the outer limits as dade
+        watches drinks coke and smiles full of himself
+
+                                tv
+                    you are about to experience the awe and
+                    mystery which reaches from the inner mind
+                    to the outer limits
+
+                                dade
+                    yesssss
+
+        suddenly the arps screen is replaced by an ominous
+        message
+
+                        u have tread
+                        upon my domain 
+                        must now suffer
+                        who r u
+
+                                dade
+                    hey what
+
+        he starts to type zero
+
+                                dade
+                    no wait
+
+        dade types
+
+                        crash override
+                        who wants to know
+
+        dades screen dissolves into
+
+                        acid burn
+
+                                dade
+                    unbelievable a hacker
+
+        then the screen changes again
+
+                        acid burn
+                        sez leave b 4
+                        u r expunged
+
+        the outer limits suddenly flashes off
+
+                                dade
+                    yeah okay acid burn thats enough
+
+        dade starts hacking apparently so does acid burn the
+        tape changer machines at otv are swamped sometimes
+        fighting over the same tape the program on tv keeps
+        changing
+
+        the message comes up on dades computer screen
+
+                        i will
+                        swat u like
+                        the fly u r
+
+        more dueling tape changers more half second video clips
+        another message
+
+                        i will
+                        snap your back
+                        like a toothpick
+
+        as the duel continues dade types back a taunt of his own
+
+                        mess with the best
+                        die like the rest
+
+        one last from acid burn
+
+                        you are
+                        terminated
+
+        then his own computer confirms for him that the connection
+        is terminated
+
+                                dade
+                    shit on me
+
+        next morning mrs murphy is unpacking dade emerges
+        from his room in a housecoat he makes a beeline dodging
+        moving boxes for the fridge
+
+                                mrs murphy
+                    good morning you unpack your stuff yet
+
+                                dade
+                    mmhmm
+
+                                mrs murphy
+                    up all night again huh
+
+                                dade
+                    can this wait until both my eyes are open
+                    please
+
+        dades mom picks up the phone mocking a call to the
+        building superintendent
+
+                                mrs murphy
+                    can i cut the electricity to his room so hell
+                    sleep normal hours hes been playing with
+                    his computer all night for a solid week
+                                pause
+                    well yes he could be playing with himself
+                    mmm hmm yes ill ask dade you like girls
+                    dont you
+
+                                dade
+                    well yeah i just havent found one as
+                    charming as you yet
+
+                                mrs murphy
+                    you havent been doing anything stupid right
+                    dade
+                                louder
+                    right dade
+
+                                dade
+                    right mom and im still a virgin
+
+        dade slams the bathroom door mrs murphy quickly checks
+        his room dade is showering
+
+                                mrs murphy
+                                angry through the bathroom door
+                    you hooked it up to the phone didnt you
+                    dade turn the shower off you screw up
+                    again and you wont get into college
+
+        she pauses and regains some of her cool
+
+                                mrs murphy
+                    im sorry we had to move in your senior year
+                    i didnt want to sell the house but i had to
+                    take this new job you know that youre
+                    going to love new york its the city that
+                    never sleeps
+
+ext new york city
+
+        we enjoy several views of new york the morning sun
+        shining between skyscrapers neon signs that stay lit day
+        and night dade emerges from the groundfloor apartment
+        on rollerblades and skates down the street to school
+
+int high school
+
+        at school hundreds of teenagers converse move around
+        head to class  dade looks lost among them he walks up
+        to a skinny latino kid in a faux leopardskin muscle
+        shirt the kid is on a payphone speaking in spanish
+
+                                dade
+                    excuse me
+
+                                kid
+                    yo chill man im talking to venezuela
+
+                                dade
+                    yeah im sorry i was just looking for the
+                    principals office
+
+                                kid
+                    sorry i cant help you okay
+
+        now dade really looks lost he heads off in search of the
+        office
+
+int office
+
+        dade is filling out a form
+
+                                girl
+                    do you have your transfer forms
+
+        dade stares at her stunned the girl has a decidedly
+        unconventional appearance yet is a firstrate beauty
+
+                                girl
+                    its a relatively straightforward question
+
+        dade notices her lips and in his imagination launches
+        into a flurry of halfsecond video clips and art bites
+        all involving lips and kissing
+
+                                girl
+                    do you speak english
+
+                                dade
+                    sorry you wanted
+
+                                girl
+                    i wanted transfer forms
+
+        he gives them to her
+
+                                girl
+                    thank you
+
+        she starts leaving he doesnt
+
+                                girl
+                    are you coming
+
+        dade clues in gets up and follows her she takes him on
+        a brief tour
+
+int high school corridor
+
+                                girl
+                    the gym is through there and the cafeteria is
+                    through there
+
+                                dade
+                    great cool
+                                pause
+                    whats your name
+
+                                girl
+                    kate kate libby
+
+        they arrive at a classroom
+
+                                kate
+                    heres your class
+
+                                dade
+                    my class you mean im not in your class
+
+                                kate
+                    no youre not in my class
+
+        kate starts away
+
+                                dade
+                    give me time
+
+        a guy in the halls notices dade
+
+                                guy
+                    hey you new
+
+                                dade
+                    yeah
+
+                                guy
+                    tell him about the pool kate
+
+                                dade
+                    pool
+
+                                kate
+                    yeah theres an olympic size swimming pool up
+                    on the roof take the stairs over there
+
+                                dade
+                    yeah sure
+
+        kate starts away again
+
+                                dade
+                    thanks
+
+ext school rooftop
+
+        dade enters and lets the door slam behind him across the
+        roof a dozen or so geeky looking kids are looking over
+        the edge apparently trying to get someones attention
+        one of them notices dade
+
+                                geek
+                    hey hold the door
+
+        hes too late the geeks look pretty angry there is no pool
+
+                                dade
+                                realizing hes been had
+                    no pool
+
+        dade tries the door but its locked he hammers it with
+        his palm furious above thunder roars and it begins
+        raining
+
+int school corridor
+
+        dade is soaking wet and trudges among his classmates
+        leaving a muddy trail a threesecond video clip rolls
+        through his mind it is a screaming woman being strangled
+        in an old movie he walks past kate who giggles
+
+                                kate
+                    oh my god he found the pool
+
+int school computer lab
+
+        the kids are all seated at computer workstations dade
+        is hacking the latino kid who was on the phone to
+        venezuela is running a demo involving dirtydancing
+        skeletons
+
+                                teacher
+                    im mr simpson and im subbing for ms
+                    bayliss who was arrested at the antifur
+                    rally i know some of you kids got computers
+                    at home but these are school property
+                    people and i dont want to see any gum stuck
+                    to em chapter 1 designing graphical
+                    interface
+
+        meanwhile the latino kid notices that dade has been
+        looking up kate libbys school records and hacking
+        himself into her advanced english class
+
+ext school quad
+
+        its after school kids are heading home dade too the
+        latino kid notices dade and catches up with him
+
+                                kid
+                    so um whats your interest in kate libby
+                    eh academic purely sexual
+
+                                dade
+                    homicidal
+
+                                kid
+                    whats up man im the phreak
+
+        the name rings no bells with dade
+
+                                phreak
+                    the phantom phreak the king of nynex i
+                    know you play the game
+
+        another kid younger and a little geeky looking runs up
+        to dade and the phantom phreak
+
+                                joey
+                    phreakphreakphreakphreakphreak
+                    dudedudedudedudedudedude i gotta
+
+                                phreak
+                                slaps joey
+                    joey joey
+
+                                joey
+                    what whatwhatwhat
+
+                                phreak
+                    one more dude out of you and im gonna slap
+                    the shit outa you okay now im trying to
+                    save you from yourself but you gotta stop
+                    letting your mama dress you man
+                                to dade
+                    check it
+
+        phreak starts to hand dade a flyer
+
+                                joey
+                                interrupting
+                    i need a handle man i dont have an
+                    identity until i have a handle
+
+                                phreak
+                    you know youre right about that
+                                to dade
+                    check it friday
+
+        phreak hands dade a flyer for cyberdelia
+
+                                joey
+                    alright how about the master of disaster
+                    huh
+
+                                phreak
+                    youre hopeless man utterly hopeless
+
+        phreak walks away
+
+                                joey
+                    ultra laser
+                                desperate
+                    doctor doom
+
+ext new york city street village night
+
+        dade rolls in on rollerblades  street vendors hawk
+        computer parts and bootleg software a bootleg music
+        vendor catches dades attention
+
+                                cereal
+                    check this out each and every one of you
+                    compilation tape of my own making i call
+                    this the greatest zooks album featuring
+                    artists like well i got some hendrix on
+                    there some joplin mama cass belushi all
+                    great artists that asphyxiated on their own
+                    vomit
+
+        the small crowd around him finally gets the joke
+
+                                cereal
+                    cant get this in stores man i made it
+
+        dade wheels into cyberdelia which just happens to be
+        equipped with a ramp down to its main floor for the
+        benefit of skaters the place pounds with loud bassy
+        techno music and coloured light video monitors with
+        psychedelic patterns complete the atmopshere there is a
+        video game with a huge screen  phreak is at a pay phone
+
+                                operator
+                                on phone
+                    please deposit five dollars for the first
+                    minute
+
+        phreak holds a small box up to the receiver presses a
+        button and the box emits a series of tones
+
+                                operator
+                    thank you
+
+                                phreak
+                    nonono thank you
+
+        dade checks out the scene kate is playing the big video
+        game dade skates up to her she loses her last man
+        shes got the high score in fact her name dominates the
+        top10 list
+
+                                dade
+                    thats a nice score for a girl
+
+                                kate
+                                irritated by dades presence
+                    think you can do better
+
+                                dade
+                    ill give it a shot
+
+        kate yields the controls to dade who begins playing
+        kates boyfriend looks on from a mezzanine several feet
+        above
+
+                                curtis
+                    is this kid bothering you kate
+
+                                dade
+                    sorry can i get some room here
+
+                                curtis
+                    yeah
+                                to kate
+                    why dont you come up here
+
+        kate obliges and joins curtis  dade continues playing
+        he plays brilliantly the game is a flashy 3d highspeed
+        chase game with lots of surprises dade loses but his
+        high score is about to come up
+
+                                curtis
+                    hes good
+
+        dades score comes up hes in the 1 position phreak
+        is amazed
+
+                                dade
+                                to kate
+                    well it looks like im on top
+
+        kate defeated leaves curtis follows
+
+                                phreak
+                    congratulations no ones ever beat her
+                    before you just made an enemy for life
+                                to someone else
+                    boy meets world lets go
+
+ext outside cyberdelia night
+
+        kate and curtis are sucking face oblivious to the busy
+        world around them dade and phreak watch more than a
+        little disgusted
+
+                                dade
+                    whos that
+
+                                phreak
+                    curtis
+
+                                dade
+                    and whats he do
+
+                                phreak
+                    thats it youre looking at it he just looks
+                    slick all day
+
+        kate and curtis start to take off on curtis motorcycle
+        kate and dade make eye contact briefly the motorcycle
+        speeds off into the night
+
+int dades room
+
+        the clock says its 416 as the camera pans up to dade
+        it changes to 417 dade is hacking again its the
+        schools administration system dade schedules a test of
+        the school sprinkler system for 930am
+
+int high school corridir
+
+        dade stands alone in the hall watching the time closely
+        phreak rounds a corner and meets dade
+
+                                phreak
+                    whats up
+
+        dade doesnt answer he watches the time a couple of more
+        seconds then opens an umbrella immediately the fire
+        sprinklers turn on phreak starts getting drenched he
+        realizes what is happening
+
+                                phreak
+                                amused and highly impressed
+        oh my god you
+
+        a bell rings and students pour out into the halls by the
+        hundreds theyre all being showered on a tall
+        cheerleader bounces by phreak pushing her pompom in his
+        face
+
+                                phreak
+                    way cool
+                                to dade
+                    you saw that
+
+        dade nods in the affirmative
+
+        kate walks up to dade also understanding what has
+        happened
+
+                                kate
+                    what the hell is going on
+
+                                dade
+                    pool on the roof must have a leak
+
+        kate gives dade a look that could kill and skulks away
+
+        dade walks away under his umbrella smug and dry
+
+                                phreak
+                    man oh man this is gonna be good
+
+int high school classroom
+
+        dade kate and a couple of other students are writing on
+        the chalkboard kate finishes first
+
+                                kate
+                    if god gave men brains bigger than dogs
+                    they wouldnt hump womens legs at cocktail
+                    parties
+
+        the class giggles
+
+                                kate
+                    ruth libby
+
+                                teacher
+                    im not so sure your mother qualifies as a
+                    significant author of the twentieth century
+
+                                kate
+                    her last book sold two million copies
+
+                                class
+                                almost in unison
+                    woooooo
+
+        the teacher reads dades quotation
+
+                                teacher
+                    angelheaded hipsters burning for the ancient
+                    heavenly connection to the starry dynamo in
+                    the machinery of the night
+
+                                dade
+                    thats ginsburg
+
+                                teacher
+                    nice very nice
+
+                                kate
+                    hes not in this class
+
+                                dade
+                    i said give me time
+
+                                kate
+                    hes not enrolled in this class
+
+                                teacher
+                    well hes on my list
+
+        kate leaps across a desk and snatches the list from the
+        teacher dade is on it she gives dade another filthy
+        look both dade and the teacher just shrug the teacher
+        moves on to cereal
+
+                                teacher
+                    of all the things ive lost i miss my mind
+                    the most
+
+                                cereal
+                    ozzy osbourne
+
+                                teacher
+                    you what is your name
+
+        the teacher grabs the list back from kate
+
+                                cereal
+                    uh emmanuel goldstein sir
+
+                                teacher
+                    you however are not on my list
+
+                                cereal
+                                in mock shock
+                    whoa this isnt wood shop class
+
+        the class cracks up kate and dade exchange looks as the
+        teacher escorts cereal to the door
+
+int dades place
+
+                                mrs murphy
+                    how was school
+
+                                dade
+                                eating
+                    hmmm
+
+                                mrs murphy
+                    what did we learn in school today
+
+                                dade
+                    revenge
+
+                                mrs murphy
+                    aaaah did we meet someone special
+
+                                dade
+                    no no one special
+
+                                mrs murphy
+                    okay i gotta get back to work im gonna be
+                    home late  and would you try and please fill
+                    these out
+
+        she indicates a pile of college applications
+
+                                mrs murphy
+                    oh dont worry its only the rest of your
+                    life
+
+        she starts to the door
+
+                                dade
+                    right anything else you want me to mow the
+                    lawn oops forgot new york no grass
+
+                                mrs murphy
+                    and unpack
+
+        she leaves dade looks over the college applications for
+        a second and pushes them away hed rather not do this
+        now
+
+int cyberdelia
+
+        dade phreak and joey are sitting at a table joey is
+        giving a dull account of his hacking adventures enter
+        cereal
+
+                                cereal
+                    fyi alright man you can sit at home and do
+                    like absolutely nothing and
+
+        cereal pauses notices dade whom he has never met
+        formally but seen around and then continues
+
+                                cereal
+                    and your name goes through like seventeen
+                    computers a day 1984 yeah right man thats
+                    a typo orwells here and now hes living
+                    large we have no names man no names we
+                    are nameless can i score a fry thanks
+
+                                phreak
+                    meet cereal killer as in froot loops but
+                    he does know things
+
+        dade and cereal acknowledge each other
+
+                                joey
+                    anyways guys guys listen listen to me
+                    im in this computer right so im looking
+                    around
+
+                                phreak
+                                to cereal
+                    dyou bring those crayola books
+
+                                cereal
+                    oh yeah technicolor rainbow
+
+         cereal brings a book out of his bag
+
+                                cereal
+                    green one
+
+                                joey
+                    what is that what is that lemmie see what
+                    are these
+
+                                dade
+                    international unix environments
+
+        cereal pulls out another book
+
+                                cereal
+                    luscious orange
+
+        cereal hands the orange book to phreak
+
+                                dade
+                    computer security criteria dod standards
+
+        another book comes out
+
+                                dade
+                    the pink shirt book guide to ibm pcs so
+                    called due to the nasty pink shirt the guy
+                    wears on the cover
+
+        another one
+
+                                cereal
+                    whats that
+
+                                dade
+                    devil book the unix bible
+
+        another one
+
+                                cereal
+                    whats that
+
+                                dade
+                    dragon book compiler design
+
+        cereal brings out a large red book
+
+                                cereal
+                    oh yeah whats that
+
+                                dade
+                    the red book nsa trusted networks
+                    otherwise known as the ugly red book that
+                    wont fit on a shelf
+
+        by now phreak has made a pile of the books and the red
+        book looks wholly out of place on the top of the pile
+
+                                joey
+                    anyway anyway guys guys guys come on im
+                    in this computer right so im looking
+                    around looking around you know throwing
+                    commands at it i dont know where it is or
+                    what it does or anything its like its
+                    like choice its just beautiful okay like
+                    four hours im just messing around in there
+                    finally i figure out that its a bank
+                    right okay wait okay so its a bank so this
+                    morning i look in the paper some cash
+                    machine in like bumsville idaho spits out
+                    seven hundred dollars into the middle of the
+                    street
+
+                                cereal
+                    thats kinda cool
+
+                                joey
+                    that was me that was me i did that
+
+                                dade
+                    you did this from your house
+
+        joey takes a drag from his cigarette and just nods with a
+        big grin on his face
+
+                                phreak
+                    what are you stoned or stupid you dont
+                    hack a bank across state lines from your
+                    house youll get nailed by the fbi where
+                    are your brains in your ass dont you know
+                    anything
+
+                                cereal
+                    stupid man its universally stupid
+
+                                joey
+                    you guys always think i should know
+                    everything and you never tell me anything
+                    am i right
+
+                                phreak
+                    alright what are the three most commonly used
+                    passwords
+
+                                joey
+                    love secret and uh sex  but not in that
+                    order necessarily right
+
+                                cereal
+                    yeah but dont forget god system operators
+                    love to use god its that whole male ego
+                    thing
+
+                                phreak
+                    look you wanna be elite you gotta do a
+                    righteous hack none of this accidental shit
+
+                                cereal
+                    oh yeah you want a seriously righteous hack
+                    you score one of those gibsons man you know
+                    supercomputers they use to like do physics
+                    and look for oil and stuff
+
+                                phreak
+                    aint no way man securitys too tight the
+                    big iron
+
+                                dade
+                    maybe but if i were gonna hack some heavy
+                    metal id uh work my way back through some
+                    low security and try the back door
+
+                                cereal
+                    yeah but oh man
+                                starts rubbing one of his
+                                own nipples in mock sexual
+                                excitement
+                    wouldnt you just love to get one of those
+                    gibsons baby ooooh
+
+                                phreak
+                    yo who ate all of my fries
+
+        cereal pauses a second
+
+                                cereal
+                                pretending to be enraged
+                    joey
+
+                                joey
+                    what no nonononono i didnt touch your
+                    fries i did not touch your fries
+
+                                phreak
+                    cereal man you owe me a pack
+
+                                cereal
+                    it was him man
+
+                                phreak
+                    youre psyched you need to lay off of that
+                    shit
+
+                                cereal
+                                to joey
+                    im gonna hit you
+
+int joeys room night
+
+        joey is hacking a gibson he gets in using god as a
+        password nice graphics represent the machines vast
+        systems
+
+                                joey
+                    yes home run home run you and me lucy
+                    were gonna show em baby
+
+int computer room ellingson mineral
+
+        a system operator at ellingson mineral corporation a
+        large oil company notices the intrusion he gets on the
+        phone
+
+int plagues loft
+
+        the place is a mess typical of the hacker bachelor pad
+        empty chinese food boxes and jolt cola cans litter the
+        place
+
+        plagues phone is ringing waking him
+
+                                hal
+                                on phone
+                    mr belford
+
+                                plague
+                                sleepily
+                    my name is the plague
+
+                                hal
+                    uh mr the plague uh something weirds
+                    happening on the net
+
+                                plague
+                    as in what you hapless technoweenie
+
+                                hal
+                    uh the accounting subdirectory in the gibson
+                    is working really hard we got one person
+                    online the workload is enough for like ten
+                    users i think weve got a hacker
+
+int joeys room
+
+                                joey
+                    okay okay we need proof that we were here
+                    right uh
+
+        joey starts looking for something to download as proof he
+        was there
+
+                                joey
+                    yeah garbage okay give me garbage
+
+        he selects a garbage file and starts the download his
+        screen becomes a psychedelic mind trip
+
+int computer room ellingson mineral
+
+        the plague glides in on a skateboard short and thin
+        bearded about 35 but still trying to be a teenage
+        anarchist yet not consciously realizing he sold out that
+        ideal years ago
+
+                                plague
+                    never fear i is here
+
+                                hal
+                    ive narrowed the activity to terminal 23
+
+                                plague
+                    lets echo 23 see whats up
+
+        the huge monitor lights up with the display of the
+        gibsons resources hal and the plague watch plague
+        starts surfing around
+
+                                plague
+                    god wouldnt be up this late
+
+        he sees what joey is downloading a file called
+        garbage
+
+                                plague
+                    shit get me the switching control center
+
+        he puts on a telephone headset hal dials for him
+
+                                plague
+                                into the headset
+                    i need to trace a call thats in progress
+
+int joeys room
+
+        joey is sneaking a cigarette while his computer downloads
+        there is a knock at the door its his mother
+
+                                joey
+                                whispering
+                    shit
+                                loudly panicked
+                    uh yeah hold on mom hold on one second
+
+        he puts out the cigarette and sprays the room with air
+        freshener
+
+                                joeys mom
+                    i mean it open the door joseph
+
+                                joey
+                    yeah uh yeah okay
+
+        he unlocks the door joeys mom bursts in hes still
+        clambering into bed
+
+                                joey
+                    there you go
+
+                                joeys mom
+                    bed sleep now
+
+        she turns off the computer it wasnt finished
+        downloading
+
+                                joeys mom
+                    sweet dreams joey
+
+int computer room ellingson mineral
+
+                                hal
+                    hes gone
+
+                                plague
+                    did you get a trace
+
+                                operator
+                                on phone
+                    yeah we got him
+
+                                plague
+                                smiling
+                    good
+
+int joeys room dark
+
+        joey takes a disk out of his computer and stashes it in an
+        air vent in the cieling
+
+int tenement hallway
+
+        phreak dade and cereal are rollerblading through the
+        halls of an apartment building that is filled with
+        graffiti it appears that most of the spraybomb art was
+        created by the residents
+
+                                cereal
+                    nice place huh
+
+        cereal knocks on a door spraypainted hackstock
+
+                                dade
+                    you heard of a hacker called acid burn you
+                    know who he is
+
+                                phreak
+                                surprised
+                    no dont know who he is
+                                to cereal
+                    do you
+
+        cereal shrugs
+
+        a hooded black man in his early twenties answers the door
+
+                                phreak
+                    nikon lord nikon this is
+
+        phreak motions to dade
+
+                                dade
+                                finishing
+                    crash override
+
+                                nikon
+                    never heard of you done anything
+
+                                dade
+                    no
+
+        nikon slams the door
+
+                                phreak
+                    come on
+
+        phreak knocks the door again nikon opens again
+
+                                nikon
+                    what your mom buy you a puter for christmas
+                                to phreak
+                    does he know anything
+
+                                phreak
+                    sure man hes elite
+
+                                nikon
+                                pausing checking dade out
+                    come in
+
+                                cereal
+                    uh nikon can i can i crash at your
+                    place tonight
+
+                                nikon
+                                removing his hood
+                    again
+                                pauses then grins broadly
+                    yeah sure
+
+        nikon and cereal do a fake kungfu move together
+
+                                both
+                    ookapow
+
+int nikons place
+
+        later the four are watching tv on tv is a secret
+        service agent giving a news interview
+
+                                gill
+                                on tv
+                    hackers penetrate and ravage delicate public
+                    and privately owned computer systems
+                    infecting them with viruses and stealing
+                    materials for their own ends these people
+                    they are terrorists
+
+                                cereal
+                    agent richard gill youre hacker enemy number
+                    one man youre a boner
+
+                                nikon
+                    yo showtime showtime
+
+                                dade
+                    whats going on
+
+                                all but dade
+                                in unison
+                    4321
+
+        cheesy music plays razor and blade androgynous asian
+        brothers have a community access tv show waynes world
+        in eye liner
+
+                                razor
+                    welcome to our show
+
+                                blade
+                    hack the planet
+
+                                all but dade
+                    hack the planet
+
+                                razor
+                    for those late night hacks
+
+                                blade
+                    jolt cola the soft drink of the elite
+                    hacker
+
+                                dade
+                    who are these guys
+
+                                nikon
+                    thats razor and blade
+
+                                dade
+                    razor and blade
+
+        now razor and blade have a disconnected payphone in their
+        studio
+
+                                razor
+                    thats right this is a payphone
+
+                                razor and blade
+                                in unison
+                    dont ask
+
+                                blade
+                    as you can see this is just a simple
+                    microcassette recorder shows the
+                    microcassette recorder  hook it up to the
+                    phone and drop in five bucks in quarters
+
+                                razor
+                    record the tones that the coins make and
+                    hang up and get your money back
+
+                                blade
+                    and never again have to pay for a service that
+                    would be dirt cheap
+
+                                razor
+                    if it werent run by a bunch of
+                    profiteering gluttons
+
+                                blade
+                    remember hacking is more than just a crime
+                    its a survival trait
+
+int joeys place
+
+        joey is taking a shower wearing walkman headphones
+        singing along with the music joey finishes turns off
+        the shower still singing he draws open the shower
+        curtain to find two secret service agents with shotguns
+        pointed at him
+
+                                ss agent
+                    freeze
+
+                                joey
+                    what what what did i do what
+
+        the agents drag joey still naked and wet out of the
+        shower and into the living room his mother is
+        hysterical
+
+                                joeys mom
+                    joey
+
+                                agent
+                    get in there sit down
+
+                                another agent
+                    stay down there dont move
+
+        joey is pushed into a sofa he sees his computer lucy
+        being carried away
+
+                                joey
+                    lucy
+
+        joey dives onto the agent carrying lucy away losing his
+        towel  his mother seeing his exposed buttocks is
+        shocked
+
+                                joeys mom
+                    joey
+
+ext outside joeys place
+
+        a policetype vehicle pulls up its agent richard gill
+        of the secret service  he stops a young agent for an
+        update
+
+                                gill
+                    hows it going ray
+
+                                agent ray
+                    it looks good sir weve got an uncorrupted
+                    hard drive
+
+                                gill
+                    in english please i didnt spend ten years
+                    protecting the president so i could finish my
+                    career feeling like an idiot
+
+                                agent ray
+                    im sorry sir we caught him by surprise so
+                    we dont think he had time to erase his
+                    computer files
+
+                                gill
+                    good good man alright lets finish up
+                    here and take him in for interrogation
+
+                                agent ray
+                    alright sir
+
+        they split up  a reporter and her sound man run up to
+        gill
+
+                                reporter
+                    agent gill can you spare a moment of your
+                    time
+
+                                gill
+                    why of course jennifer
+
+        while jennifer conducts the interview agents lead joey
+        into an unmarked car his mother is behind him still
+        hysterical
+
+                                joeys mom
+                    joey
+
+                                joey
+                    mom
+
+                                jennifer
+                    just how dangerous are hackers
+
+                                gill
+                    well hackers penetrate and ravage delicate
+                    public and privately owned computer systems
+                    infecting them with viruses
+
+                                joeys mom
+                    joey
+
+                                gill
+                    and stealing sensitive materials for their
+                    own ends these people theyre terrorists
+
+                                joeys mom
+                    joey
+
+int ellingson mineral corporation
+
+        a tall impressive building a cavernous atrium filled
+        with busy people
+
+int ellingson boardroom
+
+        a handsome looking woman in her late thirties walks in
+
+                                margo
+                    good morning gentlemen please be seated i
+                    see were still dressing in the dark eugene
+
+                                plague
+                                to margo
+                    once again dont call me eugene
+                                to the board
+                    a recent unknown intruder penetrated using a
+                    superuser acount giving him access to our
+                    whole system
+
+                                margo
+                    precisely what youre paid to prevent
+
+                                plague
+                    someone didnt bother reading my carefully
+                    prepared memo on commonly used passwords
+                    now as i so meticulously pointed out the for
+                    most used passwords are love
+                                gesturing lewdly
+                    sex secret and
+                                eyeing margo
+                    god so would your holiness care to change
+                    her password
+
+        margo just blinks prettily
+
+                                plague
+                    a hacker planted the virus
+
+                                margo
+                    virus
+
+                                plague
+                    yesterday the ballast program for a
+                    supertanker training model mistakenly thought
+                    the vessel was empty and flooded its tanks
+
+                                margo
+                    excuse me
+
+                                plague
+                                as if to a child
+                    the little boat flipped over a virus planted
+                    in the gibson computer system claimed
+                    responsibility
+
+                                margo
+                    what it left a note
+
+        plague hits a button on a remote control and the virus 
+        a long haired male model  appears on a large screen in
+        psychedelic colors the virus speaks in a hammy italian
+        accent
+
+                                virus
+                    unless five million dollars are transferred to
+                    the following numbered account in seven days
+                    i will capsize five tankers in the ellingson
+                    fleet
+
+                                board member
+                    is that
+
+                                plague
+                                interrupting
+                    that is the virus leonardo da vinci the
+                    problem is we have twenty six ships at sea and
+                    we dont know which ones are infected
+
+                                duke ellingson
+                    well then put the ships ballasts under
+                    manual control
+
+                                plague
+                    theres no such thing anymore duke these
+                    ships are totally computerized they rely on
+                    satellite navigation which links them to our
+                    network and the virus wherever they are in
+                    the world
+
+                                margo
+                    so what are we supposed to do
+
+                                plague
+                    well luckily you have a gifted and talented
+                    security officer i traced the hackers call
+                    the secret service picked him up this morning
+                    ill just search his files for the original
+                    virus code and then i can eliminate it
+
+int ellingson mineral atrium
+
+        plague margo and two suits from the boardroom are riding
+        down an escalator
+
+                                suit 1
+                    now look now we expect you to get onto this
+                    right away yeah
+
+                                plague
+                    yeah
+
+                                suit 1
+                    well how soon
+
+                                plague
+                    well were working on it as fast as we can
+                    this is a very common occurrence in
+                    corporations as large as ours you have
+                    nothing to worry about
+
+                                suit 2
+                    yeah right
+
+                                suit 1
+                    now youre sure about that mr the plague
+
+                                plague
+                    yeah the secret service is helping us out 100
+                    percent okay
+
+                                suit 2
+                    yeah
+
+                                suit 1
+                    okay
+
+                                plague
+                    well be in touch talk to you later
+
+        the suits get off the escalator plague and margo take the
+        next one down
+
+                                margo
+                    what the hell was that all about
+
+                                plague
+                    i had to move fast the hacker copied my
+                    garbage file
+
+                                margo
+                    what
+
+                                plague
+                    i created mister da vinci so we could call in
+                    the secret service so theyd arrest the
+                    hacker sieze his equipment things that we
+                    cant do on our own
+
+                                margo
+                    i dont want to go to jail for this
+
+                                plague
+                    relax think about the 25 million dollars
+
+                                margo
+                    but youve created a virus thats going to
+                    cause a worldwide ecological disaster just to
+                    arrest some hacker kid
+
+                                plague
+                    basically uhmm yeah mmm hmmm
+
+                                margo
+                    jesus you know youre sick eugene you
+
+                                plague
+                    sh sh sh sh sh
+
+        plague stops a passing secretary and snatches a piece of
+        paper from her hand
+
+                                plague
+                    ill take care of this
+
+                                secretary
+                    alright sir
+
+                                plague
+                    i can cancel it any time i dont need any
+                    program code but its the perfect cover to
+                    confiscate the disc and find out how much of
+                    that garbage file has been copied
+
+                                margo
+                    get it
+                                walking away
+                    why did i ever trust you
+                                going back up the escalator
+                    get the file otherwise youll lose all your
+                    toys
+
+int secret service interrogation room
+
+        joey is distraught over the dismantling of lucy agent
+        ray examines the macs innards
+
+                                gill
+                    did you find the program for the virus on any
+                    of the discs we confiscated
+
+                                plague
+                    no hes either very smart or very stupid
+
+                                gill
+                    then he stashed it somewhere or he has an
+                    accomplice well release him until his
+                    indictment keep tight surveillance and see
+                    if he leads us to your disc
+
+ext outside joeys place
+
+        joeys apartment building is an lshaped skyscraper about
+        30 storeys high unimpressive by new york city standards
+        two secret service agents are staking joey out in a car
+        outside
+
+                                secret service agent bob
+                    unit 3 outside suspect joey pardellas
+                    apartment nothing to report suspect still
+                    grounded by his mother
+
+        his radio crackles
+
+                                agent bob
+                    listen to this bullshit
+                                he reads
+                    this is our world now the world of the
+                    electron and the switch the beauty of the
+                    baud we exist without nationality skin
+                    color or religious bias you wage wars
+                    murder cheat lie to us and try to make us
+                    believe its for our own good yet were the
+                    criminals yes i am a criminal my crime is
+                    that of curiosity i am a hacker and this is
+                    my manifesto huh right manifesto you
+                    may stop me but you cant stop us all
+
+                                agent ray
+                    now thats cool
+
+                                agent bob
+                    cool
+
+                                agent ray
+                    yeah cool
+
+                                agent bob
+                    you think its cool
+
+                                agent ray
+                                not caring for where bob is going
+                                with this
+                    its cool
+
+                                agent bob
+                    its not cool its commie bullshit
+
+int high school boys room
+
+        dade cereal and phreak check their faces cereal brushes
+        his teeth
+
+                                cereal
+                                to phreak
+                    so what do you think can i crash at your
+                    place tonight
+
+                                dade
+                    what is it with this guy
+
+                                phreak
+                    his parents missed woodstock and hes been
+                    making up for it since hey you hear about
+                    joeys bust
+
+                                cereal
+                    yeah probably had something to do with that
+                    bank in idaho
+
+                                phreak
+                    do you think he could hack a gibson
+
+                                dade
+                    did you talk to him
+
+                                phreak
+                    nope his mom said hes grounded for his next
+                    three lifetimes
+                                imitating her
+                    he isnt to consort with his computer friends
+                                himself again
+                    the secret service is really out to get him
+                                changes the subject
+                    hey theres a big party tonight you wanna go
+
+        dade shakes his head
+
+                                phreak
+                    its at kates
+
+        dade just smiles
+
+                                phreak
+                     thought so
+
+        cereal and phreak leave cereal dancing
+
+int plagues office
+
+        plague is wearing a vr helmet and gloves playing some
+        sort of action game he is unaware that gill has just
+        entered the room
+
+                                gill
+                    what the hell are you doing plague
+
+        he thumps the vr pedestal
+
+                                gill
+                    plague
+
+        plague finally notices and takes off the helmet
+
+                                plague
+                    gill
+
+                                gill
+                    i think weve got something
+
+        gill hands plague a folder it has the logo of stanton high
+
+                                plague
+                    uuugh hard copy
+
+        plague looks it over and recognizes a name
+
+                                plague
+                    dade murphy
+
+int dades place
+
+        its after school dades just unlocking the front door
+        only to find a secret service agent behind it  and one
+        behind him in the hallway both point pistols at him
+
+                                agent ray
+                    secret service
+
+                                agent bob
+                    dont move
+
+        they slam dade against a wall and start frisking him
+
+                                dade
+                    christ what is the
+
+                                agent bob
+                    shut up
+
+                                dade
+                    what are you doing man get off me
+
+        they lead him into his room and throw him down on the bed
+        plague is there
+
+                                agent bob
+        just sit in the bed and keep your hands where we can see
+        them
+
+                                plague
+                    the year was 1988  and this nasty virus
+                    crashed fifteen hundred systems in one day
+
+        dade has a flashback
+
+                                dade
+                    fifteen hundred and seven
+
+                                agent ray
+                                astounded
+                    wow huh
+
+                                gill
+                    it got you seven years probation no
+                    computer couldnt even use a touch tone
+                    phone
+
+                                plague
+                    must have been hell huh zero cool
+                                getting to the point
+                    a virus has been planted in the ellingson
+                    mineral computer system you were our prime
+                    suspect till we trashed your stuff and found
+                    no trace of it
+
+                                gill
+                    however we have come to believe that one joey
+                    pardella is involved in this ellingson virus
+                    he or perhaps his accomplice has a disk that
+                    mr belford needs to disable that virus we
+                    want you to help us find it
+
+                                plague
+                    gill
+
+        the three secret service agents leave plague and dade
+        alone  plague shuts the door behind them
+
+                                plague
+                                of gill
+                    loser
+                                continues
+                    i cant believe you were only eleven when you
+                    wrote this its quite an impressive virus
+                    dade i know how you might feel about narking
+                    on your friends but were hackers for us
+                    theres no such thing as family and friends
+                    were each our own country with temporary
+                    allies and enemies id like to make a treaty
+                    with you
+
+                                dade
+                    im sorry who are you
+
+                                plague
+                    im the one who understands you now can we
+                    be allies
+
+                                dade
+                    nah i dont play well with others
+
+        plague is holding dades baseball bat he shrugs turns
+        around and smashes dades stereo to smithereens
+
+                                dade
+                    shit come on
+
+                                plague
+                    watch which friends you do play with a
+                    record like yours could land you in jail get
+                    you kicked out of school no colleges would
+                    take you no future exiled from everyone and
+                    everything you love
+
+        plague replaces the baseball bat
+
+                                plague
+                    ill be in touch
+
+        plague leaves
+
+                                plague
+                                to agents
+                    im fine
+                                to dade
+                    oh and dade try to stay out of trouble okay
+
+                                dade
+                    blow me
+
+                                plague
+                                smiles
+                    thank you
+
+int dades room later
+
+        dade is lying in bed a door opens its kate she opens
+        her motorcycle jacket revealing her bare breasts dade
+        starts to get up she pushes him back own on the bed and
+        starts kissing him passionately he responds in kind
+        then gill agent ray and agent bob burst into the room
+        handcuff him break the two up and haul them away as
+        plague looks on smugly
+
+        then dade wakes up in a sweat  it was only a dream he
+        regains his composure  the sound of new york city at
+        night surrounds him he goes back to sleep
+
+int kates place
+
+        the party a large wellfurnished apartment in an
+        elegant old skyscraper in the fashionable part of town
+        teenagers dance and writhe to loud bassy music dade and
+        phreak arrive
+
+                                phreak
+                    her mom makes big bucks writing selfhelp
+                    books for women stuff like women who love
+                    men who are emotional amoebae
+
+        phreak shows dade the book
+
+                                dade
+                    that explains a lot
+
+        kate the lovely and gracious hostess mingles and greets
+        her many guests not noticing dade or phreak cereal
+        offers dade a drink from a plastic bottle dade not
+        knowing what hes in for drinks nikon is the deejay
+
+                                phreak
+                                loudly
+                    yo whats up nikon
+
+                                nikon
+                    yo phreak dade man you made it
+                                to cereal
+                    houston we have liftoff 3 oclock
+                    check it dont look right away whats
+                    wrong with you look at her man
+
+        nikon and cereal are checking out a truly fine babe
+
+                                nikon
+                                concentrating
+                    look out man lisa blair 26 east 7th st
+                    apartment 16 5554817 boom
+
+                                dade
+                    how did you know that
+
+                                nikon
+                    i got photographic memory
+                                smiling
+                    its a curse
+                                into the crowd
+                    lisa
+
+                                lisa
+                    hey how do you know my name
+
+        cereal and phreak move through the crowd cereal notices
+        something
+
+                                cereal
+                    oooo look at that pooper man spandex its
+                    a privilege not a right
+
+int meeting hall
+
+        a 12step recovery group addicts including joey
+        pardella sit in a semicircle
+
+                                vickie
+                    hi my name is vickie and im an addict
+
+                                hank
+                    hi my name is hank and uh im an addict
+
+                                joey
+                                smoking
+                    uh my names joey but uh im not an addict
+
+        joey takes a drag the group reacts indignantly
+
+                                joey
+                    nono really really listen listen to this
+                    i got in trouble with my computer right
+                    okay and my lawyer told the judge that im an
+                    addict but im not addicted to my computer
+                    no really really
+
+        joey takes another drag
+
+                                joey
+                    im not an addict im not im not
+
+        joey downs his coffee
+
+                                joey
+                    can i get some more coffee
+
+int kates bedroom
+
+        phreak is checking out kates computer
+
+                                phreak
+                    yo check this out guys this is insanely
+                    great its got a 288 bps modem
+
+                                dade
+                    yeah display
+
+                                cereal
+                    active matrix man a million psychedelic
+                    colors man baby sweet ooo
+
+                                nikon
+                    i want it
+
+                                phreak
+                    i want it to have my children
+
+                                cereal
+                    yeah i bet it looks crispy in the dark
+
+                                phreak
+                    yo hit the lights
+
+                    dade hits the lights the four ooo and ahh at
+                    its graphics kate and curtis walk into the
+                    room and hit the bed unaware of the hackers
+                    in the corner by her laptop
+
+                                dade
+                                whispering
+                    shit
+
+                                cereal
+                    shh
+
+                                dade
+                    was that her top
+
+                                phreak
+                    onehanded
+
+                                cereal
+                    difficulty rating
+
+                                nikon
+                    seven wow burns wetware matches her
+                    software
+
+                                dade
+                                loudly
+                    burn
+
+        their cover is blown
+
+                                nikon
+                    what the f
+
+        cereal hides under the desk
+
+                                kate
+                    hey what are you guys doing in here
+
+                                phreak
+                    im sorry were sorry just checking out your
+                    fly laptop
+
+                                nikon
+                    yeah its hyped you know youre in the
+                    butter zone now baby
+
+                                phreak
+                                smiling
+                    uhhuh
+
+                                kate
+                                her tone changing
+                    yeah it is
+                                she comes over to it
+                    i wanna triple the ram
+
+                                curtis
+                    oooh leopard boy and the decepticons uh
+                    kate kate youre not going into that
+                    computer shit now right
+
+        kate barely acknowledges him
+
+                                curtis
+                                cynically
+                    humm yeah
+
+        curtis leaves
+
+                                cereal
+                                mockingly
+                    right
+
+                                dade
+                    the sensitive type
+
+        kate finally notices that dade whom she didnt invite is at her
+        party and in her bedroom
+
+                                kate
+                    what is he doing in here
+
+                                phreak
+                    relax burn hes my guest
+
+                                dade
+                    burn youre acid burn you booted me out of
+                    otv
+
+                                kate
+                    what
+
+                                dade
+                    im crash override
+
+                                kate
+                    youre the moron thats been invading my turf
+
+                                cereal
+                    whoa whowhowhowhoa
+                                motioning to dade
+                    crash
+                                motioning to kate
+                    and burn
+
+        cereal breaks into hysterics
+
+int plagues loft
+
+        plague is hacking
+
+                                margo
+                    murphy kid turn you down
+
+                                plague
+                                in a hammy southern accent
+                    i disguised myself as an alabama state trooper
+                    and penetrated the fbi ncic
+
+                                margo
+                    pervert what are you talking about
+
+        she turns her back to him he does up the zipper on her
+        dress their relationship becomes apparent
+
+                                plague
+                    the fbi computer holds files on twenty million
+                    americans  i just hacked into it
+
+                                margo
+                    congratulations
+
+                                plague
+                    from here i got access to every piece of data
+                    ever stored on dade murphys parents his
+                    parents separated five years ago reconciled
+                    two years later filed for divorce last year
+                    custody battle boy chose to go with his
+                    mother hmm
+
+                                margo
+                    so
+
+                                plague
+                    so we get the mother we get the boy
+
+int kates room
+
+        kates room is empty and dade cant resist going back in
+        to play with her laptop which far outclasses his own
+        some more on the balcony kate notices and comes back
+        in
+
+                                kate
+                    what the hell are you doing
+
+                                dade
+                    its cool im just looking
+
+                                kate
+                    its too much machine for you
+
+                                dade
+                    yeah
+
+        dade starts working furiously on it
+
+                                kate
+                    i hope you dont screw like you type
+
+        dade slows to a twofinger keypoke not missing a beat
+
+                                dade
+                    it has a killer refresh rate
+
+                                kate
+                    p6 chip triple the speed of the pentium
+
+                                dade
+                    yeah its not just the chip it has a pci
+                    bus but you knew that
+
+                                kate
+                    indeed risc architecture is gonna change
+                    everything
+
+                                dade
+                    yeah risc is good
+
+        they uncomfortably exchange glances
+
+                                dade
+                    you sure this sweet machines not going to
+                    waste
+
+                                kate
+                    crash override what was it mess with the
+                    best die like the rest
+
+                                dade
+                    yeah
+
+                                kate
+                    are you challenging me
+
+                                dade
+                    name your stakes
+
+                                kate
+                    if i win you become my slave
+
+                                dade
+                                intrigued
+                    your slave
+
+                                kate
+                                realizing his mind is in the
+                                gutter
+                    you wish youll do shit work scan crack
+                    copyrights whatever i want
+
+                                dade
+                    and if i win
+
+                                kate
+                                giggles
+                    make it my first born
+
+                                dade
+                    make it our first date
+
+                                kate
+                    youre not gonna win
+
+                                dade
+                    and you have to smile
+
+                                kate
+                    i dont do dates but i dont lose either so
+                    youre on
+
+montage scenes of dade and kate preparing for the challenge
+
+                                phreak
+                                voice over
+                    so heres the deal the chosen contest to
+                    hassle secret service agent richard gill and
+                    get one back for joey
+
+        dade spray paints camouflage onto his keyboard
+
+                                nikon
+                    our decisions are final by a vote of 2 to 1
+                    no appeals
+
+        kate rifles through her address book
+
+                                cereal
+                    the duel will last until we declare a winner
+
+        dade plays quickdraw with disks
+
+                                phreak
+                    use only the dialups access codes and
+                    passwords in your collection cant ask for
+                    any help from us
+
+        dade having mastered the quickdiskdraw in the mirror
+        looks satisfied
+
+                                dade
+                                into mirror
+                    talking to me
+
+        all five are together at the beginning of the challenge
+
+                                phreak
+                    any questions
+
+                                kate
+                    yeah whose gonna notify his next of kin
+
+        dade and kate shake hands and the challenge begins
+
+ext new york city public phone
+
+        at a public phone kate hacks into concourse bank looks
+        up richard gill and has his credit card maxed out
+        destroy card is the final instruction the other
+        hackers look on
+
+int restaurant
+
+        a waiter runs a credit card through a validation machine
+        sees the message and returns to the patrons table it is
+        richard gill right there the waiter chops the
+        mastercard in two with a pair of scissors to gills
+        horror
+
+ext new york city public phone
+
+        dade hacks into an electronic personal ads system and
+        changes an ad
+
+                                kate
+                    alright hes in the personal ads
+                                reading dades ad
+                    disappointed white male crossdresser looking
+                    for discreet friend to bring dreams to
+                    reality leather lace and water sports
+                    transvestites welcome
+
+int gills office
+
+        at his office gill is on the speaker phone with someone
+        responding to the ad
+
+                                gill
+                    i i i know where you can stick it i
+                    know where you can stick it
+
+        gill punches a button on the phone another caller comes
+        on
+
+                                caller
+                    wanna lick your earlobes i wanna lick
+                    your lips i wanna lick your toes i
+                    wanna lick your ankles
+
+                                gill
+                    awww yeah you wanna lick something lick this
+
+        gill punches another button another caller comes on
+
+                                caller
+                    thats why they call me stallion
+
+                                gill
+                    aw thats disgusting
+
+        gill punches another button
+
+                                caller
+                    my heart is steaming for you
+
+        gill punches another button he is becoming quite flustered
+
+                                caller
+                    spank you with my
+
+                                gill
+                    aww spank your ass
+
+        he punches another button
+
+        another caller comes on and gill hangs up the phone
+        disgusted offended and distraught the plague is there
+        witnessing the whole thing
+
+                                plague
+                    animal
+
+ext empire state bulding observation deck
+
+        its kates turn kate is hacking into the department of
+        motor vehicles she adds 113 traffic violations and dui
+        offender status to gills record
+
+ext new york city busy street
+
+        gill is being arrested quite forcefully by a nyc police
+        grunt  he is thrown onto the hood of his car and
+        handcuffed
+
+                                gill
+                     hey hey ow do you know who i am do you
+                     know who i am
+
+ext chinatown public phone
+
+        dades turn he hacks into the secret services personnel
+        file and changes gills status to deceased
+
+int gills office
+
+                                employee
+                                on phone
+                    this is accounting sir you enquired about
+                    an employee of ours an agent richard gill
+
+                                gill
+                    yes
+
+                                employee
+                    our records indicate hes deceased
+
+                                gill
+                    im what
+
+int cyberdelia
+
+        the five are playing pool
+
+                                dade
+                    dead
+
+                                phreak
+                    dead
+
+                                dade
+                    yeah like rigor mortis habeas corpus
+
+                                nikon
+                    very impressive
+
+                                cereal
+                    super hero like even
+
+                                kate
+                    yeah whatever whats the score
+
+        phreak clicks the pool scoreboard so it says 60  60
+
+                                phreak
+                    tie
+
+        the other four protest
+
+                                phreak
+                    due to mr gills untimely demise and
+                    everything i guess you two will have to
+                    improvise the next round
+
+                                dade
+                    right if i win you wear a dress on our
+                    date
+
+                                kate
+                    and if i win so do you
+
+        dade thinks about it a second
+
+                                dade
+                    deal
+
+        kate gives dade a look that says im going to hold you to
+        that
+
+int kates bed night
+
+        a shapely figure wearing a red leather legless suit with a
+        zipper that goes all the way around the crotch hands
+        caress the sultry figure as the camera pans up the body
+        belongs to dade murphy
+
+        kate wakes up gasping  it was only a dream she pants
+        and regains her breath then she smiles she enjoyed
+        that dream
+
+                                kate
+                    oooohhhh
+
+int high school hallway
+
+                    kate at her locker stops dade
+
+                                kate
+                    dade i didnt know your size so i guessed
+
+        she opens her locker to reveal a red leather bustier and
+        bikini bottom
+
+                                kate
+                    you are man enough to stick with the deal
+                    arent you
+
+        dade walks off
+
+int dades place
+
+        dade signs an electronic pad for a package from ups he
+        takes the package
+
+                                dade
+                    thanks
+
+        he closes the door and opens the package it is a laptop
+        computer clear plastic shell full colour screen very
+        highend perhaps the equal to kates machine he turns
+        it on the plagues face distorted appears it speaks
+
+                                plague
+                    you wanted to know who i am zero cool well
+                    let me explain the new world order
+                    governments and corporations need people like
+                    you and me we are samurai the keyboard
+                    cowboys and all those other people out there
+                    who have no idea whats going on are the
+                    cattle mooo i need your help you need my
+                    help let me help you earn your spurs ahh
+                    think about it enjoy the laptop cool
+                    tell me where the disk is
+
+        plagues face vanishes
+
+int joeys room
+
+        joey lies on his bed with a comic book looking
+        despondent his mother enters
+
+                                joeys mom
+                    you look pitiful okay okay youre not
+                    grounded anymore
+
+        she kisses his forehead and leaves he springs back to
+        life gets up and gets the disc from where he stashed it
+        in the air vent
+
+ext park
+
+        joey is nervously waiting on a park bench phreak arrives
+        agents ray and bob still have joey staked out
+
+                                phreak
+                    yo whats up
+
+                                joey
+                    dude dude dude i gotta talk to you a minute
+                    listen listen listen i copied a garbage file
+                    from
+
+                                phreak
+                    big deal a garbage files got shit in it
+                    joey come on
+
+                                joey
+                    nono its like hot or something i dont know
+
+                                phreak
+                    joey a garbage file holds miscellaneous data
+                    junk bits of stuff thats been erased man
+
+                                joey
+                    i copied it from ellingson okay theyre
+                    asking me about it alright will you take a
+                    look for me
+
+        joey hands phreak the disc agent bob is taking pictures
+        and phreak notices
+
+                                phreak
+                    oh shit joey youve got a tail
+
+        joey sees and runs for it
+
+                                joey
+                    shit
+
+        the agents split up one runs after joey the other after
+        phreak
+
+int high school boys room
+
+        phreak has lost his tail he puts joeys disc behind a
+        condom machine in the boys room at school and sticks it
+        there with gum
+
+int phreaks room
+
+        phreak frantically destroys all records of his hacking
+        career he knows hes about to be busted
+
+dream sequence
+
+        the secret service is about to burst in on phreak he
+        still hasnt destroyed any records and starts manically
+        going through everything gill is on his laptop screen
+
+                                gill
+                    im watching you
+
+int phreaks room morning
+
+        a knock on the door phreak awakes its his mother
+
+                                phreaks mom
+                    ramon wake up ramon wake up vamano
+                    time for school come on
+
+        the secret service bursts in through the window just as
+        phreaks mom opens the blind she screams phreak leaps
+        to his feet
+
+                                agent
+                    secret service dont move
+
+                                phreak
+                    deja vu
+
+                                agent bob
+                    ray sanchez you are under arrest under the
+                    computer fraud and abuse act of 1986
+
+        phreaks mom becomes very angry and starts slapping
+        phreak cursing in spanish
+
+                                phreak
+                    what are you waiting for arrest me already
+
+int police station lockup
+
+        the undersized phreak is just a morsel to the hardened
+        thugs behind these bars and they taunt him viciously as he
+        is led to his one phone call
+
+                                cop
+                    you get one call uno understand
+
+        the cop locks the dial on the phone
+
+        phreak waits for the cop to leave and hangs up he
+        starts rapidly pushing the hangup hook and he hears a
+        ringing tone
+
+                                operator
+                    hello operator services
+
+                                phreak
+                    hello operator im having trouble dialing a
+                    number
+
+                                operator
+                    what number please
+
+                                phreak
+                    5554202
+
+                                operator
+                    just one moment
+
+                                phreak
+                    thank you
+
+        kate answers
+
+                                kate
+                    hello
+
+                                phreak
+                    hey its me
+
+                                kate
+                    phreak
+
+                                phreak
+                    im freaking joey wasnt making it up he
+                    really hacked into ellingson he gave me the
+                    disc with a file he copied and now im in
+                    jail theyre charging me with some serious
+                    shit and theres stuff i didnt even do
+                    like inserting some virus called da vinci and
+                    they keep asking about you guys
+
+                                kate
+                    you think theyre going to bust us
+
+                                phreak
+                    yeah you better figure out whats on that
+                    disc cause were being framed its in that
+                    place where i put that thing that time
+
+        he hangs up just as the cop returns
+
+int school boys room
+
+        kate is entirely out of place in the boys room as the
+        boys look on amusedly  she finds the disc behind the
+        condom machine and pockets it then she buys a condom from
+        the machine and struts out smiling sweetly hot as fire
+
+int dades place
+
+        kate knocks mrs murphy lets kate and cereal in
+
+                                mrs murphy
+                    hi
+                                looking kate over
+                    well now i see what all the fuss is about
+                                she shows them to dades room
+                    dade you have company
+
+                                cereal
+                    its a nice room
+
+                                kate
+                    we need your help
+
+                                dade
+                    do my ears deceive me
+
+        kate starts to leave
+
+                                cereal
+                    nonononono truce you guys listen we got
+                    a higher purpose here alright a wake up
+                    call for the nintendo generation we demand
+                    free access to data well it comes with some
+                    responsibility when i was a child i spake
+                    as a child i understood as a child i thought
+                    as a child but when i became a man i put away
+                    childish things
+                                pause
+                    what its corinthians i chapter 13 verse
+                    11 no duh come on
+
+                                kate
+                    phreak and joey are being framed we need
+                    your help to figure out whats on this disc
+
+                                dade
+                    i cant everybody who touches that thing
+                    gets busted i cant afford to get arrested
+                    im sorry
+
+                                cereal
+                    maybe i should just go to the bathroom or
+                    something
+
+        cereal leaves the room
+
+                                kate
+                    what is it with you i know weve been
+                    playing games but were supposed to be on
+                    the same side and we really need your help i
+                    really need your help
+
+                                dade
+                    im sorry i cant
+
+                                kate
+                    well could you just make a copy of the disc
+                    and just hide it in case we get busted so we
+                    have something to give our lawyers something
+                    that hasnt been tampered with can you do
+                    that
+
+        a knock on the door dades mom peeks in
+
+                                mrs murphy
+                    listen you guys help yourself to anything in
+                    the fridge cereal has
+
+        she leaves
+
+                                kate
+                                to mrs murphy
+                    thank you
+
+                                dade
+                    okay ill copy it
+
+                                kate
+                    okay thank you
+
+        later  plague phones dade plague has lauren murphys
+        records on his screen
+
+                                plague
+                    the girl the girl has the disc i need
+
+                                dade
+                    i told you i dont play well with others
+
+                                plague
+                    turn on your laptop set it to receive a
+                    file
+
+        dade does
+
+        an extensive criminal record with a strange womans
+        picture comes up the strange woman transforms into
+        dades mother
+
+                                plague
+                    lauren murphy is now a wanted felon in the
+                    state of washington forgery embezzlement
+                    two drug convictions plus she jumped parole
+                    when shes arrested she will not have a
+                    trial she will not pass go she will go
+                    directly to jail then i change this file
+                    back to the original and your mom disappears
+
+                                dade
+                    thats bullshit
+
+                                plague
+                    what can i tell you computers never lie
+                    kid your mom will be arrested at work
+                    shell be handcuffed and later strip
+                    searched
+
+                                dade
+                    you lay a finger on her and ill kill you
+
+                                plague
+                    kid dont threaten me there are worse
+                    things than death and uh i can do all of
+                    them
+
+        dade emerges from his room his exhausted overworked
+        mother is asleep on the couch he pulls a blanket over
+        her
+
+ext public phone wet street night
+
+        shortly after dade is outside on a payphone
+
+                                plague
+                    talk to me
+
+                                dade
+                    i got it but listen kate didnt know whats
+                    on it i mean she came to me to figure it
+                    out shes not the one who planted the virus
+                    you leave her alone
+
+                                plague
+                    hey dont worry kid if shes innocent
+                    shell be fine your mommys safe now okay
+
+        dade hangs up and waits for some time  a limousine drives
+        by with a skateboarder tailing plague grabs the disc
+        jumps in the limo and speeds away dade tries to chase
+        but gives up quickly
+
+int kates room
+
+        dade shows up  kate nikon and cereal are working on the
+        disc
+
+                                dade
+                    kate listen
+
+                                kate
+                    uh hold on
+
+                                dade
+                    i have to tell you something
+
+                                cereal
+                    hold on a second
+
+                                nikon
+                    look at this its so lean and clean
+
+                                cereal
+                    looks like a hacker wrote it
+
+                                kate
+                    come here look at this this thing is dense
+
+        nikon points out part of the code
+
+                                nikon
+                    but thats ill man its incomplete this
+                    is taking forever and a day to figure out
+                    im gonna make some coffee
+
+        dade takes nikons place
+
+                                cereal
+                    tag youre in
+
+        hours pass dade studies and reverse engineers the
+        garbage file the other hackers watch and do just about
+        anything but be hackers finally over boxes of
+        halffinished pizza dade makes an announcement
+
+                                dade
+                    this isnt a virus its a worm
+
+                                nikon
+                    whats this one eat
+
+                                dade
+                    it nibbles you see this
+
+        dade indicates a rapidly scrolling data display
+
+                                dade
+                    this is every financial transaction ellingson
+                    conducts yeah from million dollar deals to
+                    the ten bucks some guy pays for gas
+
+                                kate
+                    the worm eats a few cents from each transaction
+
+                                dade
+                    and no ones caught it because the money isnt
+                    really gone its just data being shifted
+                    around
+
+                                kate
+                    right and when the worms ready it zips out
+                    with the money and erases its tracks
+
+                                dade
+                    joey got cut off before he got to that part
+                    check it out by this point its already
+                    running at what twice the speed as when it
+                    started
+
+                                kate
+                    right and at this rate it ends its run in
+
+                                nikon
+                    two days
+
+                                dade
+                    and judging by this segment alone its
+                    already eaten about
+
+                                cereal
+                    218 million bucks man
+
+        nikon whistles
+
+                                kate
+                    whoever wrote this needs somebody to take the
+                    fall and thats phreak and thats joey and
+                    thats us weve got to get the rest of the
+                    file so we can find out where the money is
+                    going before the worm disappears so we can
+                    find out who created it
+
+                                dade
+                    i know i know who wrote it
+
+                                kate
+                    what
+
+                                dade
+                    this ellingson security creep i gave him a
+                    copy of the disc you gave me
+
+                                kate
+                    you what
+
+                                dade
+                    i didnt know what was on it
+
+                                cereal
+                                agitated
+                    oh man thats universally stupid man
+
+                                nikon
+                    yo man you an amateur man
+
+                                kate
+                    why did he come to you
+
+                                dade
+                    i got a record i was zero cool
+
+                                nikon
+                    zero cool crashed fifteen hundred and seven
+                    systems in one day
+
+        nikon closes his eyes and access his photographic memory
+
+                                nikon
+                    biggest crash in history front page new
+                    york times august 10th 1988 i thought
+                    you was black man yo man this is zero
+                    cool oh shit
+
+                                cereal
+                    thats far out
+
+                                nikon
+                    this is zero cool man whooo haha
+
+                                kate
+                                coldly
+                    well thats great there goes mit
+
+                                dade
+                    ill make it up to you
+
+                                kate
+                    how
+
+                                dade
+                    ill hack the gibson
+
+                                nikon
+                    theyll trace you like that
+                                snaps his fingers
+                    man cops are gonna find you theyre
+                    gonna find you with a smoking gun
+
+                                dade
+                    fucked if i care man
+
+                                nikon
+                    look even if you had the passwords itll
+                    take you ten minutes to get in and youve
+                    still gotta find the files man i mean the
+                    cops will have you in five minutes
+
+                                cereal
+                    oh wow we are fried
+
+                                kate
+                                suddenly lighterhearted
+                    never send a boy to do a womans job with
+                    me we can do it in seven
+
+                                cereal
+                    youre both screwed i help we can do it in six
+
+                                nikon
+                    jesus i gotta save all your asses i help
+                    we can do it in five minutes man
+
+                                dade
+                    okay lets go shopping
+
+                                cereal
+                    woo hoo boom
+
+ext outside ellingson building
+
+        dade and kate cut through a chain link fence and jump into
+        a dumpster at ellingson kate lands on dade
+
+                                dade
+                    you know if i didnt live by a strict code of
+                    honor i might take advantage of this
+                    situation  erotically as it were
+
+        kate fishes around in her pants never breaking eye
+        contact with dade she pulls out a flashlight they
+        start trashing they get up to leave and are spotted by a
+        security guard
+
+                                guard
+                    alright hold it right there
+
+        kate pulls out a flare gun and fires it at the security
+        guard  he ducks
+
+                                dade
+                    shit
+
+                                kate
+                    its my subway defense system
+
+ext new york city street
+
+        nikon is staring down a manhole cereal is fishing through
+        an adjacent phone company truck
+
+                                nikon
+                    hes way down there
+
+        cereal emerges with a beltload of equipment and a hard hat
+        but he forgot the most important thing
+
+                                cereal
+                    tada
+
+                                nikon
+                    yo brain dead the manual
+
+        cereal goes back to the truck and gets a thick manual the
+        phone company technician comes up from the manhole
+
+                                phone company tech
+                    hey
+
+                                cereal and nikon
+                                in unison pointing down the street
+                    truck
+
+        the phone company tech jumps back in the hole cereal and
+        nikon take off
+
+int secret service bulding
+
+        a woman is seated at the desk  agent gill walks by
+
+                                woman
+                    find it
+
+        cereal emerges from the desk between her legs his tool
+        belt dangles obscenely from his crotch
+
+                                cereal
+                    phones alright the problem must be
+                    somewhere else
+
+        cereal walks away with his buttcrack seriously showing
+
+int ellingson mineral offices
+
+        nikon poses as a flower delivery boy he winds his way
+        through the offices of ellingson mineral shoulder
+        surfing watching the workers entering passwords his
+        photographic memory captures everything  the plague walks
+        past him noticing briefly but not making the connection
+
+int plagues loft
+
+        the da vinci virus launchcancel prompt is up
+
+                                margo
+                                pacing
+                    they had a large chunk of the garbage file
+                    how much do they know
+
+                                plague
+                    not everything but enough to implicate us
+
+                                margo
+                    you said the worm was untreaceable
+
+                                plague
+                    yeah to civilians but theyre hackers
+                    but dont worry all we have to do is launch
+                    the da vinci virus and then theyll all be
+                    put away
+
+                                margo
+                    launch the da vinci virus you cant do that
+
+                                plague
+                    no one believes the guilty besides by the
+                    time they realize the truth well be long
+                    gone with all of our money
+
+        margo starts to protest
+
+                                plague
+                    look there is no right and wrong  there is
+                    only fun and boring a thirty year prison
+                    sentence sounds pretty dull to me  who do you
+                    prefer serves it us or them
+
+        plague clicks on launch the virus repeats its demand
+
+                                virus
+                    unless five million dollars are transferred to
+                    the following numbered account in seven days
+                    i will capsize five tankers in the ellingson
+                    fleet
+
+ext open sea
+
+        as the virus speaks a supertanker sails on a choppy sea
+
+int plagues loft
+
+        plague leaves a message on gills answering machine
+
+                                plague
+                                sternly
+                    the virus goes off tomorrow morning at 1030
+                    and those hackers tried to get into our system
+                    again at this point i insist you take more
+                    strenuous action or ellingson mineral will
+                    hold the secret service responsible
+
+        gill gets on the phone
+
+                                gill
+                                grimly
+                    get me arrest warrants on kate libby alias
+                    acid burn emmanuel goldstein alias cereal
+                    killer dade murphy alias crash override
+                    also known as zero cool and paul cook alias
+                    lord nikon we pick them up tomorrow morning
+                    at nine oclock
+
+        as gill gives the order a mysterious device under his
+        desk blinks cereal put it there
+
+int nikons place
+
+        nikon and cereal taped gills orders
+
+                                cereal
+                    snoop onto them
+
+                                nikon
+                    as they snoop onto us
+
+        nikon calls kate
+
+                                kate
+                    yeah its kate
+
+                                nikon
+                    hey burn we got a little problem here
+
+int subway
+
+        cereal nikon dade and kate skate through a run down
+        subway platform and get on the a train they go over
+        the results of their password gathering spree
+
+                                kate
+                    alright so what have we got
+
+                                dade
+                    well we have fifty passwords plus whatever
+                    polaroid head here got inside ellingson
+
+                                nikon
+                    well i got a lot alright i dont know how
+                    many but my head hurts
+
+                                cereal
+                    yo everyone check this out hey whats the
+                    da vinci virus
+
+                                dade
+                    what
+
+                                cereal
+                    check this out its a memo about how theyre
+                    gonna deal with those oil spills that happened
+                    on the fourteenth
+
+                                kate
+                    what oil spills
+
+                                nikon
+                    whoa whoa yo braindead today is the
+                    thirteenth
+
+                                cereal
+                    well this hasnt happened yet
+
+                                kate
+                    wait a minute the fourteenth thats the same
+                    day the worm ends its run  i mean da vinci
+                    virus didnt phreak say thats what he was
+                    being charged with look
+                                quotes the memo
+                    infecting ballast programs of ellingson
+                    tankers  they blame hackers
+
+                                nikon
+                                angry
+                    damn
+
+                                cereal
+                    a worm and a virus the plot thickens
+
+        kate gets ready to get off the subway
+
+                                nikon
+                    whoa whoa whoa whoa where are you going
+                    huh
+
+                                kate
+                    i got an idea weve got a few hours right
+                    till we get arrested so just stay low im
+                    gonna go get some help ill beep you okay
+                                to dade
+                    are you coming
+
+        dade gets up
+
+                                cereal
+                    may the force be with you man
+
+int industrial dance club
+
+        weird music plays lots of weird people dance  razor and
+        blade are on stage dancing in front of a huge speaker
+
+                                kate
+                    there they are
+
+                                dade
+                    razor and blade theyre flakes
+
+                                kate
+                    theyre elite lets get em
+
+        dade and kate push through the crowd the song changes to
+        a fast industrial rap number razor and blade leave the
+        stage and dade starts getting moshed he climbs on the
+        stage to follow razor and blade for his trouble he is
+        thrown back onto the crowd who pass him around overhead
+
+        finally the crowd lets him go  he catches up with kate
+
+                                kate
+                    i lost em where were you
+
+        dade tries to explain but is at a loss for words
+
+        they make their way to the entrance to razor and blades
+        lair video monitors are everywhere
+
+                                dade
+                    i dont like this
+
+        a robotic arm with a revolver swings around to point at
+        dade
+
+                                dade
+                    aaaaaugh i definitely dont like this
+
+                                blade
+                                through video intercom
+                    what do you want
+
+                                dade
+                    ummm we come in peace
+
+        dade winces at his own corniness
+
+                                kate
+                    we need your help  if youre up to it
+
+                                razor
+                    shes buff ballsy
+
+                                blade
+                    lets keep her
+
+                                razor
+                    waste the dude
+
+        the gun goes off its only a cigarette lighter no one
+        can accuse razor and blade of not having a sense of humor
+
+int razor and blades place
+
+                                kate
+                    a virus called da vinci will cause oil spills
+                    at 1030 am eastern time tomorrow
+
+                                dade
+                    its somehow connected with the worm thats
+                    stealing the money
+
+                                kate
+                    we need your help to overload the gibson so we
+                    can kill the da vinci virus and download the
+                    worm program
+
+                                razor
+                    shes rabid but cute
+
+                                blade
+                    see were very busy a tv network that
+                    wishes to remain nameless has expressed an
+                    interest in our show
+
+                                dade
+                                noticing the stench of sellout
+                    lets go kate
+
+                                razor
+                    wait nobody said no but you are going to
+                    need more than just two media icons like us
+                    you need an army
+
+                                blade
+                    thats it an electronic army if i were us
+                    id get on the internet send out a major
+                    distress signal
+
+                                razor
+                    hackers of the world unite
+
+                                blade
+                    how are you going to take care of the cops
+
+        dade just smiles
+
+int dades room
+
+        dade hacks into the city traffic light control system
+        suddenly there is gridlock on the streets of new york
+        city
+
+ext central park
+
+        nikon is playing chess against two hassidic jews
+        cereals beeper goes off it displays the message
+
+                       grand central
+                       hack the planet
+
+                                cereal
+                    yo im blowing up its kate grand
+                    central lets hit it
+
+        nikon checkmates his opponent and the two leave
+
+        dade cereal nikon and kate skate through the streets
+        dades program to freeze all the traffic lights on green
+        runs on schedule at 90000 precisely picture new york city in
+        morning rush hour and every traffic light is green instant
+        gridlock ensues the four skate through the traffic easily while
+        the secret service now pursuing them is stuck gill punches a
+        parked car in frustration its alarm goes off
+
+int grand central station
+
+        the four hackers skate into grand central station and head
+        to the lowest level they meet up with joey
+
+                                cereal
+                    hey joey you made it
+
+int grand central public phones
+
+        the hackers are now setting up laptops at a bank of pay
+        phones  dade is wearing a pirate eye eyepiece
+
+                                kate
+                    now listen up use your best viruses to buy us
+                    time we have to get into plagues file and
+                    copy the worm
+
+        cereal screams
+
+                                cereal
+                    ai boom boom aiaiaiaiaee alright that was
+                    a little tension breaker that had to be done
+                    alright
+
+                                kate
+                    cereal
+
+                                cereal
+                    yeah
+
+                                kate
+                    go fix the phones
+
+                                cereal
+                    roger
+
+        cereal takes off to fix the phones
+
+                                kate
+                    joey take his place
+
+                                joey
+                    what me
+
+                                kate
+                    take his place man do it you can do it
+
+        joey takes cereals place
+
+                                kate
+                    ready
+
+                                dade
+                    yeah
+
+                                kate
+                    alright lets boot up
+
+        the four boot up their machines various vanity screens
+        come up on the laptops they begin to hack we see the
+        inside of the gibson viruses of all kinds begin to pour
+        in in the offices and data processing rooms the
+        ellingson staff are in pandemonium happy faces with eye
+        patches appear on their screens sit on my interface
+        shit for brains arf arf arf cookie monsters
+
+int computer room ellingson mineral
+
+        the big monitor shows the attack in progress
+
+                                margo
+                    what is it whats wrong
+
+                                plague
+                    nothing its just a minor glitch
+
+                                margo
+                    minor glitch with you seems to turn into a
+                    major catastrophe
+
+        the main screen is filled with
+
+             i want a cookie give me a cookie now
+
+                                hal
+                    theres a new virus in the database
+
+                                margo
+                    whats happening
+
+                                hal
+                    its replicating eating up memory what do i
+                    do
+
+                                plague
+                    type cookie you idiot ill head em off at
+                    the pass
+
+        another virus appears
+
+                                hal
+                    we have a zero bug attacking all the login and
+                    overlay files
+
+                                plague
+                    run antivirus give me a systems display
+
+        the systems display comes up red flashes everywhere
+        signifying new attacks plague presses a key
+
+                                plague
+                    die dickweeds
+
+                                hal
+                    the rabbit is in the administration system
+
+        rabbit icons start to fill the systems display
+
+                                plague
+                    send a flushot
+
+                                margo
+                    rabbit flushot someone talk to me
+
+                                hal
+                    a rabbit replicates till it overloads a file
+                    then it spreads like cancer
+
+                                margo
+                    cancer
+
+        the da vinci virus sings row row row your boat
+        tanker ballasts start filling  for real
+
+int grand central public phones
+
+                                kate
+                    its the gibson its finding us too fast
+
+                                dade
+                    man theres too many garbage files i need
+                    more time
+
+int computer room ellingson mineral
+
+                                plague
+                    theyre at grand central station lower level
+                    dont screw up
+
+ext gridlocked streets
+
+        the secret service and nypd are stuck  they turn around
+        and head for grand central station
+
+int grand central public phones
+
+        the public phone next to dades rings  dade answers
+        its the plague
+
+int computer room ellingson mineral
+
+                                plague
+                    games over last chance to get out of this
+                    without a prison sentence  youre not good
+                    enough to beat me you little shit
+
+int grand central public phones
+
+                                dade
+                    yeah maybe im not but we are you asshole
+
+int computer room ellingson mineral
+
+                                plague
+                    give it up just give it up
+
+int grand central public phones
+
+        kates phone rings its razor
+
+                                razor
+                    are we fashionably late
+
+        hackers in england italy japan russia everywhere
+        mobilize and start attacking the ellingson gibson the
+        english hacker looks and talks suspiciously like annie
+        lennoxs husband our heroes relentlessly search for
+        the right garbage file
+
+int computer room ellingson mineral
+
+                                sysop
+                    we have massive infection  multiple gpi and
+                    fsi viruses
+
+                                hal
+                    theyre coming in from remote nodes theyre
+                    going after the kernal
+
+                                margo
+                    colonel who
+
+                                hal
+                    the system command processor its the brain
+
+                                margo
+                    cancer brain brain cancer
+
+        duke ellingson arrives
+
+                                duke ellingson
+                    belford whats going on
+
+                                plague
+                    in short duke a shit storm
+
+int grand central station
+
+        dozens of armed secret service and swat troops push
+        through the crowded station looking for the hackers
+
+inside the computer
+
+        the garbage file lights up  the familiar psychedelic
+        swirl of equations and fractal graphics returns
+
+int grand central public phones
+
+                                dade
+                    i found it i found it
+
+int computer room ellingson mineral
+
+                                plague
+                    this is the end my friend
+                                smiling sickly
+                    thank you for calling
+
+int grand central public phones
+
+        dade is disconnected
+
+                                dade
+                    oh shit he got me
+
+                                nikon
+                    joeys getting stupid busy
+
+        the ss and swat are still closing in on the hackers
+
+                                dade
+                    joey i need you to drop your viruses go
+                    after the worm youre the closest
+
+        the ss and swat push through crowds
+
+                                dade
+                    its root slash period workspace slash
+                    period garbage period
+
+        the ss are nearly there
+
+        joey has found the file
+
+        the ss arrive  gill himself has his 357 drawn
+
+                                gill
+                    freeze
+
+        its an empty bank of payphones the receivers are linked
+        together and taped up no hackers they keep going
+
+                                gill
+                                pissed off but determined
+                    ahhh come on
+
+        joey completes the download
+
+                                kate
+                                to razor and blade
+                    kill the gibson
+
+                                razor
+                    roger that
+
+int computer room ellingson mineral
+
+                                plague
+                    come on you son of a bitch is that all you
+                    got huh come on lets see what else you
+                    can do you talking to me huh hahahaha
+                    are you nuts come at me
+
+        margo and duke are awed by plagues imminent failure and
+        total unprofessionalism
+
+                                hal
+                    theyre in the kernal
+
+                                da vinci virus
+                    help me
+
+        the da vinci virus dies the tankers stop capsizing and
+        right themselves
+
+                                woman
+                                off screen
+                    the tankers have stopped capsizing
+
+                                someone else
+                                off screen
+                    ballast tanks are emptying itll be okay
+
+        the main screen lights up
+
+                     arf arf
+                     we gotcha
+
+                     mess with the best
+                     die like the rest
+
+                                plague
+                    little pissant
+
+        the gibson dies in a flash of light
+
+int grand central public phones
+
+        the hackers cheer and congratulate each other
+
+                                nikon
+                    yes
+
+                                dade
+                    we did it
+
+                                kate
+                    lets get out of here
+
+                                gill
+                    freeze
+
+        the ss have caught up with the hackers agent bob seems to
+        be choosing which pore on which hackers face to blow away
+        first only joey thinks to put his hands up
+
+        as they are led away a handcuffed dade surrreptitiously tosses the
+        disc with the worm into a trashcan
+
+ext grand central station
+
+        outside he notices cereal who wasnt present to be
+        arrested he yells to the crowd but really is
+        addressing cereal
+
+                                dade
+                    theyre trashing our rights man theyre
+                    trashing the flow of data theyre trashing
+                    trashing trashing hack the planet hack
+                    the planet
+
+                                gill
+                    shut up and get in the car
+
+                                cereal
+                                understanding the hidden message
+                    hack the planet hack the planet
+
+int grand central station
+
+        later cereal is trashing through the garbage cans in
+        grand central station eventually he finds the disc
+        to cereals disgust it has gum stuck to it
+
+int gills office
+
+        gill phones the plague to report the successful takedown
+
+                                plague
+                    hello
+
+                                gill
+                    we caught em
+
+                                plague
+                    good
+
+                                gill
+                    red handed you wont be having any more
+                    trouble from them
+
+int plagues loft
+
+        at plagues place plague and margo toast with champagne
+        giggle and then scurry off to bed
+
+int gills office
+
+        dade and kate are there
+
+                                dade
+                    me alright i did it she knows shit about
+                    computers she shes just my girlfriend
+
+                                gill
+                                laughing
+                    i suggest you modify your attitude because
+                    you are floating and im about to flush your
+                    ass
+
+        the intercom beeps
+
+                                agent
+                    youve got a mrs murphy to see you sir
+
+        gill leaves
+
+                                kate
+                    are you crazy what are you doing
+
+                                dade
+                    im trying to help you
+
+        she pauses realizing his gesture
+
+                                kate
+                    dade
+
+                                dade
+                    what
+
+                                kate
+                    thanks for your help
+
+        dade turns on the intercom gill can be heard through it
+
+                                gill
+                                grimly
+                    your son is in big trouble he has violated
+                    his probation and he has engaged in criminal
+                    activity
+
+                                mrs murphy
+                    my son happens to be a genius he understands
+                    something happening today that you wont
+                    comprehend if you live to be a hundred and he
+                    would never use what he knows to harm a living
+                    soul
+
+        agent bob enters
+
+                                agent bob
+                    the news crew you requested is here
+
+                                mrs murphy
+                    oh good cause i have a few things to tell
+                    them
+
+                                gill
+                    your son is facing thirty felony counts in an
+                    ongoing investigation you face possible
+                    arrest if you do that
+
+                                mrs murphy
+                    mister i dont care if i face certain death
+
+                                gill
+                    mrs murphy stays right here
+
+                                kate
+                    oh wow shes great
+
+                                dade
+                    yeah
+
+int secret service offices
+
+        the news crew interviews gill
+
+                                reporter
+                    and attacked the ellingsons computer
+                    network is the last weve seen of this type
+                    of hightech espionage
+
+                                gill
+                    well im afraid not hackers are a grave
+                    threat to the national security this
+                    incident just proves without a doubt that we
+                    need increased funding to stop
+
+        nikon and joey are led in
+
+        the monitors cut into static then cereal appears
+
+                                someone
+                    that kid cut him off
+
+                                cereal
+                    hold on boys and girls it is i the cereal
+                    killer making my first coast to coast world
+                    wide global television appearance yes
+                    thats right im here to tell you about this
+                    heinous scheme hatched from within ellingson
+                    mineral
+
+        razor and blade busily work on keeping him on the air
+
+                                cereal
+                    but for what you ask world domination
+                    nay something far more tacky a virus called
+                    da vinci that when launched would cause
+                    ellingson mineral tankers to capsize was to be
+                    blamed on innocent hackers but this virus was
+                    really the smokescreen right what could be
+                    so vitally important to protect that someone
+                    would create such a nasty antisocial very
+                    uncool virus program
+
+        cereal is now seen and heard on the big screen in times
+        square
+
+                                cereal
+                    but why could it be to cover the tracks for
+                    this worm program a worm that was to steal 25
+                    million bucks the password for this hungry
+                    little sucker belongs to margo wallace head
+                    of public relations at ellingson mineral
+
+int plagues loft
+
+        margo watches this and sits bolt upright in bed
+
+                                margo
+                    oh my god
+
+                                cereal
+                                continuing
+                    and eugene belford computer security
+                    officer
+
+int secret service office
+
+                                gill
+                                finally understanding whats been
+                                going on all along
+                    son of a bitch
+
+                                cereal
+                                continuing
+                    whats this is this the unnamed account in the
+                    bahamas where the money was to be stashed i
+                    think so
+
+        an account number scrolls below cereals chin
+
+                                cereal
+                    yo i kinda feel like god
+
+        his voice echoes across the earth and among the
+        satellites
+
+                                margo
+                    plague
+                    eugene
+
+        almost supernaturally plague is already gone he was
+        right next to her stark naked in bed a second ago
+
+int secret service offices
+
+        the hackers embrace and congratulate each other again
+        lauren murphy hugs her son
+
+int police station womens lockup
+
+        margo wallace has been arrested and is being led into the
+        womens lockup some of the other women grab at her
+        expensive italian leather jacket as she is led to her cell
+
+                                margo
+                    i dont even know how to work a vcr let alone
+                    a computer get off look listen ill make
+                    a deal eugene belford i know where his
+                    mother is i promise you get offa me i need
+                    a lawyer
+
+int airliner cabin  in flight
+
+                                stewardess
+                    here you are mr babbage  flight time to
+                    tokyo should be about 14 hours today can i
+                    get you anything else
+
+        babbage is the plague in disguise he now appears about
+        60 years old
+
+                                plague
+                    just a pillow please
+
+        the pillow slides in behind his head he reaches up to
+        adjust it
+
+                                plague
+                    thank you
+
+        a handcuff snaps onto his wrist its gill
+
+                                gill
+                    youre welcome
+
+                                plague
+                    whats going on let go of me stewardess
+                    ill never fly this airline again
+
+ext new york city sidewalk night
+
+        dade and kate are on their date dade is smartly
+        somewhat androgynously dressed kate is heavily made up
+        and yes she is wearing a dress
+
+                                dade
+                    you look good in a dress
+
+                                kate
+                    you would have looked better
+
+                                dade
+                    wanna go for a swim
+
+ext rooftop swimming pool
+
+        dade and kate swimming fully clothed in a pool on a
+        roof
+
+                                kate
+                    i cant believe they decided you won
+
+                                dade
+                    they didnt the guys felt it was the only
+                    way id get a date anyway youre pretty
+                    good youre elite
+
+                                kate
+                    yeah you know if you would have said so in
+                    the beginning you would have saved yourself
+                    a whole lot of trouble
+
+        they look out at the skyline suddenly the lights in
+        three buildings change they spell out
+
+                    c         b
+                     r    a    u
+                      a    n    r
+                       s    d    n
+                        h
+
+        kate laughs honestly impressed
+
+                                dade
+                    beat that
+
+        kate continues laughing
+
+                                dade
+                    you know ive been having these really
+                    weird
+
+                                kate
+                                finishing his sentence
+                    dreams
+
+        they kiss passionately
+
+        the credits roll
+
+associate producer
+          selwyn roberts
+
+penn jillette as hal
+
+london casting
+          michelle guish
+
+unit production manager
+          selwyn roberts
+
+first assistant director
+          simon hinkly
+
+second assistant directors
+          jerry daly
+          steve robinson
+
+music supervisor
+          bob last
+
+visual effects supervisor
+          peter chiang
+
+supervising sound editor
+          glenn freemantle
+
+rerecording mixer
+          john hayward amps
+
+        dade and kate emerge from their underwater kiss the view
+        rises above the pool and into the night  fade to black
+
+                                       cast
+                                       
+                              dade   jonny lee miller
+                              kate   angelina jolie
+                              joey   jesse bradford
+                            cereal   matthew lillard
+                             nikon   laurence mason
+                            phreak   renoly santiago
+                        the plague   fisher stevens
+                     lauren murphy   alberta watson
+                             razor   darren lee
+                             blade   peter y kim
+                            curtis   ethan browne
+                             margo   lorraine bracco
+                   agent dick gill   wendell pierce
+                         agent bob   michael gaston
+                         agent ray   marc anthony
+                               hal   penn jillette
+                             laura   liza walker
+                     mr ellingson   bob sessions
+               ss agent seattle   blake willett
+                        young dade   max ligosh
+                          attorney   felicity huffman
+                    michael murphy   paul klementowicz
+                             judge   richard ziman
+                              norm   bill maul
+                              jock   william demeo
+                            denise   denise george
+                  freshmen on roof   jeb handwerger
+                                     mitchell nguyenmccormick
+                       mr simpson   gary klar
+                        joeys mom   terry porter
+             1st sysops technician   johnny myers
+             2nd sysops technician   kevin brewerton
+                   english teacher   sam douglas
+                          1st vp   kal weber
+                          2nd vp   jeff harding
+                    2nd ss agent   tom hill
+                          reporter   jennifer rice
+                       addict hank   douglas w iles
+                     addict vickie   annemarie zola
+                  tow truck driver   michael potts
+                      phreaks mom   nancy ticotin
+                   ellingson guard   mike cicchetti
+                   phone repairman   mick orourke
+                     london hacker   dave stewart
+                      tokyo hacker   naoko mori
+                    italian hacker   roberta gotti
+                   russian hackers   ravil isyanov
+                                     olegario fedoro
+                   news technician   eric loren
+                  flight attendant   kristin moreu
+                   second reporter   ricco ross
+                        jail guard   tony sibbaldi
+                    talk show host   richard purro
+                    da vinci virus   enzo junior
+                          3rd vp   yoshimori yamamoto
+                          4th vp   ralph winter
+                      receptionist   kimbra standish
+                      rollerblader   steven angiolini
+
+                             stunts  uk
+                             
+                        glen marks   andreas petrides
+                       nick powell   tony lucken
+                       jim dowdall   peter pedrero
+                        tom delmar   seon rogers
+
+                             stunts  us
+                             
+                 stunt coordinator   jerry hewitt
+                           stunt performers
+                    mike cicchetti   danny downey
+                     mick orourke   don picard
+                     jennifer lamb   mark webster
+
+                             cyberspirits and skaters
+                             
+                   jennifer badger   melissa barkan
+                     don j hewitt   christo morse
+                    felix santiago   christopher walker
+                              joseph lloyd
+
+               hacking consultants   jack hitt and paul tough
+
+                      art director   john frankish
+                     set decorator   joanne woolard
+            assistant art director   ben scott
+                   camera operator   mike proudfoot
+                      focus puller   david morgan
+                    clapper loader   john ferguson
+                       camera grip   tony turner
+              2nd camera assistant   andrew banwell
+                still photographer   mark tillie
+                 script supervisor   diana dill
+            production coordinator   jo bunn
+
+         chief lighting technician   john biggles higgins
+     assistant lighting technician   kevin edland
+                    rigging gaffer   wayne leach
+
+                  location manager   richard sharkey
+        assistant location manager   piers dunn
+
+        visual effects coordinator   tim field
+ senior visual effects technicians   andrew eio
+                                     justin owen
+                                     joe bruton
+          visual effects assistant   matthew kok
+
+             visual effects editor   martyn robinson
+           first assistant editors   steve maguire
+                                     fabienne rawley
+          second assistant editors   christian wheeler
+                                     julian pryce
+            third assistant editor   jonathan mann
+
+                   dialogue editor   philip alton
+              sound effects editor   peter baldock
+           assistant sound editors   timothy vine
+                                     keith lowes
+                                     ed stabile
+                      foley editor   polly aitken
+
+                        adr editor   peter elliott
+     assistant rerecording mixers   david anderson
+                                     richard pryke
+                       foley mixer   nic lemessunier amps
+
+                       sound mixer   peter lindsay
+                 sound maintenance   mervyn moore
+                   sound assistant   steve finn
+
+                      music editor   paul rabjohns
+       post production coordinator   jo human
+ post production music coordinator   gale wright
+
+        assistant costume designer   kate forbes
+               wardrobe supervisor   anne gorman
+                wardrobe assistant   abigail hicks
+         hair and makeup stylists   christine blundell
+                                     liz danauer
+         assistant makeup stylist   marese langan
+
+                  production buyer   john oshaugnessy
+                   property master   keith vowles
+                     prop storeman   brian west
+          changehand dressing prop   john moore
+                    dressing props   kevin wheeler
+                                     marion cole
+           changehand standby prop   joe dipple
+                      standby prop   stanley torbett
+                   props carpenter   paul lawlor
+
+              construction manager   craig hillier
+                 standby carpenter   richard jones
+                   standby painter   roy martin
+                    standby rigger   peter hawkins
+                 standby stagehand   david jones
+
+                 storyboard artist   jane clark
+
+          visual effects cameramen   ingrid domeij
+                                     mark gardiner
+                                     peter field
+                      focus puller   alex howe
+                    clapper loader   mark millsome
+
+           city of text model by   artem ltd
+                       modelmakers   robert thomas
+                                     adam howarth
+                                     bob thorne
+                                     julian eyres
+           motion control operator   martin kelly
+          motion control assistant   john duffy
+
+                   computer screens and graphics by
+                             research arts
+          art direction and design   simon staines
+                        consultant   neville brody
+                         animation   mike williams
+                                     tony campbell
+                                     shamshul rosunally
+                                     toby inwards
+                    office manager   fwa richards
+
+                            digital film at
+                       the moving picture company
+                computer animation   paul franklin
+                                     keith roberts
+                                     nigel hardwidge
+                                     jane ocallaghan
+                       programmers   peter grecian
+                                     simon robinson
+            digital visual effects   charlie noble
+                        production   matthew holben
+                                     alex hope
+                                     arthur windus
+
+                      optical  digital effects
+                      the magic camera company
+                  effects producer   antony hunt
+               effects coordinator   brenda coxon
+                 optical cameramen   andy jeffery
+                                     alan church
+         optical effects animation   helen ball
+       digital effects supervision   alan marques
+         digital effects animation   evan davies
+                                     richard scarlett
+                                     philippe montagny
+
+                          matte paintings by
+                         matte world digital
+                               marin ca
+           visual effects producer   craig barron
+ executive in charge of production   krystyna demkowicz
+         visual effects supervisor   chris evans
+                digital compositor   paul riviera
+             motion control camera   cameron noble
+                 effects editorial   martin matzinger
+                          key grip   todd smith
+
+                              opticals by
+                                  gse
+
+                   unit publicists   graham smith
+                                     julia jones
+             production accountant   tony miller
+             assistant accountants   sarah miller
+                                     justin miller
+         assistant to iain softley   gale wright
+       assistants to the producers   jo human
+                                     trip pierson
+             production assistants   donal heath
+                                     nick cornwell
+                                     paul ellison
+                                     jo sexton
+                                     kenny stewart
+                   2nd second ad   pippa harrison
+                     2nd unit ad   cordelia hardy
+  2nd unit director of photography   zoran djordjevic
+                 casting associate   barbara collins
+                 casting assistant   michelle arthur
+                 crowd coordinator   james fowlds
+                       draughtsman   andrew nicholson
+                junior draughtsman   ray chan
+         assistant to set director   eliza solesbury
+          art department assistant   hannah coupland
+                      video assist   penny skuse
+                          catering   anglia catering services
+                        unit nurse   sophie rayner
+                          security   lew morgan
+                     unit vehicles   micky webb
+                        facilities   luna
+                           drivers   phil allchin
+                                     maurice newsome
+                                     jeff oldman
+
+                             new york unit
+                             
+          unit production manager
+            1st assistant director   joel tuber
+            2nd assistant director   glen trodiner
+                      art director   chris shriver
+                     set decorator   alyssa winter
+                   camera operator   john sosenko
+            first assistant camera   gerrard sava
+           second assistant camera   pamela rittelmeyer
+                still photographer   jim bridges
+                             video   howard weiner
+                                     michael neil fallon
+                 script supervisor   martha pinson
+            production coordinator   michael boonstra
+     2nd second assistant director   dean garvin
+
+         chief lighting technician   michael palmer
+     assistant lighting technician   kevin janicelli
+                          key grip   billy miller
+                        dolly grip   david lowry jr
+
+                  location manager   nick bernstein
+        assistant location manager   isabelle kostiocrosby
+               assistant locations   laura barnett
+
+                     boom operator   tommy louie
+                             cable   alexandra baltarzuk
+
+     assistant to costume designer   dean bright
+              wardrobe supervisors   anne gorman
+                                     marcia patton
+                    makeup artist   bernadette mazur
+                      hair stylist   judith goodman
+
+                   property master   jeff butcher
+              first assistant prop   joann atwood
+           assistant set decorator   chandra kochie
+                    onset dresser   rochelle edelson
+        art department coordinator   crocus bever
+                     scenic artist   elizabeth linn
+                     draughtswoman   patricia woodbridge
+                          lead man   timothy metzger
+          construction coordinator   tom costabile
+construction foremankey carpenter   rudy pelikan
+                   special effects   steve kirshoff
+            transportation captain   jimmy nugent
+
+                    unit publicist   reid rosefelt
+  assistant production coordinator   j lauren buckley
+                        accountant   margaret ann mccourt
+             assistant accountants   ron wahl
+                                     holly rymon
+                    extras casting   judy fizler
+                     dialect coach   john tammi
+      computer hacking consultants   dave buchwald
+                                     emmanuel goldstein
+                                     pete hoyes
+                                     omar wason
+                 rollerblade coach   christo morse
+                     craft service   kitty witwer
+                      on set nurse   carolyn baxter
+
+                       the producers wish to thank
+                           apple computer inc
+                                  att
+                               radius inc
+                            jay presson allen
+                              william latham
+
+                     wipeout game from sony psygnosis
+                     for playstation  computer pc cds
+
+                   title design by   richard morrison
+                                     plume productions ltd
+
+                 title opticals by   capital fx
+                       color timer   tom gibson
+                    dts consultant   john taylor
+
+                 cookie monster is a jim henson muppet
+                      featured on sesame street
+             a production of childrens television workshop
+
+                       conscience of a hacker
+                        quoted with permission
+                         of loyd blankenship
+                        mentorblankenshipcom
+
+                         sound rerecorded at
+                           pinewood studios
+                            london england
+
+                lighting equipment by afm lighting ltd
+
+                            film processing
+                rank film laboratories london england
+                   duart film laboratories new york
+
+                      motion control equipment by
+                        granada television ltd
+
+                         filmed in panavision
+
+                            color by deluxe
+
+                        produced on kodak film
+
+        production services by united artists corporation ltd

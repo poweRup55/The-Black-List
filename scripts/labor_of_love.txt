@@ -1,0 +1,181 @@
+accountsupportlink fontfamily helveticaverdanaarialsans serif fontsize 11px fontweight bold color000066
+		visited fontfamily helveticaverdanaarialsans serif fontsize11px fontweight bold color000066
+		norm  fontfamily helveticaverdanaarialsans serif fontsize11px color 000066 
+		normbold  fontfamily helveticaverdanaarialsans serif fontsize11px color 000066 fontweight bold 		
+		footer  fontfamily helveticaverdanaarialsans serif color ffffff fontsize11px textdecorationnone
+		small  fontfamily helveticaverdanaarialsans serif fontsize11px 
+		smaller  fontfamily helveticaverdanaarialsans serif fontsize10px 
+		smallest  fontfamily helveticaverdanaarialsans serif fontsize7pt
+		header  fontfamily arialverdanasans serif fontsize11px color 000066 fontweight bold textdecorationnone 
+		footer  fontfamily helveticaverdanaarialsans serif fontsize11px color ffffff fontweight bold textdecorationnone 
+		breadcrumb  fontfamily helveticaverdanaarialsans serif fontsize11px 	
+		newslink fontfamily helveticaverdanaarialsans serif fontsize11px color0000ff		
+		title fontfamily helveticaverdanaarialsans serif fontsize13px color 000066 fontweightbold
+		error fontfamily helveticaverdanaarialsans serif fontsize13px colorff0000 fontweightbold
+		success fontfamily helveticaverdanaarialsans serif fontsize13px color0000ff fontweightbold
+		disclaimer  fontfamily helveticaverdanaarialsans serif fontsize9px color 555555 
+		sales fontfamily helveticaverdanaarialsans serif fontsize14px colorff0000 fontweightbold
+		pageheader  fontfamily arialverdanasans serif fontsize24px color 000066 fontweightbold
+		pagesubheader  fontfamily arialverdanasans serif fontsize14px color 000066 fontweightbold
+		quote  fontfamily helveticaverdanaarialsans serif fontsize12px color 000066 fontstyleitalic 	
+		navitems  fontfamily helveticaverdanaarialsans serif fontsize11px color ffffff fontweightbold textdecorationnone 				  
+	  
+		resellerbar  background 000066 colorffffff fontfamily helveticaverdanaarialsans serif fontsize11px fontweightbold
+		probar  background 000066 colorffffff fontfamily helveticaverdanaarialsans serif fontsize11px fontweightbold
+
+
+
+
+
+		
+		displaytable  background dddddd color 000066 fontfamily helveticaverdanaarialsans serif fontsize10px
+		displaytableheader  background ddddff color 000066 fontweight bold fontfamily helveticaverdanaarialsans serif fontsize10px 
+		bigdisplaytableheader  background ddddff color 000066 fontweight bold fontfamily helveticaverdanaarialsans serif fontsize16px 
+		displaytablespecial  background ddddff colorffffff fontweight bold textdecoration none fontfamily helveticaverdanaarialsans serif fontsize12px 
+		displaytablespecialcell  background dddddd color 000066 textdecoration none fontfamily helveticaverdanaarialsans serif fontsize11px 
+			
+
+
+		articleahead  fontfamily arialverdanasans serif fontsize24px color 000066 fontweightbold
+		articlebhead  fontfamily arialverdanasans serif fontsize12px color 000066 fontweightbold
+		articlebody  fontfamily helveticaverdanaarialsans serif fontsize11px color 000066
+		articlecaption  fontfamily helveticaverdanaarialsans serif fontsize12px color 000066 textdecorationitalic 
+		
+
+
+		appbody  fontfamily helveticaverdanaarialsans serif fontsize12px color 000066 		
+		appahead  fontfamily arialverdanasans serif fontsize18px fontweight bold textdecorationunderline color 000066 		
+		appbhead  fontfamily arialverdanasans serif fontsize14px fontweight bold textdecorationnone color 000066 background ddddff	
+		appchead  fontfamily helveticaverdanaarialsans serif fontsize12px fontweight bold color 000066 	
+		appcolhead  fontfamily helveticaverdanaarialsans serif fontsize10px fontweight bold textdecorationunderline color 000066 	
+		appcolbody  fontfamily helveticaverdanaarialsans serif fontsize10px color 000066 	
+		apphelptext  fontfamily helveticaverdanaarialsans serif fontsize10pxcolor 000066 	                  
+		appcaption  fontfamily helveticaverdanaarialsans serif fontsize10px color ffffff 	
+
+
+
+		instructionboxhead  fontfamily arialverdanasans serif fontsize11px color 000066 background 999999 fontweight bold 
+		promotionboxhead  fontfamily arialverdanasans serif fontsize11px color ffffff background ff0000 fontweight bold 
+		articleboxhead  fontfamily arialverdanasans serif fontsize11px color ffffff background 336699 fontweight bold 
+		marginboxhead  fontfamily arialverdanasans serif fontsize11px color 000066 background ddddff fontweight bold 
+		instructionbox  fontfamily helveticaverdanaarialsans serif fontsize11px background ffffff color 000066  
+		promotionbox  fontfamily helveticaverdanaarialsans serif fontsize11px background ffffff color 000066 
+		articlebox  fontfamily helveticaverdanaarialsans serif fontsize11px background ffffff color 000066 
+		marginbox  fontfamily helveticaverdanaarialsans serif fontsize11px background ffffff color 000066  
+
+		formfield   fontfamily helveticaverdanaarialsans serif fontsize11px color 000000  
+		formitem   fontfamily helveticaverdanaarialsans serif fontsize11px color 000000  
+		formbutton   fontfamily helveticaverdanaarialsans serif fontsize11px color 000000 
+		controlpanelitem   fontfamily helveticaverdanaarialsans serif fontsize11px color 000000  
+
+		resoldstandard  fontfamily arialverdanasans serif fontsize11px color 000066 background 666666 fontweight bold 
+		resoldpvtlabel  fontfamily arialverdanasans serif fontsize11px color 000066 background 999999 fontweight bold 
+
+		
+		
+		monitor  fontfamily arialverdanasans serif fontsize9px color 000066 		
+		ctrlpaneloutline  backgroundcolorddddff padding 1px 1px 1px 1px
+		ctrlpanelheader  backgroundcolorddddff fontfamily arialverdanasans serif fontsize11px color 000066 fontweight boldpadding 1px 1px 1px 1px
+		ctrlpanelfooter  backgroundcolorddddff
+
+		ctrlpanelsectionheader  backgroundcolorcccccc fontfamily arialverdanasans serif fontsize11 color 000066 fontweight bold 
+		ctrlpanelitem fontfamily helveticaverdanaarialsans serif fontsize11px color 000066  
+		oddrowcolor fontfamily helveticaverdanaarialsans serif fontsize11px color 000000   backgroundcolorffffff 
+		evenrowcolor fontfamily helveticaverdanaarialsans serif fontsize11px color 000000   backgroundcolore7e7e7 
+
+		
+		prodname   color 000000 fontfamily helveticaverdanaarialsans serif fontsize 14px fontweight bold 
+		proddescgray   color 3e3e3e fontfamily helveticaverdanaarialsans serif fontsize 11px 
+		prodprice  color 000000 fontfamily helveticaverdanaarialsans serif fontsize 12px 
+		prodhead fontfamily helveticaverdanaarialsans serif fontsize16px color000000 fontweightbold
+		prodbody fontfamily helveticaverdanaarialsans serif fontsize13px color000000
+		redsmall fontfamily arialhelveticasans serif fontsize14px colorff0000 fontweightbold
+		mybizlink fontfamily helveticaverdanaarialsans serif fontsize11px fontweight bold color0000ff
+		tabheader fontfamily helveticaverdanaarialsans serif fontsize11px color000066 fontweight bold textdecorationnone 
+		list  fontfamily helveticaverdanaarialsans serif fontsize11px color 000000 
+		small  fontfamily helveticaverdanaarialsans serif fontsize11px 
+		dirlink fontfamily helveticaverdanaarialsans serif fontsize11px fontweight bold color000000
+		twelvepx fontfamily helveticaverdanaarialsans serif fontsize12px color000000	
+		arrow fontfamily helveticaverdanaarialsans serif fontsize11px color000000 fontweight bold 
+		arrowbig fontfamily helveticaverdanaarialsans serif fontsize12px colorff0000 fontweight bold 
+		sponsor fontfamily helveticaverdanaarialsans serif fontsize11px colorffffff 
+		linkcoop fontfamily helveticaverdanaarialsans serif fontsize11px textdecorationnone color000099
+		
+		prodthank  color 000000 fontfamily helveticaverdanaarialsans serif fontsize 12px 
+		produse    color 000000 fontfamily helveticaverdanaarialsans serif fontsize 12px 
+		proddesc   color 000000 fontfamily helveticaverdanaarialsans serif fontsize 12px 		
+
+	
+
+	categorytitle backgroundcolorfafafa borderbottomstyle solid borderbottomcolor efefef borderbottomwidth 1px bordertopstyle solid bordertopcolor efefef bordertopwidth 1px fontfamily helveticaverdanaarialsans serif fontsize1em color000000 fontweightbold
+	categorytitle a fontsize1em color000000 fontweightbold textdecorationnone
+	categorytitle ahover color000066 textdecorationnone
+	categorytitle avisited fontsize1em color000000 fontweightbold textdecorationnone
+	categorytitle avisitedhover fontsize1em color000066 fontweightbold textdecorationnone
+
+	itembullet fontfamily helveticaverdanaarialsans serif fontsize1em color000000 fontweightbold textaligntop
+
+	itemtitle fontfamily helveticaverdanaarialsans serif fontsize1em color000000 fontweightbold
+	itemtitle a fontsize1em color000000 fontweightbold textdecorationnone
+	itemtitle ahover color000066 textdecorationnone
+	itemtitle avisited fontsize1em color000000 fontweightbold textdecorationnone
+	itemtitle avisitedhover fontsize1em color000066 fontweightbold textdecorationnone
+	
+	itembody fontfamily helveticaverdanaarialsans serif fontsize 12px color 000000
+	itembody a color 003399 textdecorationnone
+	itembody ahover color000066 textdecorationnone
+	itembody avisited color003399 textdecorationnone
+	itembody avisitedhover  color000066 textdecorationnone
+
+
+  vdeck styles 
+
+vdeckbarwrapper width100 marginbottom20px height30 backgroundimage urlhttpimagesaccountsupportcombackgroundsvdeckbargreygif borderbottom 1px cccccc solid
+vdeckbranding floatleft textalignleft margintop5px marginleft10px verticalalignmiddle 
+vdeckbranding
+margintop6px
+
+vdeckbuttons floatright textalignright margintop4px marginright10px
+vdeckbuttons
+margintop5px
+
+vdeckbutton paddingleft10px fontsize 12px fontfamily  helveticaverdanaarialsans serif
+vdeckbutton img verticalalignmiddle marginright3px
+vdeckbutton a textdecoration none color000000
+vdeckbutton ahover textdecoration underline color000000
+vdeckbutton avisited textdecoration none color000000
+
+poweredby verticalalignmiddle fontsize 12px fontfamily helveticaverdanaarialsans serif fontweightbold
+poweredby img verticalalignmiddle marginright4px fontsize 12px fontfamily  helveticaverdanaarialsans serif
+
+
+
+lightbox
+	backgroundcolorccc
+	margin 20px
+	padding 10px
+	
+	
+lightboxdetails
+	fontsize 08em
+	paddingtop 04em
+		
+lightboxcaption float left 
+keyboardmsg fontsize 10px color 000000 fontfamily arial helvetica sans serif float right 
+closebutton top 5px right 5px 
+
+lightbox img border none clear both 
+overlay img border none 
+
+overlay backgroundimage urlhttpwwwaccountsupportcomimageslightboxoverlaypng 
+
+ html overlay
+	backgroundcolor fff
+	backgroundcolor transparent
+	backgroundimage urlblankgif
+	filter progiddximagetransformmicrosoftalphaimageloadersrclightboxoverlaypng sizingmethodscale
+	topnav  background ddddff 
+			bottomnav  background ddddff function myopenfilenamewindownameproperties
+	mywindow  windowopenfilenamewindownameproperties
+	mywindowselffocus
+web hosting tools and serviceshomecontrol panelthis site is temporarily unavailableif you manage this site and have a question about why the site is not available pleasecontact us directlyterms of serviceprivacy

@@ -1,0 +1,11721 @@
+please read this bit before reading the screenplay
+
+
+
+  this is the official unoffical monty python and the holy grail screenplay
+this file contains the script as it was on march 20 1974 before filming took
+place  there are many minor differences from what appears here and what
+ended up on the screenthis file also contains cut scenes and lines from the film
+
+
+  i tried to preserve as much of the screenplay as possible but it isnt
+easy to cross out a section and pencil in new dialogue in ascii
+any scene or dialogue that was crossed out begins with a  before it
+anything penciled in has a  i also put cut information before penciled in
+
+
+  what is interesting about a screenplay is to see what they threw out and
+what catch phrases were literally penciled in  the reason i keyed in
+this file was caused by me downloading current transcript going
+around internet  it was an amazing job i wouldnt want to have attempted
+what he did but it wasnt in a good script format and i didnt like how
+direction was written in since i had the real screenplay i thought
+what the hell
+
+
+  after this i plan to key in monty pythons second film it is the 1st draft
+of the holy grail it is the script that eventually got canabalized into
+sketches for the 4th season of python  it is sill quite different and well
+worth a read is anybody interested in it
+
+
+  oh yes i will stress this fact once more this is a screenplay so
+dont yell at me if a line is paraphrased in the film this is what was
+written before filming took place and it is still quite accurate
+
+
+enough of this
+
+
+grue 09aug92
+
+
+ps to ahh  dont you know who connie booth or carol cleveland is
+and dont you know what graham chapman sounds like sorry i just had to
+say that as the complete and total bastard that i am
+
+
+
+                                monty python
+
+                             and the holy grail
+
+
+
+       screenplay by
+
+
+         john cleese
+         graham chapman
+         terry gilliam
+         eric idle
+         terry jones
+         michael palin
+
+
+
+
+
+
+ 
+
+                                                           final draft 20374
+
+
+
+
+
+      monty python and the holy grail        reel 1 1a page 1
+
+       0001 is the first action frame
+
+       which is 39100 before the first
+
+       clear cut which is scene 4
+
+
+
+        sc                                   spot
+
+        no     complete dialogue            no    start   end   ftge
+
+                    
+
+        1       fade in
+
+        starts
+
+        0001   titles on black bg
+
+
+
+                         python monty pictures ltd
+
+                             in association with
+
+                                michael white
+
+                                  presents
+
+
+
+fade out
+
+ fade in music starts
+
+
+
+                                 monty python
+
+                                     and
+
+                                the holy grail
+
+then
+
+                      m0nti pyth0n ik den h0lie gralen
+
+
+
+fade out
+
+ fade in
+
+
+
+                           written and preformed by
+
+                             graham chapman
+
+                             john cleese
+
+                             eric idle
+
+                             terry gilliam
+
+                             terry jones
+
+                             michael palin
+
+then
+
+                           r0tern nik akten di
+
+fade out
+
+ fade in
+
+                                  with
+
+                             connie booth
+
+                             carol cleveland
+
+                             neil innes
+
+                             bee duffell
+
+                             john young
+
+                             rita daves
+
+then
+
+                                  wik
+
+title out
+
+ title in
+
+                             also appearing
+
+                             avril stewart
+
+                             sally kinghorn
+
+then
+
+                                als0 wik
+
+fade out
+
+ fade in
+
+                           also also appearing
+
+                 mark zycoon           elspeth cameron
+
+                 mitsuko forstater     sally johnson
+
+                 sandy rose            romilly squie
+
+                 joni flnn             alison walker
+
+                 loraine ward          anna lanski
+
+                 sally coombe          vivienne macdonald
+
+                 yvonne dick           daphne darling
+
+                 fiona gordon          gloria graham
+
+                 judy lams             tracy sneddon
+
+                 sylvia taylor         joyce pollner
+
+                              mary allen
+
+then
+
+                            als0 als0 wik
+
+title out
+
+ title in
+
+                camera operator       howard atherton
+
+                   camera focus       john wellard
+
+               camera assistant       roger pratt
+
+                    camera grip       ray hall
+
+         chargehand electrician       terry hunt
+
+                       lighting       telefilm lighting service ltd
+
+                                      andrew richie and son ltd
+
+                                      technicolor
+
+              rosturm cameraman       kent houston
+
+then
+
+               wi n0t trei a h0liday in sweden thi yer
+
+title out
+
+ title in
+
+                sound recordist       garth marshall
+
+                    sound mixer       hugh strain
+
+                   boom swinger       godfrey kirby
+
+              sound maintenance       philip chubb
+
+                sound assistant       robert doyle
+
+                 dubbing editor       john foster
+
+              assistant editors       john mister nick gaster
+
+                                      alexander campbell askew
+
+                                      brian peachey danielle kochavi
+
+                  sound effects       ian crafford
+
+then
+
+                          see the l0veli lakes
+
+title out
+
+title in
+
+                     continuity       penny eyles
+
+                     accountant       brian brockwell
+
+           production secretary       christine watt
+
+                 property buyer       brian winterborn
+
+                property master       tom raeburn
+
+                   property men       roy cannon charlie torbett
+
+                                      mike kennedy
+
+                       catering       ron hellard ltd
+
+                       vehicles       budget rentacar
+
+then
+
+                    the w0nderful teleph0ne system
+
+title out
+
+ title in
+
+         assistant art director       philip cowlam
+
+           construction manager       bill harman
+
+                     carpenters       nobby clark bob devine
+
+                        painter       graham bullock
+
+                     stagehand        jim n savery
+
+                        rigger        ed sullivan
+
+then
+
+                  and mani interesting furry animals
+
+ title in
+
+title out
+
+                       with special extra thanks to
+
+           charlie knode brian mcnully john gledhill peter
+
+           thompson sue cable valerie charlton drew mara
+
+           sue smith charlie coulter iain monaghan steve
+
+           bennell bernard belenger alpini mcalpine hugh
+
+           boyle dave taylor garry cooper peter saunders less
+
+           sheppard vaughn millard mamish macinnes terry mosaic
+
+           bawn obeirne ranelagh
+
+
+
+           made entirely on location in scotland at doune castle
+
+           castle stalker killin glen coe arnhall castle
+
+           braklim falls sherroffmiur
+
+
+
+           by python monty pictures ltd 20 fitzroy square
+
+           london w1 england
+
+            and completed at twickenham film studios england
+
+
+
+           copyright c 1974 national film trustee company lt
+
+                            all rights reserved
+
+then
+
+     the producers would like to thank the forestry commission
+
+     doune admissions ltd keir and cawdor estates stirling
+
+     university and the people of doune for their help in the
+
+     making of this film
+
+
+
+     the characters and incidents portrayed and the names used
+
+     are fictitious and any similarity to the names characters
+
+     or history of any person is entirely accidental and
+
+                            unintentional
+
+
+
+                                  signed richard m nixon
+
+
+
+                    including the majestic m00se
+
+ title in
+
+title out
+
+                              songs
+
+                           neil innis
+
+
+
+                        additional music
+
+                            dewolfe
+
+then
+
+                 a m00se once bit my sister 
+
+ title in
+
+title out
+
+                        costume designer
+
+                          hazel pething
+
+then
+
+      no realli  she was karving her initals on the m00se
+
+      with the sharpened end of an interspace t00thbrush given
+
+      by svenge  her brotherinlaw  an oslo dentist and
+
+      star of many norwegian m0vies the h0t hands of an oslo
+
+      dentist fillings of passion the huge m0lars of horst
+
+                               nordfink
+
+title out
+
+ title in
+
+                  we apologise for the fault in the
+
+                subtitles those responsible have been
+
+                              sacked
+
+then
+
+              mynd you m00se bites kan be pretty nasti 
+
+title out
+
+ title in
+
+              we apologise again for the fault in the subtitles  those
+
+              responsible for sacking the people who have just been sacked
+
+                          have been sacked
+
+fade out
+
+ fade in
+
+            production manager        jullian doyle
+
+            assistant director        gerry harrison
+
+               special effects        john horton
+
+                  choreography
+
+              fight director 
+
+             period consultant        john walker
+
+               makeup artists        pearl rashbass pam luke
+
+                   photography        jullian doyle
+
+          animation assistance        lucinda cowell kate hepburn
+
+              m00se trained by        tutte hermsgerv0rdenbr0tb0rda
+
+dissolve to
+
+              lighting cameraman       terry bedford
+
+          special m00se effects       olaf prot
+
+                 m00se costumes       siggi churchill
+
+dissolve to
+
+                       designer       roy smith
+
+         m00se choreographed by       horst prot iii
+
+        miss taylors m00ses by       hengst douglashome
+
+        m00se trained to mix
+
+        concrete and sign com
+
+        plicated insurance
+
+                       forms by       jurgen wigg
+
+dissolve to
+
+                         editor       john hackney
+
+         m00ses noses wiped by       bjorn irkestormslater walker
+
+
+
+        large m00se on the left
+
+        half side of the screen
+
+        in the third scene from
+
+       the endgiven a thorough
+
+        grounding in latin
+
+        french and o level
+
+                  geography by       bo benn
+
+
+
+       suggestive poses for the
+
+             m00se suggested by      vic rotter
+
+                 antlercare by      liv thatcher
+
+title out
+
+ title in
+
+             the directors of the firm hired to
+
+             continue the credits after the other
+
+             people had been sacked with it to
+
+             be known that they have just been
+
+             sacked
+
+
+
+             the credits have been completed
+
+             in an entirely different style at
+
+             great expense and at the last
+
+             minute
+
+fade out
+
+         title on yellow bg
+
+                            executive producer
+
+               john goldstone  ralph the wonder llama
+
+title out
+
+ title in
+
+                                producer
+
+                             mark forstarter
+
+
+
+                               assisted by
+
+                              earl j llama
+
+                           mike q llama iii
+
+                                sy llama
+
+                            merle z llama ix
+
+title out
+
+ title in
+
+                              directed by
+
+                          40 specially trained
+
+                        ecuadorian mountain llamas
+
+                         6 venezuelan red llamas
+
+                       142 mexican whooping llamas
+
+                        14 north chilean guanacos
+
+                      closely related to the llama
+
+                          reg llama of brixton
+
+                          76000 battery llamas
+
+                from llamafresh farms ltd near paraguay
+
+                                   and
+
+                        terry gilliam and terry jones
+
+fade out
+
+
+
+
+
+                       monty python and the holy grail
+
+                         
+
+
+
+1  exterior  castle walls  day
+
+
+
+   mist  several seconds of it swirling about  silence
+
+   possibly atmospheric music  superimpose england ad 787
+
+   after a few more seconds we hear hoofbeats in the distance
+
+   they come slowly closer  then out of the mist comes king arthur
+
+   followed by a servant who is banging two half coconuts
+
+   together   arthur raises his hand
+
+
+
+                              arthur
+
+       whoa there
+
+
+
+   servant makes noises of horses halting with a flourish  arthur
+
+   peers through the mist  cut to shot from over his shoulder
+
+   castle eg bodium rising out of the mist  on the castle
+
+   battlements a soldier is dimly seen  he peers down
+
+
+
+                               soldier
+
+       halt  who goes there
+
+
+
+                               arthur
+
+       it is i arthur son of uther pendragon from the castle
+
+       of camelot  king of all britons defeator of the saxons
+
+       sovereign of all england
+
+
+
+   pause
+
+
+
+                               soldier
+
+       get away
+
+
+
+                               arthur
+
+       i am  and this my trusty servant patsy we have ridden the
+
+       length and breadth of the land in search of knights who will join
+
+       our court at camelot  i must speak with your lord and master
+
+
+
+                               soldier
+
+       what  ridden on a horse
+
+
+
+                               arthur
+
+       yes
+
+
+
+                               soldier
+
+       youre using coconuts
+
+
+
+                               arthur
+
+       what
+
+
+
+                               soldier
+
+       youve got two empty halves of coconuts and youre banging
+
+       them together
+
+
+
+                               arthur
+
+           scornfully
+
+       so  we have ridden since the snows of winter covered this
+
+       land through the kingdom of mercea
+
+
+
+                               soldier
+
+       where did you get the coconuts
+
+
+
+                               arthur
+
+       through  we found them
+
+
+
+                               soldier
+
+       found them  in mercea  the coconuts tropical
+
+
+
+                               arthur
+
+       what do you mean
+
+
+
+                               soldier
+
+       well this is a temperate zone
+
+
+
+                               arthur
+
+       the swallow may fly south with the sun or the house martin
+
+       or the plover seek warmer hot lands in winter yet these are
+
+       not strangers to our land
+
+
+
+                               soldier
+
+       are you suggesting coconuts migrate
+
+
+
+                               arthur
+
+       not at all  they could be carried
+
+
+
+                               soldier
+
+       what a swallow carrying a coconut
+
+
+
+                               arthur
+
+       why not
+
+
+
+                               soldier
+
+       ill tell you why not  because a swallow is about eight
+
+       inches long and weighs five ounces and youd be lucky
+
+       to find a coconut under a pound
+
+
+
+
+
+                               arthur
+
+       it could grip it by the husk 
+
+
+
+                               soldier
+
+       its not a question of where he grips it  its a simple
+
+       matter of weight  ratios   a fiveounce bird could not
+
+       hold a a one pound coconut
+
+
+
+                               arthur
+
+       well it doesnt matter   go and tell your master that
+
+       arthur from the court of camelot is here
+
+
+
+   a slight pause  swirling mist  silence
+
+
+
+                               soldier
+
+       look to maintain velocity a swallow needs to beat
+
+       its wings four hundred and ninety three times every
+
+       second   right
+
+
+
+                               arthur
+
+           irritated
+
+       please
+
+
+
+                               soldier
+
+       am i right
+
+
+
+                               arthur
+
+       im not interested
+
+
+
+                               second soldier
+
+           who has loomed up on the battlements
+
+       it could be carried by an african swallow
+
+
+
+                               first soldier
+
+       oh  yes an african swallow maybe  but not a european
+
+       swallow thats my point
+
+
+
+                               second soldier
+
+       oh yes i agree there 
+
+
+
+                               arthur
+
+           losing patience
+
+       will you ask your master if he wants to join the knights
+
+       of camelot
+
+
+
+                               first soldier
+
+       but then of course african swallows are nonmigratory
+
+
+
+                               second soldier
+
+       oh yes
+
+
+
+   arthur raises his eyes heavenwards and nods to patsy  they turn
+
+   and go off into the mist
+
+
+
+                               first soldier
+
+       so they wouldnt be able to bring a coconut back anyway
+
+
+
+                               second soldier
+
+
+
+       wait a minute suppose two swallows carried it together
+
+
+
+                               first soldier
+
+       no theyd have to have it on a line
+
+
+
+   stillness  silence again
+
+
+
+
+
+2  animationlive action sequence  death and devastation
+
+
+
+   cut to terry gilliams sequence of brueghel prints  sounds of
+
+   strange medieval music  discordant and sparse  wailings and
+
+   groanings  the last picture mixes through into live action
+
+   big close up of contorted face upside down  a leg falls across
+
+   it  creaking noise  the bodies lurch away from camera to
+
+   reveal they are amongst a huge pile of bodies on a swaying cart
+
+   that is lumbering away from camera  it is pulled by a couple of
+
+   ragged dirty emaciated wretches  behind the cart walks another
+
+   man who looks slightly more prosperous but only on the scale
+
+   of complete and utter impoverishment  he wears a black hood and
+
+   looks sinister
+
+
+
+                               cart driver
+
+       bring out your dead
+
+
+
+   we follow the cart through a wretched impoverished plagueridden
+
+   village  a few starved mongrels run about in the mud scavenging
+
+   in the open doorway of one house perhaps we jug glimpse a pair of
+
+   legs dangling from the ceiling  in another doorway an old woman
+
+   is beating a cat against a wall rather like one does with a mat
+
+   the cart passes round a dead donkey or cow in the mud  and a man
+
+   tied to a cart is being hammered to death by four nuns with
+
+   huge mallets
+
+
+
+                               cart driver
+
+
+
+       bring out your dead
+
+
+
+   there are legs stick out of windows and doors  two men are fighting
+
+   in the mud  covered from head to foot in it  another man is on his
+
+   hands in knees shovelling mud into his mouth  we just catch
+
+   sight of a man falling into a well
+
+
+
+                               cart driver
+
+       bring out your dead
+
+
+
+                               large man
+
+       heres one
+
+
+
+                               cart driver
+
+       ninepence
+
+
+
+                               body
+
+       im not dead
+
+
+
+                               cart driver
+
+       what
+
+
+
+                               large man
+
+       nothing theres your ninepence
+
+
+
+                               body
+
+       im not dead
+
+
+
+                               cart driver
+
+       ere  he says hes not dead
+
+
+
+                               large man
+
+       yes he is
+
+
+
+                               body
+
+       im not
+
+
+
+                               cart driver
+
+       he isnt
+
+
+
+                               large man
+
+       he will be soon hes very ill
+
+
+
+                               body
+
+       im getting better
+
+
+
+                               large man
+
+       youre not   youll be stone dead in a few minutes
+
+
+
+                               cart driver
+
+       i cant take him like this  its against regulations
+
+
+
+                               body
+
+       i dont want to go on the cart
+
+
+
+                               large man
+
+       dont be such a baby
+
+
+
+                               cart driver
+
+       i cant take him
+
+
+
+                               body
+
+       i feel fine
+
+
+
+                               large man
+
+       do me a favour
+
+
+
+                               cart driver
+
+       i cant
+
+
+
+                               large man
+
+       well can you hang around a couple of minutes  he wont
+
+       be long
+
+
+
+                               cart driver
+
+       i promised id be at the robinsons  theyve lost nine
+
+       today
+
+
+
+                               large man
+
+       whens your next round
+
+
+
+                               cart driver
+
+       thursday
+
+
+
+                               body
+
+       i think ill go for a walk
+
+
+
+                               large man
+
+       youre not fooling anyone you know
+
+           to cart driver
+
+       isnt there anything you could do
+
+
+
+                               body
+
+           singing unrecognisably
+
+       i feel happy i feel happy
+
+
+
+   the cart driver looks at the large man for a moment  then they both
+
+   do a quick furtive look up and down the street  the cart driver
+
+   very swiftly brings up a club and hits the old man out of shot
+
+   but the singing stops after a loud bonk noise
+
+
+
+                               large man
+
+           handing over the money at last
+
+       thanks very much
+
+
+
+                               cart driver
+
+       thats all right  see you on thursday
+
+
+
+   they turn  suddenly all the village fall to their knees touching
+
+   forelocks etc  arthur and patsy ride into shot slightly nose to
+
+   the air they ride through without acknowledging anybody  after
+
+   they pass the large man turns to the cart driver
+
+
+
+                               large man
+
+       whos that then
+
+
+
+                               cart driver
+
+           grudgingly
+
+       i dunno must be a king
+
+
+
+                               large man
+
+       why
+
+
+
+                               cart driver
+
+       he hasnt got shit all over him
+
+
+
+
+
+3  exterior  day
+
+
+
+   arthur and patsy riding  they stop and look  we see a castle in the
+
+   distance and before it a peasant is working away on his knees trying
+
+   to dig up the earth with his bare hands and a twig  arthur and
+
+   patsy ride up and stop before the peasant
+
+
+
+                               arthur
+
+       old woman
+
+
+
+                               dennis
+
+       man
+
+
+
+                               arthur
+
+       man  im sorry  old man what knight live in that castle
+
+       over there
+
+
+
+                               dennis
+
+       im thirtyseven
+
+
+
+                               arthur
+
+       what
+
+
+
+                               dennis
+
+       im thirtyseven  im not old
+
+
+
+                               arthur
+
+       well  i cant just say  hey man
+
+
+
+                               dennis
+
+       well you could say dennis
+
+
+
+                               arthur
+
+       i didnt know you were called dennis
+
+
+
+                               dennis
+
+       you didnt bother to find out did you
+
+
+
+                               arthur
+
+       ive said im sorry about the old woman but from the behind
+
+       you looked 
+
+
+
+                               dennis
+
+       what i object to is that you automatically treat me like
+
+       an inferior 
+
+
+
+                               arthur
+
+       well  i am king
+
+
+
+                               dennis
+
+       oh very nice king eh  i expect youve got a palace and fine
+
+       clothes and courtiers and plenty of food  and how dyou get that
+
+       by exploiting the workers by hanging on to outdated imperialist
+
+       dogma which perpetuates the social and economic differences in our
+
+       society  if theres ever going to be any progress 
+
+
+
+   an old woman appears
+
+
+
+                               old woman
+
+       dennis theres some lovely filth down here   oh
+
+       how dyou do
+
+
+
+                               arthur
+
+       how dyou do good lady  i am arthur king of the britons 
+
+       can you tell me who lives in that castle
+
+
+
+                               old woman
+
+       king of the who
+
+
+
+                               arthur
+
+       the britons
+
+
+
+                               old woman
+
+       who are the britons
+
+
+
+                               arthur
+
+       all of us are  we are all britons
+
+
+
+   dennis winks at the old woman
+
+
+
+        and i am your king 
+
+
+
+                               old woman
+
+       ooooh  i didnt know we had a king  i thought we were
+
+       an autonomous collective 
+
+
+
+                               dennis
+
+       youre fooling yourself  were living in a dictatorship
+
+       a selfperpetuating autocracy in which the working classes 
+
+
+
+                               old woman
+
+       there you are bringing class into it again 
+
+
+
+                               dennis
+
+       thats what its all about   if only 
+
+
+
+                               arthur
+
+       please please good people  i am in haste  what knight lives in
+
+       that castle
+
+
+
+                               old woman
+
+       no one live there
+
+
+
+                               arthur
+
+       well who is your lord
+
+
+
+                               old woman
+
+       we dont have a lord
+
+
+
+                               arthur
+
+       what
+
+
+
+                               dennis
+
+       i told you  were an anarchosyndicalist commune  we take
+
+       it in turns to act as a sort of executive officer for the week
+
+
+
+                               arthur
+
+       yes
+
+
+
+                               dennis
+
+        but all the decision of that officer 
+
+
+
+                               arthur
+
+       yes i see
+
+
+
+                               dennis
+
+        must be approved at a biweekly meeting by a simple majority
+
+       in the case of purely internal affairs
+
+
+
+                               arthur
+
+       be quiet
+
+
+
+                               dennis
+
+        but a twothirds majority 
+
+
+
+                               arthur
+
+       be quiet  i order you to shut up
+
+
+
+                               old woman
+
+       order eh  who does he think he is
+
+
+
+                               arthur
+
+       i am your king
+
+
+
+                               old woman
+
+       well i didnt vote for you
+
+
+
+                               arthur
+
+       you dont vote for kings
+
+
+
+                               old woman
+
+       well how did you become king then
+
+
+
+                               arthur
+
+       the lady of the lake her arm clad in the purest shimmering samite
+
+       held excalibur aloft from the bosom of the water to signify by
+
+       divine providence   that i arthur was to carry excalibur 
+
+       that is why i am your king
+
+
+
+                              old woman
+
+      is frank in  hed be able to deal with this one
+
+
+
+                               dennis
+
+       look  strange women lying on their backs in ponds handing out
+
+       swords  thats no basis for a system of government  supreme
+
+       executive power derives from a mandate from the masses not from
+
+       some farcical aquatic ceremony
+
+
+
+                               arthur
+
+       be quiet
+
+
+
+                               dennis
+
+       you cant expect to wield supreme executive power
+
+       just cause some watery tart threw a sword at you
+
+
+
+                               arthur
+
+       shut up
+
+
+
+                               dennis
+
+       i mean if i went around saying i was an emperor because some
+
+       moistened bint had lobbed a scimitar at me people would
+
+       put me away
+
+
+
+                               arthur
+
+           grabbing him by the collar
+
+       shut up will you shut up
+
+
+
+                               dennis
+
+       ah now  we see the violence inherent in the system
+
+
+
+                               arthur
+
+       shut up
+
+
+
+   people ie other peasants are appearing and watching
+
+
+
+                               dennis
+
+           calling
+
+       come and see the violence inherent in the system
+
+       help help im being repressed
+
+
+
+                               arthur
+
+           aware that people are now coming out and watching
+
+       bloody peasant
+
+           pushes dennis over into mud and prepares to ride off
+
+
+
+                               dennis
+
+       oh did you hear that  what a giveaway
+
+
+
+                               arthur
+
+       come on patsy
+
+
+
+   they ride off
+
+
+
+                               dennis
+
+           in the background as we pull out
+
+       did you see him repressing me then  thats what ive
+
+       been on about 
+
+
+
+
+
+4  exterior  forest  day
+
+
+
+   mix through to arthur and patsy riding through the forest  they pass rune
+
+   stones  we track with them  closeups of their faces as they ride
+
+   mix to another tracking shot of them riding through the forest  they
+
+   come to a clearing and stop looking ahead intently their eyes light up
+
+
+
+   sound fx of fight
+
+
+
+   cut to their eyeline  a clearing on the other side of which is a rough
+
+   wooden footbridge across a stream   at the start of the bridge a
+
+   tremendous fight is going on  a huge black knight in black armour his
+
+   face totally masked in a visor is fighting a slightly smaller knight in
+
+   green armour  perhaps the green knights armour is identical to the
+
+   black knights save for the colour
+
+
+
+   cut back to arthur and patsy  they watch growing more impressed
+
+   as they watch the fight
+
+
+
+   cut back to the fight  the green knight lunges at the black knight who
+
+   avoids the blow with a skillful sidestep and parry knocking the sword
+
+   out of the green knights hand
+
+
+
+   cut back to arthur and patsy even more impressed
+
+
+
+   cut back to the fight  the green knight has drawn out a particularly nasty
+
+   mace or spiked ball and chain much longer than the black knights sword
+
+
+
+   arthur narrows his eyes wondering whether the black knight will survive
+
+
+
+   cut back to the fight the green knight swings at the black knight who
+
+   ducks under the first swing leaps over the second and starts to close
+
+   on the green knight
+
+
+
+   cut back to arthur and patsy watching like a tennis match sound fx of the
+
+   fight reaching a climax  four almighty clangs  then silence
+
+
+
+   cut back to see the green knight stretched out  the black knight
+
+   sheathes his sword
+
+
+
+   arthur looks at patsy  nods and they move forward
+
+
+
+   cut back to the black knight picking up the green knight above his head
+
+   and hurling him into the river  arthur and patsy approach him
+
+
+
+                               arthur
+
+       you fight with the strength of many men sir knight
+
+
+
+                              black knight
+
+      who dares to challenge the black knight
+
+
+
+                              arthur
+
+      i do not challenge you
+
+
+
+   the black knight stares impassively and says nothing
+
+
+
+                               arthur
+
+       i am arthur king of the britons
+
+
+
+   hint of a pause as he waits for a reaction which dosnt come arthur is
+
+   only slightly thrown
+
+
+
+        i seek the bravest and the finest knights in all
+
+       the world to join me in my court at camelot 
+
+
+
+   the black knight remains silent
+
+
+
+                               arthur
+
+       you have proved yourself worthy  will you join me
+
+
+
+   silence
+
+
+
+                              arthur
+
+      a man of your strength and skill would be the chief of all
+
+      my knights 
+
+
+
+                              black knight
+
+      never
+
+
+
+                               arthur
+
+       you make me sad  but so be it  come patsy
+
+
+
+   as he moves the black knight bars the way
+
+
+
+                               black knight
+
+       none shall pass
+
+
+
+                               arthur
+
+       what
+
+
+
+                               black knight
+
+       none shall pass
+
+
+
+                               arthur
+
+       i have no quarrel with you brave sir knight but i must
+
+       cross this bridge
+
+
+
+                               black knight
+
+       then you shall die
+
+
+
+                               arthur
+
+       i command you as king of the britons to stand aside
+
+
+
+                               black knight
+
+       i move for no man
+
+
+
+                               arthur
+
+       so be it
+
+
+
+   arthur draws his sword and approaches the black knight  a furious fight
+
+   now starts lasting about fifteen seconds at which point arthur delivers
+
+   a mighty blow which completely severs the black knights left arm at
+
+   the shoulder  arthur steps back triumphantly
+
+
+
+                               arthur
+
+       now stand aside worthy adversary
+
+
+
+                               black knight
+
+           glancing at his shoulder
+
+       tis but a scratch
+
+
+
+                               arthur
+
+       a scratch  your arms off
+
+
+
+                               black knight
+
+       no it isnt
+
+
+
+                               arthur
+
+           pointing to the arm on ground
+
+       well whats that then
+
+
+
+                               black knight
+
+       ive had worse
+
+
+
+                               arthur
+
+       youre a liar
+
+
+
+                               black knight
+
+       come on you pansy
+
+
+
+   another ten seconds furious fighting till arthur chops the black knightss
+
+   other arm off also at the shoulder  the arm plus sword lies on the ground
+
+                               arthur
+
+       victory is mine
+
+           sinking to his knees
+
+       i thank thee o lord that in thy 
+
+
+
+                               black knight
+
+       come on then
+
+
+
+                               arthur
+
+       what
+
+
+
+   he kicks arthur hard on the side of the helmet  arthur gets up still
+
+   holding his sword  the black knight comes after him kicking
+
+
+
+                               arthur
+
+       you are indeed brave sir knight but the fight is mine
+
+
+
+                               black knight
+
+       had enough
+
+
+
+                               arthur
+
+       you stupid bastard  you havnt got any arms left
+
+
+
+                               black knight
+
+       course i have
+
+
+
+                               arthur
+
+       look
+
+
+
+                               black knight
+
+       what  just a flesh wound
+
+           kicks arthur
+
+
+
+                               arthur
+
+       stop that
+
+
+
+                               black knight
+
+           kicking him
+
+       had enough  
+
+
+
+                               arthur
+
+       ill have your leg
+
+
+
+   he is kicked
+
+
+
+       right
+
+
+
+   the black knight kicks him again and arthur chops his leg off
+
+   the black knight keeps his balance with difficulty
+
+
+
+                               black knight
+
+       ill do you for that
+
+
+
+                               arthur
+
+       youll what  
+
+
+
+                               black knight
+
+       come here
+
+
+
+                               arthur
+
+       what are you going to do bleed on me
+
+
+
+                               black knight
+
+       im invincible
+
+
+
+                               arthur
+
+       youre a looney
+
+
+
+                               black knight
+
+       the black knight always triumphs have at you
+
+
+
+   arthur takes his last leg off  the black knights body lands upright
+
+
+
+                               black knight
+
+       all right well call it a draw
+
+
+
+                               arthur
+
+       come patsy
+
+
+
+   arthur and patsy start to cross the bridge
+
+
+
+                               black knight
+
+       running away eh  you yellow bastard come back here and take
+
+       whats coming to you  ill bite your legs off
+
+
+
+
+
+5  exterior  day
+
+
+
+   a village  sound of chanting of latin canon punctuated by short sharp
+
+   cracks  it comes nearer  we see it is a line of monks ala seventh seal
+
+   flagellation scene chanting and banging themselves on the foreheads with
+
+   wooden boards  they pass a group of villagers who are dragging a beautiful
+
+   young woman dressed as a witch through the streets  they drag her to a
+
+   strange houseruin standing on a hill outside the village  a
+
+   strangelooking knight stands outside sir bedevere
+
+
+
+                               first villager
+
+       we have found a witch  may we burn her
+
+
+
+                               all
+
+       a witch burn her
+
+
+
+                               bedevere
+
+       how do you know she is a witch
+
+
+
+                               all
+
+       she looks like one yes she does
+
+
+
+                               bedevere
+
+       bring her forward
+
+
+
+   they bring her forward  a beautiful young girl miss islington dressed up
+
+   as a witch
+
+
+
+                               witch
+
+       i am not a witch  i am not a witch
+
+
+
+                               bedevere
+
+       but you are dressed as one
+
+
+
+                               witch
+
+       they dressed me up like this
+
+
+
+                               all
+
+       we didnt we didnt
+
+
+
+                               witch
+
+       this is not my nose  it is a false one
+
+
+
+   bedevere takes her nose off
+
+
+
+                               bedevere
+
+       well
+
+
+
+                               first villager
+
+        well we did do the nose
+
+
+
+                               bedevere
+
+       the nose
+
+
+
+                               first villager
+
+       and the hat  but she is a witch
+
+
+
+                               all
+
+       a witch  a witch  burn her
+
+
+
+                               bedevere
+
+       did you dress her up like this
+
+
+
+                               first villager
+
+        um  yes  no  a bit  yes she has got a wart
+
+
+
+                               bedevere
+
+       why do you think she is a witch
+
+
+
+                               second villager
+
+       she turned me into a newt
+
+
+
+                               bedevere
+
+       a newt
+
+
+
+                               second villager
+
+           after looking at himself for some time
+
+       i got better
+
+
+
+                               all
+
+       burn her anyway
+
+
+
+                               bedevere
+
+       quiet quiet  there are ways of telling whether she is a witch
+
+
+
+   arthur and patsy ride up at this point and watch what follows with interest
+
+
+
+                               all
+
+       there are  tell up  what are they wise sir bedevere
+
+
+
+                               bedevere
+
+       tell me   what do you do with witches
+
+
+
+                               all
+
+       burn them
+
+
+
+                               bedevere
+
+       and what do you burn apart from witches
+
+
+
+                               fourth villager
+
+        wood
+
+
+
+                               bedevere
+
+       so why do witches burn
+
+
+
+                               second villager
+
+           pianissimo
+
+        because theyre made of wood
+
+
+
+                               bedevere
+
+       good
+
+
+
+   peasants stir uneasily then come round to this conclusion
+
+
+
+                               all
+
+       i see  yes of course
+
+
+
+                               bedevere
+
+       so how can we tell if she is made of wood
+
+
+
+                               first villager
+
+       make a bridge out of her
+
+
+
+                               bedevere
+
+       ah  but can you not also make bridges out of stone
+
+
+
+                               all
+
+       ah  yes of course  um  err 
+
+
+
+                               bedevere
+
+       does wood sink in water
+
+
+
+                               all
+
+       no no  it floats   throw her in the pond tie weights on her  to
+
+       the pond
+
+
+
+                              bedevere
+
+       wait  wait  tell me what also floats on water
+
+
+
+                               all
+
+       bread  no no no  apples  gravy  very small rocks 
+
+
+
+                               arthur
+
+       a duck
+
+
+
+   they all turn and look at arthur  bedevere looks up very impressed
+
+
+
+                               bedevere
+
+       exactly  so logically 
+
+
+
+                               first villager
+
+           beginning to pick up the thread
+
+       if she  weighs the same as a duck  shes made of wood
+
+
+
+                               bedevere
+
+       and therefore
+
+
+
+                               all
+
+       a witch  a duck  a duck  fetch a duck
+
+
+
+                               fourth villager
+
+       here is a duck sir bedevere
+
+
+
+                               bedevere
+
+       we shall use my largest scales
+
+
+
+   he leads them a few yards to a very strange contraption indeed  made of
+
+   wood and rope and leather  they put the girl in one pan and the duck
+
+   in another  each pan is supported by a wooden stave  bedevere checks
+
+   each pan then  arthur looks on with interest
+
+
+
+                               bedevere
+
+       remove the supports
+
+
+
+   two peasants knock them away with sledge hammers  the girl and the duck
+
+   swing slightly but balance perfectly
+
+
+
+                               all
+
+       a witch  a witch
+
+
+
+                               witch
+
+       its a fair cop
+
+
+
+                               all
+
+       burn her  burn her  lets make her into a ladder
+
+
+
+   the villagers drag the girl away leaving arthur and bedevere regarding
+
+   each other admiringly
+
+
+
+                               bedevere
+
+       who are you who are so wise in the ways of science
+
+
+
+                               arthur
+
+       i am arthur king of the britons
+
+
+
+                               bedevere
+
+       my liege  forgive me 
+
+
+
+   arthur looks at patsy with obvious satisfaction
+
+
+
+
+
+                               arthur
+
+       good sir knight will you come with me to camelot
+
+       and join our number at the round table
+
+
+
+                               bedevere
+
+       my liege  i am honored
+
+
+
+   arthur steps forward drawing his sword with a slight hint of difficulty
+
+
+
+                               arthur
+
+       what is your name
+
+
+
+                               bedevere
+
+       bedevere my liege
+
+
+
+                               arthur
+
+       then i dub you  sir bedevere  knight of the round table
+
+
+
+
+
+6  various montage  animation
+
+
+
+                               voice over
+
+       and so king arthur gathered his knights together  bringing from all
+
+       the corners of the kingdom the strongest and bravest in the land 
+
+       to sit at the round table 
+
+
+
+   under this voice over we have a montage of shots of arthur recruiting
+
+   his knights
+
+
+
+   1   arthur patsy bedevere and page riding through hillside
+
+        mix to
+
+
+
+   2   a castle  long shot of sir gawain standing outside and arthurs
+
+        group approaching and shaking hands perhaps
+
+
+
+   3   mix to the group now plus sir gawain and page who is weighted
+
+        down by an enormous quantity of luggage riding down by a stream
+
+        and approaching sir hector  arthur dubs him
+
+
+
+   4   mix to the group now plus hector and page approaching some group
+
+        of buildings or whatever  in the distance sir robin is being taught
+
+        the lute by one of his musicians  arthur calls and sir robin
+
+        immediately reacts and hands the lute to his musician and comes to
+
+        join arthur  co
+
+
+
+   5   mix to sir galahad surrounded by chickens  he is wearing a carpenters
+
+        apron over his immaculate armour and is finishing off a henhouse
+
+        we see the group approach and he throws off the apron and puts down
+
+        the henhouse and goes to join them
+
+
+
+   6   mix to the group riding along again
+
+
+
+   7   mix to sir launcelot handing a baby to his wife who has several other
+
+        children hanging about and he strides off to join arthur leaving his
+
+        castle wife and children  the castle eilean donan has washing
+
+        hanging outside it  a real family castle  there are at least
+
+        six kids
+
+
+
+   8   mix to the complete group ie arthur and patsy bedevere and page
+
+        gawain and page hector and page galahad and page sir robin and
+
+        six musicians launcelot and page
+
+
+
+6  closeup of a book on which is written
+
+
+
+   the book of the film
+
+
+
+                               voice over
+
+       the wise sir bedevere was the first to join king arthurs knights 
+
+       but other illustrious names were soon to follow 
+
+
+
+   hand turns page
+
+
+
+                               voice over
+
+       sir launcelot the brave 
+
+
+
+   hand turns page
+
+
+
+                               voice over
+
+       sir galahad the pure 
+
+
+
+   hand turns page
+
+
+
+                               voice over
+
+       and sir robinthenotquitesopureassirlauncelot 
+
+
+
+   hand turns page
+
+
+
+                               voice over
+
+        who had nearly fought the dragon of agnor 
+
+
+
+   hand turns page
+
+
+
+                               voice over
+
+        who had nearly stood up to to the vicious chicken of bristol 
+
+
+
+   hand turns page
+
+
+
+                               voice over
+
+        and who had personally wet himself at the battle of badon hill 
+
+       and the aptly named 
+
+
+
+   hand turns page
+
+                               voice over
+
+       sir notappearinginthisfilm
+
+
+
+   hand turns page
+
+
+
+                               voice over
+
+       together they formed band whose names and deeds were to be retold
+
+       throughout the centuries  the knights of the round table 
+
+
+
+   a gorillas hand snatches away the hand
+
+
+
+   music swells and fades and we mix through to
+
+
+
+
+
+7  exterior  sunset
+
+
+
+   fairly close headon shot of the knights riding along bedevere and arthur
+
+   at the front of the group deep in conversation
+
+
+
+                               bedevere
+
+       and that my lord is how we know the earth to be bananashaped
+
+
+
+                               arthur
+
+       this new learning amazes me sir bedevere  explain again how
+
+       sheeps bladders may be employed to prevent earthquakes
+
+
+
+                               bedevere
+
+       of course my liege 
+
+
+
+                               launcelot
+
+           he points
+
+       look my liege
+
+
+
+   they all stop and look
+
+
+
+                               arthur
+
+           with thankful reverence
+
+       camelot
+
+
+
+   cut to shot of amazing castle in the distance  illuminated in the rays of
+
+   the setting sun
+
+
+
+   music
+
+
+
+   cut back to arthur and the group  they are all staring with fascination
+
+
+
+                               galahad
+
+       camelot 
+
+
+
+                               launcelot
+
+       camelot 
+
+
+
+                               gawain
+
+           at the back to page
+
+       its only a model
+
+
+
+                               arthur
+
+           turning sharply
+
+       sh
+
+           to the rest
+
+       knights  i bid you welcome to your new home  let us ride 
+
+       to camelot
+
+
+
+
+
+8  interior  night
+
+
+
+   cut to interior of medieval hall  a large group of armoured knights are
+
+   engaged in a well choreographed songanddance routine of the very upbeat
+
+   if they could see me now type of fast bouncy number  the poorer verses
+
+   are made clearer by cutting to a group of knights actually engaged in
+
+   the described task while the line itself is sung  they sing
+
+
+
+                               knights
+
+       were knights of the round table
+
+       we dance wheneer were able
+
+       we do routines and chorus scenes
+
+       with footwork impeccable
+
+       we dine well here in camelot
+
+       we eat ham and jam and spam a lot
+
+
+
+       were knights of the round table
+
+       our shows are formidable
+
+       but many times
+
+       were given rhymes
+
+       that are quite unsingable
+
+       were opera mad in camelot
+
+       we sing from the diaphragm a lot
+
+
+
+   booming basses  a routine where two xylophonists play parts of knights
+
+   armour producing a pleasing effect
+
+
+
+       in war were tough and able
+
+       quite indefatigable
+
+       between our quests
+
+       we sequin vests
+
+       and impersonate clark gable
+
+       its a busy life in camelot
+
+
+
+                               single man
+
+       i have to push the pram a lot
+
+
+
+   cut back to arthur and bedevere and company as we had left them
+
+
+
+                               arthur
+
+       no on second thought lets not go to camelot
+
+
+
+                               knights
+
+       right
+
+
+
+                               arthur
+
+       it is a silly place
+
+
+
+   they set off again almost immediately they are suffused in ethereal radiance
+
+   and strange heavenly choir music  the pages horselike take fright for a
+
+   moment they whinny and rattle their coconuts  arthur and the knights
+
+   fall on their knees  a holy voice booms out
+
+
+
+                               god
+
+       arthur  arthur   king of the britons 
+
+
+
+   they all prostrate themselves even further
+
+
+
+       oh dont grovel  do get up  if theres one thing i cant stand
+
+       its people grovelling
+
+
+
+   arthur and company rise
+
+
+
+                               arthur
+
+       sorry 
+
+
+
+                               god
+
+       and dont apologize  every time i try to talk to someone its
+
+       sorry this and forgive me that and im not worthy and 
+
+       what are you doing now
+
+
+
+                               arthur
+
+       im averting my eyes lord
+
+
+
+                               god
+
+       well dont
+
+      i really dont know where all this got started
+
+       its like those miserable psalms  theyre so depressing
+
+       now knock it of
+
+
+
+                               arthur
+
+       yes lord
+
+
+
+                               god
+
+       right  arthur king of the britons youre knights of the round
+
+       table shall have a task to make them an example in these dark times 
+
+
+
+                               arthur
+
+       good idea o lord
+
+
+
+                               god
+
+       course its a good idea
+
+
+
+   suddenly another light glows beside god or possibly within the light which
+
+   is god a shape slowly starts to form
+
+
+
+       behold  arthur  this is the holy grail 
+
+      the sacred cup from which christ drank at the last supper 
+
+
+
+   the form in the bright light is just discernible as an iridescent chalice
+
+    the knights gasp
+
+
+
+       look well arthur  for it is your sacred task to seek
+
+       this grail
+
+
+
+   it begins to fade  music crescendo as both lights fade
+
+
+
+       that is your purpose arthur  the quest for the holy grail 
+
+
+
+   it is gone  all the knights are left gasping in awe and wonderment  they
+
+   all turn and look at arthur
+
+
+
+                              launcelot
+
+       a blessing  a blessing from the lord
+
+
+
+                             bedevere
+
+      praise be to god
+
+
+
+  an awed pause then arthur rallies them
+
+
+
+                              arthur
+
+      we have a task  we must waste no time to camelot
+
+
+
+                              galahad
+
+      god be praised
+
+
+
+   stirring music crescendo  they ride off
+
+
+
+   cut to titles sequence animation the quest for the holy grail after
+
+   titles cut to
+
+
+
+
+
+9  exterior  castle  day
+
+
+
+   mix through one or two shots of them on their way again until they approach
+
+   a terrific castle a little one would do too  they advance quite close to
+
+   the castle and draw themselves into a line  at a signal from arthur the two
+
+   pages step forward and give a brief fanfare
+
+
+
+   a man appears on the battlements  arthur addresses him
+
+
+
+                               arthur
+
+       hello
+
+
+
+                               man
+
+       allo  whoo is eet
+
+
+
+                               arthur
+
+       i am king arthur and these are the knights of the round
+
+       table  whose castle is this
+
+
+
+                               man
+
+       this is the castle of of my master guy de loimbard
+
+
+
+                               arthur
+
+       please go and tell your master that we have been charged by god
+
+       with a sacred quest  and if he will give us food and shelter for
+
+       this night he can join us in our quest for the holy grail
+
+
+
+                               man
+
+       well ill ask him but i dont think hell be very keen
+
+       hes already got one you see
+
+
+
+                               arthur
+
+       what
+
+
+
+                               galahad
+
+       he says theyve already got one
+
+
+
+   they are stunned
+
+
+
+                               arthur
+
+       are you sure hes got one
+
+
+
+                               man
+
+       oh yes  its very nice
+
+
+
+  cut to battlements the taunter man turns to some others
+
+
+
+                              man
+
+      i told him we already got one
+
+
+
+  they all giggle
+
+
+
+
+
+                              arthur
+
+       well  can we come up and have a look
+
+
+
+                               man
+
+       of course not  you are english pigs
+
+
+
+                               arthur
+
+       well what are you then
+
+
+
+                               man
+
+       im french  why do think i have this outrageous accent you
+
+       silly king
+
+
+
+                               galahad
+
+       what are you doing in england
+
+
+
+                               man
+
+       mind your own business
+
+
+
+                               arthur
+
+       if you will not show us the grail we shall storm your castle
+
+
+
+   murmurs of assent
+
+
+
+                               man
+
+       you dont frighten us english pigdog  go and boil your
+
+       bottoms son of a silly person  i blow my nose on you socalled
+
+       arthurking you and your silly english kkaniggets
+
+
+
+   he puts hands to his ears and blows a raspberry
+
+
+
+                               galahad
+
+       what a strange person
+
+
+
+                               arthur
+
+       now look here my good man
+
+
+
+                               man
+
+       i dont want to talk to you no more you emptyheaded animal
+
+       food trough wiper  i fart in your general direction  you mother
+
+       was a hamster and your father smelt of elderberries
+
+
+
+                               galahad
+
+       is there someone else up there we could talk to
+
+
+
+                               man
+
+       no  now go away or i shall taunt you a second time
+
+
+
+                               arthur
+
+       now this is your last chance  ive been more than reasonab
+
+
+
+                              man
+
+      fetchez la vache
+
+
+
+                              guard
+
+      quoi
+
+
+
+                              man
+
+      fetchez la vache
+
+
+
+   cut back to battlements  a cow is led out of a stall
+
+
+
+   cut back to arthur
+
+
+
+                               arthur
+
+       now that is my final offer  if you are not prepared to agree to my
+
+       demands i shall be forced to take  oh christ
+
+
+
+   a cow comes flying over the battlements  lowing aggressively  the cow
+
+   lands on galahads page squashing him completely
+
+
+
+                              robin
+
+      what a cruel thing to do
+
+
+
+                              bedevere
+
+          choking back tears
+
+      it hadnt even been milked
+
+
+
+                               arthur
+
+       right knights forward
+
+
+
+   arthur leads a charge toward the castle  various shots of them battling on
+
+   despite being hit by a variety of farm animals
+
+
+
+                               arthur
+
+           as the man next to him is squashed by a sheep
+
+       knights  run away
+
+
+
+   midst echoing shouts of run away the knights retreat to cover with the odd
+
+   cow or goose hitting them still  the knights crouch down under cover
+
+
+
+                               launcelot
+
+       the sods  ill tear them apart
+
+
+
+                               arthur
+
+           restraining launcelot from going out and having a go
+
+       no
+
+
+
+                               bedevere
+
+       i have a plan sir
+
+
+
+   cut back to battlements of castle  french sentries suspiciously peering
+
+   towards the english lines  wind whistles
+
+
+
+   shot of the empty scrubland or undergrowth or woodland around the castle
+
+   emptiness  wind  more shots of the french sentries peering into the dusk
+
+  as night falls  mix through to night on the battlements a brazier burns or
+
+  torches on the wall as the sentries peer into the dark shots of the
+
+  woodland with fires burning where the english lines are
+
+
+
+   during all this the sounds of extensive carpentry have possibly been herd
+
+   followed by silence followed by renewed outbursts or activity
+
+
+
+   closeup french looking very nervous  dawn breaking shot of woodland
+
+   nothing  wind  dawn still breaking  shots of the french  they suddenly
+
+   hear something  a faintly detectable squeaking which is getting louder
+
+
+
+   cut to wide shot of castle and woodland  squeaking getting louder  shot of
+
+   the french taunter pointing  wide shot again  the squeaking gets louder
+
+   an enormous twentyfoothigh wooden rabbit is wheeled out of the
+
+   undergrowth into the open space in front of the castle  the english scuttle
+
+   back into the undergrowth  the rabbit has a large red bow tied round it
+
+   and a rather crudely written label  which reads pour votres amis
+
+   francais the chief taunter looks at it narrowing his eyes  then he
+
+   turns and leaves battlements
+
+
+
+   cut to arthur and company watching from the bushes  the main gate of the
+
+   castle opens a little and the chief taunters head sticks out  then another
+
+   froggie head  then another  they mutter to each other in french  look
+
+   rather pleased  then rush out and start to pull the giant rabbit in
+
+
+
+   cut back to arthur and company behind some bushes watching
+
+
+
+                               arthur
+
+       now what happens
+
+
+
+                               bedevere
+
+       well now launcelot galahad and i wait until nightfall
+
+       and then leap out of the rabbit and take the french by surprise
+
+       not only by surprise but totally unarmed
+
+
+
+                               arthur
+
+       who  who breaks out
+
+
+
+                               bedevere
+
+       er  we  launcelot galahad and i  er   leap out of the
+
+       rabbit and 
+
+
+
+   launcelot covers his eyes
+
+
+
+                               bedevere
+
+       look if we were to build a large wooden badger
+
+
+
+   arthur cuffs him  arthur looks at the battlements  there is a loud twang
+
+   look of horror  the rabbit comes sailing over the battlements
+
+
+
+
+
+                               arthur
+
+       run away
+
+
+
+   more shouts
+
+
+
+       run away
+
+
+
+                              sir gawain
+
+          to his page as they run away
+
+      its only a model
+
+
+
+                              arthur
+
+      sh
+
+
+
+   they continue to retreat  the rabbit lands on gawains page
+
+   who is already weighed down by enormous quantity of luggage
+
+
+
+
+
+10  exterior  castle walls  day
+
+
+
+    cut to a man in modern dress standing outside a castle  he speaks straight
+
+    to camera in a documentary kind of way
+
+
+
+    superimpose caption  a very famous historian
+
+
+
+                               historians speech
+
+       defeat at the castle seems to have utterly disheartened
+
+       king arthur  the ferocity of the french taunting took him
+
+       completely by surprise and arthur became convinced that a new strategy
+
+       was required if the quest for the holy grail were to be brought
+
+       to a successful conclusion  arthur having consulted his closest
+
+       knights decided that they should separate and search for the grail
+
+       individually  now this is what they did  no sooner
+
+
+
+    a knight rides into shot and hacks him to the ground  he rides off
+
+
+
+    we stay for a moment on the glade  a middleaged lady in a c  a
+
+    twinset emerges from the trees and looks in horror at the body of her
+
+    husband
+
+
+
+                               mrs historian
+
+       frank
+
+
+
+    cut to animated frame  with the words the tale of sir robin on it
+
+    pleasant pastoral music  mix through to
+
+   voice the tale of sir robin
+
+
+
+
+
+11  exterior  glade  day
+
+
+
+    a knight is trotting along through a wooden sundapled glade followed by
+
+    his trusty page banging the usual half coconuts  as we see them approach
+
+    we hear the beautiful lilting sound of medieval music and see that
+
+    the knight is followed by a small retinue of musicians in
+
+    thirteenthcentury courtly costume one sings and plays the tambourine
+
+    one bangs at a tabor a small drum oed and one plays the pipes
+
+
+
+    the knight looks very proud and firm as we hear the first part of the song
+
+    but the combination of the lyrics and the large signs they pass start
+
+    to have their effect 
+
+
+
+    song
+
+
+
+       bravely bold sir robin rode forth from camelot
+
+       he was not afraid to die oh brave sir robin
+
+       he was not at all afraid to be killed in nasty ways
+
+       brave brave brave brave sir robin
+
+
+
+       he was not in the least bit scared to be mashed into a pulp
+
+       or to have his eyes gouged out and his elbows broken
+
+       to have his kneecaps split and his body burned away
+
+       and his limbs all hacked and mangled brave sir robin
+
+
+
+       his head smashed in  and his heart cut out
+
+       and his liver removed and his bowels unplugged
+
+       and his nostrils raped and his bottom burned off
+
+       and his penis split  and his 
+
+
+
+                               robin
+
+       er thats  thats enough music for a while lads
+
+       it looks as though like theres dirty work afoot
+
+
+
+                               singers
+
+       brave sir rob 
+
+
+
+                               robin
+
+       shut up
+
+
+
+   they have ridden past the following signs all in triplicate
+
+
+
+       
+
+        camelot 43                         certain death i   
+
+        camelot 43                         certain death i   
+
+        camelot 43                         certain death i   
+
+       
+
+    
+
+      beware               go back           dead people only   
+
+      beware               go back           dead people only   
+
+      beware               go back           dead people only   
+
+    
+
+
+
+
+
+12 exterior  glade  day
+
+
+
+   they now pass three knights impaled to a tree  with their feet off the
+
+   ground  with one lance through the lot of them they are skewered up
+
+   like a barbecue
+
+
+
+   then they pass three knights sitting on the ground with one enormous axe
+
+   through their skulls  they look timorous
+
+
+
+  then a huge tree is absolutely packed with maidens tied to it  they all
+
+  look fed up  sir robin calls out cheerfully as he passes
+
+
+
+                              robin
+
+      morning
+
+
+
+                              one lady
+
+      bye
+
+
+
+   sir robin rides on a little way with the music building up enormous and
+
+   terrifying tension until suddenly there standing before him is an
+
+   enormous threeheaded knight
+
+
+
+                               three heads
+
+       halt  who art thou
+
+
+
+                               singers
+
+       he is brave sir robin brave sir robin who 
+
+
+
+                               robin
+
+           to singers
+
+       shut up  oh nobody really just passing through
+
+
+
+                               three heads
+
+       what do you want
+
+
+
+                               singers
+
+       to fight and 
+
+
+
+                               robin
+
+       shut up  nothing really  just to pass through good sir knight
+
+
+
+                               three heads
+
+       im afraid not
+
+      this is my bit of the forest  find your own bit
+
+
+
+                               robin
+
+       i am a knight of king arthurs round table
+
+      i seek the holy grail  stand aside and let me pass
+
+
+
+                               three heads
+
+       you are a knight of the round table
+
+
+
+                               robin
+
+       i am
+
+
+
+   from now on the three heads speak individually
+
+
+
+                               second head
+
+       shit
+
+
+
+                               first head
+
+       in that case i shall have to kill you
+
+
+
+                               second head
+
+       shall i
+
+
+
+                               third head
+
+       oh i dont think so
+
+
+
+                               second head
+
+       im not sure
+
+
+
+                               middle head
+
+           to first
+
+       what do i think
+
+
+
+                               left head
+
+       i think kill him
+
+
+
+                              second head
+
+      im still not sure
+
+
+
+                              third head
+
+      all right  how many of me think i should kill him
+
+
+
+                              first head
+
+      i do
+
+
+
+                              third head
+
+      one
+
+
+
+                              second head
+
+      thats not a quorum
+
+
+
+                              first head
+
+      it is if im the chairman
+
+
+
+                              third head
+
+      oo its not
+
+
+
+                              second head
+
+      im the chairman this week
+
+
+
+                              first head
+
+      youre not
+
+
+
+                              second head
+
+      look itll make it much simpler if i vote with me
+
+
+
+                              third head
+
+      to kill him
+
+
+
+                              second head
+
+      yeah
+
+
+
+                              third head
+
+          tuts
+
+      oh damn
+
+
+
+                              first head
+
+         to sir robin
+
+      knight i have decided to kill you
+
+
+
+                              third head
+
+      with one absenting
+
+
+
+                              first head
+
+      knight i have decided to kill you with one absenting
+
+
+
+                              third head
+
+          to sir robin
+
+      sorry about this but i have to be fair
+
+
+
+                              robin
+
+      oh thats all right  so you are going to kill me with your big axe
+
+
+
+                              first head
+
+      er no with my sword
+
+
+
+                              second head
+
+      dagger
+
+
+
+                              third head
+
+      mace is quicker
+
+
+
+                              first head
+
+      no no the sword its easier
+
+
+
+                              third head
+
+      he said axe
+
+
+
+                              robin
+
+      look hurry up six eyes or i shall cut your head off
+
+
+
+                              third head
+
+          to sir robin referring to first head
+
+      for gods sake cut that one off and do us all a favour
+
+
+
+                              first head
+
+      what do you mean
+
+
+
+                              third head
+
+      yapping on all the time
+
+
+
+                              second head
+
+      youre lucky youre not next to him
+
+
+
+                              third head
+
+      what do you mean
+
+
+
+                              second head
+
+      you snore
+
+
+
+                              third head
+
+      oo lies  anyway youve got bad breath
+
+
+
+                              second head
+
+          aspirating heavily
+
+      i havent
+
+
+
+  both third and first heads turn away slightly making faces
+
+
+
+                              second head
+
+      its not my fault  its what you both eat
+
+
+
+                              first head
+
+      look stop this bitching  weve got a knight to kill
+
+
+
+                              second head
+
+      hes buggered off
+
+
+
+                              third head
+
+      so he has  hes scarpered
+
+
+
+                              first head
+
+      thats all your fault
+
+
+
+                              third head
+
+      no its not
+
+
+
+                              first head
+
+          swipes at himself
+
+      take that
+
+
+
+                              second head
+
+      ow
+
+
+
+                              first head
+
+      im sorry
+
+
+
+                              third head
+
+      ere stop it  ill teach you
+
+
+
+  the body starts laying into itself with sword and mace while the heads
+
+  argue and shout with pain  we pan gently across to the maidens on their
+
+  tree  they are still very fed up
+
+
+
+                              maiden
+
+      i suppose were lucky hes only got three heads
+
+
+
+                              lovely
+
+      chance would be a fine thing
+
+
+
+                              third head
+
+      oh lets be nice to him
+
+
+
+                              first head
+
+      oh shut up
+
+
+
+                              robin
+
+      perhaps i could 
+
+
+
+                              first head
+
+      oh quick get the sword out i want to cut his head off
+
+
+
+                              third head
+
+      oh cut your own head off
+
+
+
+                              second head
+
+      yes  do us all a favour
+
+
+
+                              first head
+
+      what
+
+
+
+                              third head
+
+      yapping on all the time
+
+
+
+                              second head
+
+      youre lucky youre not next to him
+
+
+
+                              third head
+
+      what do you mean
+
+
+
+                              second head
+
+      you snore
+
+
+
+                              third head
+
+      ooh lies anyway youve got bad breath
+
+
+
+                              second head
+
+      well only because you dont brush my teeth 
+
+
+
+                              third head
+
+      oh stop bickering and lets go and have tea and biscuits
+
+
+
+                              first head
+
+      all right all right well kill him first and then have tea
+
+      and biscuits
+
+
+
+                              second head
+
+      yes
+
+
+
+                              third head
+
+      oh not biscuits 
+
+
+
+                              first head
+
+      all right all right not biscuits  but lets kill him anyway 
+
+
+
+  wideshot the 3headed knight is alone
+
+
+
+                              second head
+
+      hes buggered off
+
+
+
+                              third head
+
+      so he has hes scarpered
+
+
+
+
+
+13 exterior  glade  day
+
+
+
+   quick sequence of sir robin  the music is jolly and bright as if
+
+   triumphant  robin is not at all happy with the lyrics
+
+
+
+                               singers
+
+       brave sir robin ran away
+
+
+
+                               robin
+
+       i didnt
+
+
+
+                               singers
+
+       bravely ran away away
+
+
+
+                               robin
+
+       no no no
+
+
+
+                               singers
+
+       when danger reared its ugly head
+
+       he bravely turned his tail and fled
+
+       yes brave sir robin turned about
+
+       and gallantly he chickened out
+
+       bravely taking to his feet
+
+       he beat a very brave retreat
+
+       bravest of the brave sir robin
+
+       petrified of being dead
+
+       soiled his pants then brave sir robin
+
+       turned away and fled
+
+
+
+   they disappear into distance
+
+
+
+   animation  the tale of sir galahad
+
+
+
+
+
+14 exterior  storm  forest  dusk
+
+
+
+   as the storm rages we pick up galahad forcing his way through brambles and
+
+   over slippery rocks  progress is hard  he pauses and at this moment
+
+   we hear the howling of wolves  galahad turns then hurries onward even
+
+   more urgently  another louder closer howl is herd and galahad stumbles
+
+   and falls heavily  though obviously injured he bravely struggles
+
+   forward a little and regains his feed reacting with pain  more louder
+
+   closer howling  he grips his sword valiantly and as he glances around
+
+   a flash of lightning reveals the silhouette of a huge terrifying castle
+
+   perhaps looking rather derelict  he makes up his mind in an instant and
+
+   stumbles manfully toward it  more louder howling  he reaches the
+
+   forbidding and enormous doors of the castle and beats on the doors with the
+
+   handle of his sword looking over his shoulder the while  pause
+
+   he beats again shouting
+
+
+
+                               galahad
+
+       open  open the doors  in the name of king arthur  open the doors
+
+      i am sir galahad a knight of the round table
+
+
+
+  some suitable noises are herd inside
+
+
+
+      i am on a quest for the holy grail  i seek shelter
+
+
+
+   some rattling chainy noises come from inside with huge bolts being
+
+   drawn  the wolves howling is very close  as the door creaks
+
+   open galahad steps quickly inside
+
+
+
+15 interior  castle  night
+
+
+
+   from inside we see galahad enter wiping the rain from his eyes and turn
+
+   as the door crashes behind him  galahad turns to the door reacting to the
+
+   fact he is trapped
+
+
+
+                               zoot out of vision
+
+       hello
+
+
+
+   galahad turns back  we see from his pov the lovely zoot standing by him
+
+   smiling enchantingly and a number of equally delectable girlies draped
+
+   around in the seductively poulticed room  they look at him smilingly and
+
+   wave
+
+
+
+                               girlies
+
+       hello
+
+
+
+                               zoot
+
+       welcome gentle sir knight welcome to the castle anthrax
+
+
+
+                               galahad
+
+       the castle anthrax
+
+
+
+                               zoot
+
+       yes  its not a very good name is it  but we are
+
+       nice and we shall attend to your every  every need
+
+
+
+                               galahad
+
+       er 
+
+      you are the keepers of the holy grail
+
+
+
+                               zoot
+
+       the what  but you are tired and you must rest awhile  midget
+
+       crapper
+
+
+
+                               midget and crapper
+
+       yes o zoot
+
+
+
+                               zoot
+
+       prepare a bed for our guest
+
+
+
+                               midget and crapper
+
+           grovelling with delight
+
+       oh thank you zoot thank you thank you
+
+
+
+                               zoot
+
+       away varletesses
+
+           to galahad
+
+       the beds here are warm and soft and very very big
+
+
+
+                               galahad
+
+       well look er i 
+
+
+
+                               zoot
+
+       what is your name handsome knight
+
+
+
+                               galahad
+
+       er  sir galahad the chaste
+
+
+
+                               zoot
+
+       mine is zoot just zoot
+
+           she is very close to him for a moment
+
+       but come
+
+
+
+   she turns away and leads him towards a door leading to a corner leading
+
+   to the bedchamber
+
+
+
+                               galahad
+
+       well look im afraid i really ought to be 
+
+
+
+                               zoot
+
+       sir galahad
+
+
+
+   there is a gasp from the other girls
+
+
+
+                               zoot
+
+       you would not be so ungallant as to refuse our hospitality
+
+
+
+   galahad looks at the other girls  they are clearly on the verge of
+
+   being offended
+
+
+
+                               galahad
+
+       well 
+
+
+
+                               zoot
+
+           she moves off and galahad unwillingly follows
+
+       im afraid our life must seem very dull and quiet compared
+
+       to yours  we are but eightscore young blondes all between
+
+       sixteen and nineteenandahalf cut off in this castle with no
+
+       one to protect us  oooh  it is a lonely life  bathing 
+
+       dressing  undressing  making exciting underwear
+
+
+
+   they reach the end of the corridor and enter the bedchamber
+
+   zoot turns
+
+
+
+                               zoot
+
+       we are just not used to handsome knights 
+
+           she notices him limping
+
+       but you are wounded
+
+
+
+                               galahad
+
+       no its nothing
+
+
+
+                               zoot
+
+       you must see the doctors immediately
+
+            she claps again
+
+       you must lie down
+
+
+
+   she almost forces him to lie on the bed as piglet and winston enter the
+
+   room  they are equally beautiful and dressed exotically  they
+
+   approach galahad
+
+
+
+                               piglet
+
+       well  what seems to be the trouble
+
+
+
+                               galahad
+
+       theyre doctors
+
+
+
+                               zoot
+
+       they have a basic medical training yes  now you must try to rest
+
+       dr winston dr piglet  practice your art
+
+
+
+                               winston
+
+       try to relax
+
+
+
+                               galahad
+
+       no look really this isnt nescess 
+
+
+
+                               piglet
+
+       we must examine you
+
+
+
+                               galahad
+
+       theres nothing wrong with  that
+
+
+
+                               piglet
+
+           slightly irritated
+
+       please  we are doctors
+
+
+
+   zoot reappears  galahad tries for one brief moment to relax  then there is
+
+   a sharp boing from the lower part of his armour  winston glances quickly
+
+   in the appropriate direction as galahad sits up and starts getting off the
+
+   bed and collecting his armour saying
+
+
+
+                               galahad
+
+       no no this cannot be   i am sworn to chastity
+
+
+
+                               piglet
+
+       back to your bed  at once
+
+
+
+                               galahad
+
+       im sorry i must go
+
+
+
+   galahad hurries to the door and pushes through it  as he leaves the room
+
+   we cut to the reverse to show that he is now in a room full of bathing
+
+   and romping girlies all innocent wideeyed and beautiful  they smile
+
+   enchantingly at him as he tries to keep walking without being diverted by
+
+   the lovely sights assaulting his eyeballs  he nods to them stiffly once
+
+   or twice and then his eye catches a particularly stunning young lady
+
+   he visibly gulps with repressed emotion and cannot resist saying
+
+
+
+                              galahad
+
+      good evening  ah zoot  er 
+
+
+
+                              dingo
+
+      no i am zoots identical twin sister dingo
+
+
+
+                              galahad
+
+      oh  well im sorry but i must leave immediately
+
+
+
+                              dingo
+
+          very dramatically
+
+      no  oh no  bad  bad zoot
+
+
+
+                              galahad
+
+      er why
+
+
+
+                              dingo
+
+      she has been lying again  she told us you had promised to
+
+      stay for ever
+
+
+
+                              galahad
+
+      oh
+
+
+
+                              galahad
+
+      oh  will you excuse me
+
+
+
+                              dingo
+
+      where are you going
+
+
+
+                              galahad
+
+      i have seen the grail i have seen it  here in this castle
+
+
+
+                              dingo
+
+      no  oh no  bad  bad zoot
+
+
+
+                              galahad
+
+      what is it
+
+
+
+                              dingo
+
+      bad wicked naughty zoot  she has been setting fire to our beacon
+
+      which  i have just remembered  is grailshaped   it is not the
+
+      first time weve had this problem
+
+
+
+                              galahad
+
+      its not the real grail
+
+
+
+                              dingo
+
+       wicked wicked zoot  she is a bad person and she must pay the
+
+       penalty  and here in castle anthrax we have but one punishment
+
+        you must tie her down on a bed  and spank her  come
+
+
+
+                               girls
+
+       a spanking  a spanking
+
+
+
+                               dingo
+
+       you must spank her well and after you have spanked her you
+
+       may deal with her as you like and then  spank me
+
+
+
+                               amazing
+
+       and spank me
+
+
+
+                               stunner
+
+       and me
+
+
+
+                               lovely
+
+       and me
+
+
+
+                               dingo
+
+       yes yes you must give us all a good spanking
+
+
+
+                               girls
+
+       a spanking  a spanking  there is going to be a spanking tonight
+
+
+
+                               dingo
+
+       and after the spanking  the oral sex
+
+
+
+                               galahad
+
+       oh dear well i
+
+
+
+                               girls
+
+       the oral sex   the oral sex
+
+
+
+                               galahad
+
+       well i suppose i could stay a bit longer
+
+
+
+   at this moment there is a commotion behind and sir launcelot and concord
+
+   possibly plus gawain burst into the bathing area with swords drawn and
+
+   form themselves round sir galahad threatening the girls
+
+
+
+                               launcelot
+
+       sir galahad
+
+
+
+                               galahad
+
+       oh  hello 
+
+
+
+                               launcelot
+
+       quick
+
+
+
+                               galahad
+
+       why
+
+
+
+                               launcelot
+
+       you are in great peril
+
+
+
+                               dingo
+
+       no he isnt
+
+
+
+                               launcelot
+
+       silence foul temptress
+
+
+
+                               galahad
+
+       well shes got a point
+
+
+
+                               launcelot
+
+       well cover your escape
+
+
+
+                               galahad
+
+       look  im fine
+
+
+
+                               girls
+
+       sir galahad
+
+
+
+   he threatens dingo
+
+
+
+                               galahad
+
+       no look i can tackle this lot singlehanded
+
+
+
+                               girls
+
+       yes yes let him tackle us singlehanded
+
+
+
+                               launcelot
+
+       come sir galahad quickly
+
+
+
+                               galahad
+
+       no really i can cope  i can handle this lot easily
+
+
+
+                               dingo
+
+       yes let him handle us easily
+
+
+
+                               launcelot
+
+       no sir  quick
+
+
+
+
+
+   he starts pulling galahad away
+
+
+
+                               galahad
+
+       no please  please i can defeat them  theres only a hundred
+
+
+
+                               girls
+
+       he will beat us easily  we havent a chance
+
+
+
+                               dingo
+
+       oh shit
+
+
+
+   by now launcelot and concorde have hustled galahad out of the bathing
+
+   area and are running through the outside door
+
+
+
+                               launcelot
+
+       we were in the nick of time  you were in great peril
+
+
+
+                               galahad
+
+           dragging his feet somewhat
+
+       i dont think i was
+
+
+
+                               launcelot
+
+       you were sir galahad you were in terrible peril
+
+
+
+                               galahad
+
+       look let me go back in there and face the peril
+
+
+
+                               launcelot
+
+       its too perilous
+
+
+
+   they are right outside the castle by now
+
+
+
+                               galahad
+
+       look its my duty as a knight to try and sample as much peril as i can
+
+
+
+                               launcelot
+
+       no no we must find the grail
+
+
+
+  the thunderstorm is over  a bunch sic of pages are tethered to a tree with
+
+  more men waiting  their tethers are untied and the pages start banging away
+
+  with their coconuts  galahad is swept along with them as they ride off
+
+
+
+                               galahad
+
+       oh let me go and have a bit of peril
+
+
+
+                               launcelot
+
+       no  its unhealthy
+
+
+
+                               galahad
+
+        i bet youre gay
+
+
+
+                               launcelot
+
+       no im not
+
+
+
+   gawain or concorde gives a knowing glance at launcelot  voice comes in as
+
+   they ride off
+
+
+
+                               voice over
+
+       sir launcelot had saved galahad from almost certain
+
+       temptation but they were still lost far from the goal
+
+       of their search for the holy grail  only bedevere and
+
+       king arthur himself riding day and night had made
+
+       any progress
+
+
+
+
+
+16  animationlive action
+
+
+
+    arthur and bedevere in the depths of a dark forest with an old blind
+
+    soothsayer  he lies in a broken down old woodmans hut
+
+
+
+                               arthur
+
+       and this enchanter of whom you speak  he has seen the grail
+
+
+
+   the soothsayer laughs forbiddingly adding to the general spookiness of
+
+   this encounter
+
+
+
+                               arthur
+
+       where does he live
+
+           he stares into the blind eyes of the old man
+
+       old man  where does he live 
+
+
+
+                               soothsayer
+
+       he knows of a cave  a cave which no man has entered
+
+
+
+                               arthur
+
+       and  the grail  the grail is there
+
+
+
+   the blind man laughs again to himself
+
+
+
+                               soothsayer
+
+       there is much danger  for beyond the cave lies the gorge
+
+       of eternal peril which no man has ever crossed
+
+
+
+                               arthur
+
+       but the grail  where is the grail
+
+
+
+                               soothsayer
+
+       seek you the bridge of death 
+
+
+
+                               arthur
+
+       the bridge of death  which leads to the grail
+
+
+
+   the old man laughs sinisterly and mockingly  they look down and he is
+
+   gone  they stand up  suddenly behind them is a noise  they turn sharply
+
+   in the door of the little hut is a cat  it miaows and is gone  they
+
+   slowly back out of the hut  as they touch the doorposts they just flake
+
+   away into dust  the whole hut is rotten  it collapses
+
+
+
+   spooky music  they are thoroughly shaken and they begin to hear noises of
+
+   people moving in the forest around them  they start to back cautiously
+
+   away from the hut suddenly there is heavy footfall behind them  they
+
+   turn in fear and
+
+
+
+   sudden cut to big closeup of a frightening blackbrowed evil face
+
+
+
+                               tall knight of ni
+
+       ni
+
+
+
+   arthur and bedevere recoil in abject fear  patsy rears up with coconuts
+
+
+
+                               arthur
+
+           to patsy
+
+       easy  boy easy 
+
+
+
+   arthur peers into the darkness
+
+
+
+       who are you
+
+
+
+                               six voices from darkness
+
+       ni  peng  neeee  wom
+
+
+
+   an extraordinary tall knight in all black possibly john with mike on his
+
+   shoulders walks out from the dark trees  he is extremely fierce and
+
+   gruesome countenance  he walks towards king arthur and patsy who are
+
+   wazzing like mad  salopian slang meaning very scared  almost to the
+
+   point of wetting oneself eg before an important football match or
+
+   prior to a postering  salopian slang meaning a beating by the school
+
+   praeposters  sorry about the salopian slant to this stage direction  ed
+
+
+
+                               arthur
+
+           wazzed stiff
+
+       who are you
+
+                               tall knight
+
+       we are the knights who say ni
+
+
+
+                               bedevere
+
+       no  not the knights who say ni
+
+
+
+                               tall knight
+
+       the same
+
+
+
+                               arthur
+
+       who are they
+
+
+
+                               tall knight
+
+       we are the keepers of the sacred words  ni  peng  and neee
+
+        wom
+
+
+
+                               bedevere
+
+       those who hear them seldom live to tell the tale
+
+
+
+                               tall knight
+
+       the knights who say ni demand a sacrifice
+
+
+
+                               arthur
+
+           to the tall knight
+
+       knights who say ni  we are but simple travellers  we seek the
+
+       enchanter who lives beyond this wood and who 
+
+
+
+                               tall knight
+
+       ni
+
+
+
+                               arthur
+
+           recoiling
+
+       oh
+
+
+
+                               tall knight
+
+       ni   ni
+
+
+
+                               arthur
+
+           he cowers in fear
+
+       oh
+
+
+
+                               tall knight
+
+       we shall say ni again to you if you do not appease us
+
+
+
+                               arthur
+
+       all right  what do you want
+
+
+
+                               tall knight
+
+       we want  a shrubbery
+
+
+
+                               arthur
+
+       a what
+
+
+
+                               tall knight
+
+       ni  ni  ni  peng  nee  wum
+
+
+
+   the pages rear and snort and rattle their coconuts
+
+
+
+                               arthur
+
+       all right  all right  no more please  we will find you
+
+       a shrubbery 
+
+
+
+                               tall knight
+
+       you must return here with a shrubbery or else   you shall
+
+       not pass through this wood alive
+
+
+
+                               arthur
+
+       thanks you knights who say ni  you are fair and just  we will
+
+       return with a shrubbery
+
+
+
+                               tall knight
+
+       one that looks nice
+
+
+
+                               arthur
+
+       of course
+
+
+
+                               tall knight
+
+       and not too expensive
+
+
+
+                               arthur
+
+       yes 
+
+
+
+                               tall knight
+
+       now  go
+
+
+
+   arthur and bedevere turn and ride off
+
+
+
+                               other knights
+
+       ni  ni
+
+
+
+   shouts of ni and peng ring behind them
+
+
+
+
+
+17 exterior  day
+
+
+
+   cut back to the historian lying in the glade  his wife who has been
+
+   kneeling beside him rises as two police patrolmen enter the glade
+
+   they bend over her husband  one takes out a notebook
+
+
+
+   cut to and animated title  the tale of sir launcelot
+
+
+
+
+
+18 interior  princes room in castle  day
+
+
+
+   a young quite embarrassingly unattractive prince is gazing out of a castle
+
+   window  his father stands beside him  he is also looking out  the
+
+   prince wears a long white undershirt like a night shirt
+
+
+
+                               father
+
+       one day lad all this will be yours 
+
+
+
+                               prince
+
+       what  the curtains
+
+
+
+                               father
+
+       no  not the curtains lad   all that 
+
+           indicates the vista from the window
+
+       all that you can see stretched out over the hills and
+
+       valleys  as far as the eye can see and beyond 
+
+       thatll be your kingdom lad
+
+
+
+                               prince
+
+       but mother 
+
+
+
+                               father
+
+       father lad
+
+
+
+                               prince
+
+       but father i dont really want any of that
+
+
+
+                               father
+
+       listen lad i built this kingdom up from nothing  all i had when
+
+       i started was swamp   other kings said i was daft to build a
+
+       castle on a swamp but i built it all the same  just to show em
+
+       it sank into the swamp  so i built a another one  that sank
+
+       into the swamp  i built another one   that fell over and then
+
+       sank into the swamp   so i built another  and that stayed up
+
+        and thats what your gonna get lad the most powerful kingdom in
+
+       this island
+
+
+
+                               prince
+
+       but i dont want any of that id rather 
+
+
+
+                               father
+
+       rather what
+
+
+
+                               prince
+
+       id rather  just  sing 
+
+
+
+   music intro
+
+
+
+                               father
+
+       youre not going to do a song while im here
+
+
+
+   music stops
+
+
+
+       listen lad in twenty minutes youre going to be married to
+
+       a girl whose father owns the biggest tracts of open land in britain
+
+
+
+                               prince
+
+       i dont want land
+
+
+
+                               father
+
+       listen alice 
+
+
+
+                               prince
+
+       herbert
+
+
+
+                               father
+
+       herbert   we built this castle on a bloody swamp we need all
+
+       the land we can get
+
+
+
+                               prince
+
+       but i dont like her
+
+
+
+                               father
+
+       dont like her   whats wrong with her  shes beautiful 
+
+       shes rich  shes got huge tracts of land 
+
+
+
+                               prince
+
+       i know  but  i want the girl that i marry to  have 
+
+       a certain  special  something 
+
+
+
+   music into for song
+
+
+
+                               father
+
+       cut that out
+
+
+
+   music cuts off abruptly
+
+
+
+       youre marrying princess lucky so youd better get used to the idea
+
+       guards
+
+
+
+   two guards enter and stand to attention on either side of the door
+
+   one of them has hiccoughs and does so throughout
+
+
+
+                               father
+
+       make sure the prince doesnt leave this room until
+
+       i come and get him
+
+
+
+                               first guard
+
+       not  to leave the room  even if you come and get him
+
+
+
+                               father
+
+       no  until i come and get him
+
+
+
+                               second guard
+
+       hic
+
+
+
+                               first guard
+
+       until you come and get him were not to enter the room
+
+
+
+                               father
+
+       no   you stay in the room and make sure he doesnt leave
+
+
+
+                               first guard
+
+        and youll come and get him
+
+
+
+                               second guard
+
+       hic
+
+
+
+                               father
+
+       thats right
+
+
+
+                               first guard
+
+       we dont need to do anything apart from just stop him
+
+       entering the room
+
+
+
+                               father
+
+       leaving the room
+
+
+
+                               first guard
+
+       leaving the room  yes
+
+
+
+                               father
+
+       got it
+
+
+
+                               second guard
+
+       hic
+
+
+
+   farther makes to leave
+
+
+
+                               first guard
+
+       er  if  we  er 
+
+
+
+                               father
+
+       yes
+
+
+
+                               first guard
+
+       if we  er 
+
+           trying to remember what he was going to say
+
+
+
+                               father
+
+       look its  simple  just stay here and make sure he doesnt
+
+       leave the room
+
+
+
+                               second guard
+
+       hic
+
+
+
+                               father
+
+       right
+
+
+
+                               first guard
+
+       oh i remember  can he  er  can he leave the room with us
+
+
+
+                               father
+
+           carefully
+
+       no   keep him in here  and make sure he doesnt 
+
+
+
+                               first guard
+
+       oh yes  well keep him in here obviously  but if he had
+
+       to leave and we were with him
+
+
+
+                               father
+
+       no  just keep him in here
+
+
+
+                               first guard
+
+       until you or anyone else 
+
+
+
+                               father
+
+       no not anyone else  just me
+
+
+
+                               first guard
+
+       just you 
+
+
+
+                               second guard
+
+       hic
+
+
+
+                               first guard
+
+       get back
+
+
+
+                               father
+
+       right
+
+
+
+                               first guard
+
+       okay  fine  well remain here until you get back
+
+
+
+                               father
+
+       and make sure he doesnt leave
+
+
+
+                               first guard
+
+       what
+
+
+
+                               father
+
+       make sure he doesnt leave
+
+
+
+                               first guard
+
+       the prince  
+
+
+
+                               father
+
+       yes   make sure 
+
+
+
+                               first guard
+
+       oh yes of course  i thought you meant him
+
+           he points to the other guard and laughs to himself
+
+       you know it seemed a bit daft me havin to guard him when
+
+       hes a guard 
+
+
+
+                               father
+
+       is that clear
+
+
+
+                               second guard
+
+       hic
+
+
+
+                               first guard
+
+      oh yes  thats quite clear  no problems
+
+
+
+   father pulls open the door and makes to leave the room  the guards follow
+
+
+
+                               father
+
+           to the guards
+
+       where are you going
+
+
+
+                               first guard
+
+       were coming with you
+
+
+
+                               father
+
+       no i want you to stay here and make sure he doesnt leave
+
+       the room until i get back
+
+
+
+                               first guard
+
+       oh i see  right
+
+
+
+   they take up positions on either side of the door
+
+
+
+                               prince
+
+       but father
+
+
+
+                               father
+
+       shut your noise you  and get that suit on
+
+
+
+    he points to a wedding suit on a table or chair  father throws one last
+
+    look at the boy and turns goes out and slams the door
+
+
+
+    the prince slumps onto window seat looking forlornly out of the window
+
+    music intro to song 
+
+
+
+    the door flies open the music cuts off and father pokes his head in
+
+
+
+                               father
+
+        and no singing
+
+
+
+                               second guard
+
+       hic
+
+
+
+                               father
+
+           as he goes out
+
+       go and have a drink of water
+
+
+
+   father slams the door again  the guards take up their positions  the son
+
+   gazes out of the window again  sighs  thinks  a thought strikes him
+
+    he gets up crosses to his desk and scribbles a quick note and impales
+
+   it on an arrow  takes a bow down from the wall  and fires the arrow
+
+   out of the window
+
+
+
+   he looks wetly defiant at the guards who smile pleasantly
+
+
+
+
+
+15 exterior  a forest  day
+
+
+
+   cut to the middle of the forest  sir launcelot is riding along with
+
+   a trusty servant concorde
+
+
+
+                               launcelot
+
+       and  o v e r   we go
+
+
+
+   he strides over a big tree trunk  his horse does run and jump 
+
+
+
+                               launcelot
+
+           enthusiastically
+
+       well taken concorde
+
+
+
+                               concorde
+
+       thank you sir most kind 
+
+
+
+                               launcelot
+
+       and another
+
+
+
+   concorde misses a beat
+
+
+
+       steady  good  and the last one 
+
+
+
+   concorde does the runup with the coconuts  he does the break for the
+
+   leap  there is a thwack  sir launcelot is waiting for the horse
+
+     to land
+
+
+
+                               concorde
+
+       message for you sir
+
+
+
+   he falls forward revealing the arrow with the note
+
+
+
+                               launcelot
+
+       concorde  speak to me
+
+
+
+   he realises he might be in danger and so starts to crawl off 
+
+   when he notices the note  he takes it out and reads it
+
+
+
+                               launcelot
+
+           reading
+
+       to whoever finds this note 
+
+       i have been imprisoned by my father who wishes me to marry
+
+       against my will  please please please please come and rescue me
+
+       i am in the tall tower of swamp castle
+
+
+
+   sir launcelots eyes light up with holy inspiration
+
+
+
+                               launcelot
+
+       at last   a call  a cry of distress 
+
+           he draws his sword and turns to concorde
+
+      concorde  brave concorde  you shall not have died in vain
+
+
+
+                               concorde
+
+       im not quite dead sir 
+
+
+
+                               launcelot
+
+           a little deflated
+
+       oh well  er brave concorde  you shall not have been fatally
+
+       wounded in vain
+
+
+
+                               concorde
+
+       i think i could pull through sir
+
+
+
+                               launcelot
+
+       good concorde  stay here and rest awhile
+
+
+
+   he makes to leap off dramatically
+
+
+
+                               concorde
+
+       i think ill be all right to come with you sir
+
+
+
+                               launcelot
+
+       i will send help brave friend as soon as i have accomplished
+
+       this most daring desperate adventure in this genre
+
+
+
+                               concorde
+
+       really i feel fine sir
+
+
+
+                               launcelot
+
+       farewell concorde
+
+
+
+                               concorde
+
+       it just seems silly  me lying here
+
+
+
+   sir launcelot plunges off into the forest
+
+
+
+20 exterior  castle gateway  day
+
+
+
+   two hanging banners one each side of the gate with the monogram
+
+   h  l
+
+
+
+   two sentries with spears  slightly weddingly  red ribbons on their
+
+   right spears  we can hear from inside revelry and celebration music
+
+
+
+   we hear launcelots footsteps  the two sentries are watching him  one of
+
+   them raises his hand
+
+
+
+                              first sentry
+
+      halt friend 
+
+
+
+   launcelot leaps into shot with a mighty cry and runs the guard through and
+
+   hacks him to the floor  blood  swashbuckling music perhaps
+
+   launcelot races through into the castle screaming
+
+
+
+                               second sentry
+
+       hey
+
+
+
+   he looks down at his mutilated comrade
+
+
+
+
+
+21 exterior  day
+
+
+
+   cut to inside of the castle grounds or courtyard
+
+
+
+   in the sunlight beautifully dressed wedding guests are arriving
+
+   converging on a doorway  a country dance in progress
+
+
+
+   sir launcelot rushes towards them
+
+
+
+   cut to handheld closeups as he charges through the crowd hacking
+
+   right and left a la errol flynn at all who come in his way
+
+
+
+   he fights his way through the country dance  blood  shrieks  bemused
+
+   looks of guests  not horror so much as uncomprehending surprise
+
+
+
+   possibly errol flynn music
+
+
+
+   one country dancer is left holding just a hand
+
+
+
+   right and left the guests crumple in pools of blood as he fights his
+
+   way through the door and into the main hall
+
+
+
+
+
+22 interior  day
+
+
+
+   cut to interior of main hall  sound of busy preparations  men setting
+
+   up huge hogsheads of wine  men putting up last minute flower arrangements
+
+   cooks bearing huge trays of food pies suckling pigs a swan boars
+
+   head etc
+
+
+
+   the bride being dressed by several attendants  father ordering servants
+
+   around  organizing the stewards etc
+
+
+
+   sir launcelot bursts through the middle of them slashing heroically
+
+   hacking wounding and killing  again fairly closeup chaotic shots
+
+   we see guests stagger back wounded  a cook bites the dust etc
+
+
+
+   sir launcelot eventually reaches the staircase  runs up it and
+
+   into a small door
+
+
+
+
+
+23 interior  day
+
+
+
+   cut to sir launcelot running up spiral staircase  he reaches the door
+
+   of the princes room  he flings it open
+
+
+
+                               first guard
+
+       ah  now  were not allowed to 
+
+
+
+   sir launcelot runs him through  grabs his spear and stabs the other
+
+   guard who collapses in a heap  hiccoughs quietly
+
+
+
+   sir launcelot runs to the window and kneels down in front of the prince
+
+   averting his head
+
+
+
+                               launcelot
+
+       oh fair one behold your humble servant sir launcelot
+
+       from the court of camelot  i have come to take you 
+
+           he looks up for the first time and his voice trails away
+
+        away  im terribly sorry 
+
+
+
+                               prince
+
+       you got my note
+
+
+
+                               launcelot
+
+       well  yes 
+
+
+
+                               prince
+
+       youve come to rescue me
+
+
+
+                               launcelot
+
+       well  yes  but i hadnt realised 
+
+
+
+                               prince
+
+           his eyes light up
+
+       i knew that someone would come  i knew  somewhere out there 
+
+       there must be 
+
+
+
+   music intro to song
+
+
+
+                               father
+
+           suddenly looking in the door
+
+       stop that
+
+
+
+   music cuts out
+
+
+
+   father sees sir launcelot still kneeling before his son
+
+
+
+                               father
+
+       who are you
+
+
+
+                               prince
+
+       im  your son 
+
+
+
+                               father
+
+       not you
+
+
+
+                               launcelot
+
+           half standing selfconsciously
+
+       im  er  sir launcelot sir
+
+
+
+                               prince
+
+       hes come to rescue me father
+
+
+
+                               launcelot
+
+           embarrassed
+
+       well lets not jump to conclusions 
+
+
+
+                               father
+
+       did you kill all those guards
+
+
+
+                               launcelot
+
+       yes   im very sorry 
+
+
+
+                               father
+
+       they cost fifty pounds each
+
+
+
+                               launcelot
+
+       well im really am most awfully sorry but i 
+
+       i can explain everything 
+
+
+
+                               prince
+
+       dont be afraid of him sir launcelot  ive got a rope here all
+
+       ready 
+
+
+
+    he throws a rope out of the window which is tied to a pillar in the room
+
+    he  looks rather pleased with himself that he has got it all ready
+
+
+
+                               father
+
+       you killed eight wedding guests in all
+
+
+
+                               launcelot
+
+       er well  the thing is  i thought your son was a lady
+
+
+
+                               father
+
+       i can understand that
+
+
+
+                               prince
+
+           half out of the window
+
+       hurry brave sir launcelot
+
+
+
+                               father
+
+           to his son
+
+       shut up
+
+           to launcelot
+
+       you only killed the brides father  thats all 
+
+
+
+                               launcelot
+
+       oh dear i didnt really mean to
+
+
+
+                               father
+
+       didnt mean to  you put your sword right through his head
+
+
+
+                               launcelot
+
+       gosh  is he all right
+
+
+
+                               father
+
+       you even kicked the bride in the chest  its going to cost
+
+       me a fortune
+
+
+
+                               launcelot
+
+       i can explain   i was in the forest  riding north
+
+       from camelot  when i got this note
+
+
+
+                               father
+
+       camelot  are you from camelot
+
+
+
+   the princes head peeps over the windowsill
+
+
+
+                               prince
+
+       hurry
+
+
+
+                               launcelot
+
+       i am sir i am a knight of king arthur
+
+
+
+                               father
+
+       mm  very nice castle camelot  very good pig country
+
+
+
+                               launcelot
+
+       is it
+
+
+
+                               prince out of vision
+
+       i am ready sir launcelot
+
+
+
+                               father
+
+       do you want to come and have a drink
+
+
+
+                               launcelot
+
+       oh  thats awfully nice
+
+
+
+                               prince oov
+
+           loud and shrill
+
+       i am ready
+
+
+
+   as they walk past the rope the father nonchalantly cuts with his knife
+
+   there is no sound except after a pause a slight squeal from very far away
+
+   as the prince makes contact with the ground
+
+
+
+                               launcelot
+
+       its just that when im in this genre i tend to get overexcited
+
+       and start to leap around and wave my sword about  and 
+
+
+
+                               father
+
+       oh dont worry about that  tell me  doesnt camelot own
+
+       that stretch of farmland up by the mountains
+
+
+
+   he puts his arm round launcelots shoulders as they go though the door
+
+
+
+
+
+24 interior  day
+
+
+
+   cut to the great hall  guests wounded and bloody are tending to the dead
+
+   and injured sighs and groans the princess in her white wedding dress is
+
+   holding her chest and coughing blood
+
+   people dabbing the stains off her dress
+
+
+
+   father and sir launcelot start to walk down the grand staircase  talking
+
+   to each other
+
+
+
+   one of the guests notices and points to sir launcelot
+
+
+
+                               guest
+
+       there he is
+
+
+
+   as one man all remaining ablebodied men look up and make for the staircase
+
+   muttering angrily  sir launcelot grabs his sword
+
+
+
+                               father
+
+       hold it
+
+
+
+   but it is too lake  sir launcelot cannot be stopped  with fearless abandon
+
+   he throws himself into the crowd and starts hacking and slashing  he has
+
+   carved quite a number up before the father can stop him and pulls him back
+
+   onto the stairs  renewed groans and cries
+
+
+
+
+
+                               father
+
+           shouting above noise
+
+       hold it  please
+
+                               launcelot
+
+       sorry  sorry 
+
+           with bitter self reproach
+
+       there you see  i just got excited again and i got carried away 
+
+       im ever so sorry
+
+           to the crowd
+
+       sorry
+
+
+
+   crowd kneeling round their wounded again  moans etc
+
+
+
+                               guest
+
+       hes killed the best man
+
+
+
+                               second guest
+
+           holding a limp woman
+
+       hes killed my auntie
+
+
+
+                               father
+
+       no please  this is supposed to be a happy occasion
+
+       lets not bicker and argue about who killed who   we
+
+       are here today to witness the union of two young people in
+
+       the joyful bond of the holy wedlock  unfortunately one
+
+       of them my son herbert has just fallen to his death
+
+
+
+   murmurs from crowd  the bride smiles with relief coughs
+
+
+
+       but i dont want to think ive not lost a son 
+
+       so much as gained a daughter 
+
+
+
+   smattering of applause
+
+
+
+       for since the tragic death of her father 
+
+
+
+                               shout from back
+
+       hes not quite dead
+
+
+
+                               father
+
+       since the fatal wounding of her father 
+
+
+
+                               shout from back
+
+       i think hes getting better
+
+
+
+   father nods discreetly to a soldier standing to one side  the soldier
+
+   slips off  fathers eyes watch him move round to where the voice
+
+   came from
+
+
+
+                               father
+
+       for  since her own father  who  when he seemed about to
+
+       recover  suddenly felt the icy  hand of death upon him
+
+
+
+   a scuffle at the back
+
+
+
+                               shout from back
+
+       oh hes died
+
+
+
+                               father
+
+       i want his only daughter from now onwards to think of me as her
+
+       old dad  in a very real and legally binding sense
+
+
+
+   applause
+
+
+
+       and im sure sure  that the merger  er  the union
+
+       between the princess and the brave but dangerous sir launcelot
+
+       of camelot 
+
+
+
+                               launcelot
+
+       what
+
+
+
+   gasp from the crowd
+
+
+
+                               crowd
+
+       the dead prince
+
+
+
+   there is concorde holding the dead prince in his arms
+
+
+
+                               concorde
+
+       hes not quite dead
+
+
+
+                               prince
+
+       i feel much better
+
+
+
+                               father
+
+       you fell out of the tall tower you creep
+
+
+
+                               prince
+
+       i was saved at the last minute
+
+
+
+                               father
+
+       how
+
+
+
+                               prince
+
+       well  ill tell you 
+
+
+
+   music intro to song  concorde stands the son on his feet and adopts cod
+
+   and now a number from my friend pose
+
+
+
+                               father
+
+       not like that
+
+
+
+   but the music doesnt stop and the crowd starts to sing
+
+
+
+                               crowd
+
+       hes going to tell
+
+
+
+                               father
+
+       shut up
+
+
+
+                               crowd
+
+       hes going to tell 
+
+
+
+                               father
+
+           screaming
+
+       shut up
+
+
+
+    as the song starts the father tries yelling at them and eventually gives
+
+    up  sir launcelot joins concorde in the crowd
+
+
+
+                              launcelot
+
+      we must escape  quickly before the song
+
+
+
+                              concorde
+
+      come with me sir
+
+
+
+                              launcelot
+
+      youre not right for this genre  i must escape more dramatically
+
+
+
+
+
+                              concorde
+
+      quickly sir come this way
+
+
+
+                              launcelot
+
+      no  its not right for my idiom  i must escape more   more 
+
+
+
+                              concorde
+
+      dramatically sir
+
+
+
+                              launcelot
+
+      dramatically
+
+
+
+                               crowd
+
+       hes going to tell
+
+       hes going to tell
+
+       hes going to tell about his great escape
+
+       oh he fell a long long way
+
+       but hes here with us today
+
+       what a wonderful  escape
+
+
+
+   concorde goes  sir launcelot runs back up the stairs grabs a rope
+
+   of the wall and swings out over the heads of the crowd in a
+
+   swashbuckling manner towards a large window  he stops just short
+
+   of the window and is left swing pathetically back and forth
+
+
+
+                              launcelot
+
+      excuse me  could somebody give me a push 
+
+
+
+
+
+25 exterior  a deserted village  dusk
+
+
+
+   toothless old crone by the roadside  arthur and bedevere and two pages
+
+   ride up and draw up alongside the crone
+
+
+
+                               arthur
+
+        is there anywhere where we could buy a shrubbery
+
+
+
+   the old crone crosses herself with a look of stark terror
+
+
+
+                               crone
+
+       who sent you
+
+
+
+                               arthur
+
+       the knights who say ni
+
+
+
+                               crone
+
+       aaaagh
+
+           she looks around in rear
+
+       no  we have no shrubberies here
+
+
+
+                               bedevere
+
+       surely there must be
+
+
+
+  arthur restrains from threatening the lady
+
+
+
+                              arthur
+
+          aside
+
+      it will be not good to argue  these simple people are terrified
+
+      of the knights who say ni
+
+
+
+                              crone
+
+          she cowers
+
+      ohhh
+
+
+
+  arthur takes bedevere further aside
+
+
+
+                              arthur
+
+      there is only one way to get the information we want 
+
+
+
+                              bedevere
+
+      send her a letter from a long way away
+
+
+
+                              arthur
+
+      er no  no we must 
+
+
+
+                              bedevere
+
+      talk to her in funny voices
+
+
+
+                              arthur
+
+          slightly crossly
+
+      no 
+
+
+
+                              bedevere
+
+      how about trying ourselves to a tree
+
+
+
+                              arthur
+
+          grittily
+
+      no  our only hope is to make her as afraid of us as she is of
+
+      the awful knights who say ni
+
+
+
+                              bedevere
+
+          sagely
+
+      ah  hit ourselves with a big rock 
+
+
+
+  he nods knowingly
+
+
+
+                              arthur
+
+          tolerantly but firmly
+
+      no  nothing we do to ourselves will frighten her as much as
+
+      what we can do to her 
+
+
+
+                              bedevere
+
+      ah
+
+
+
+                              arthur
+
+      we must threaten to say ni
+
+
+
+                              bedevere
+
+          terror
+
+      oh no
+
+
+
+  they reapproach the old crone who is cowering more than ever
+
+
+
+                               arthur
+
+       listen old crone  unless you tell us where we can buy a
+
+       shrubbery my friend and i will  we will say ni
+
+
+
+                               crone
+
+       do your worst
+
+      i have herd the knights say ni in the night  i have herd the
+
+      hideous peng and they have said neewum to my sister but still
+
+      i have not revealed 
+
+
+
+                               arthur
+
+       very well old crone  since you will not assist us voluntarily
+
+        ni
+
+
+
+                               crone
+
+       no  never  no shrubberies
+
+
+
+                               arthur
+
+       ni
+
+
+
+                               bedevere
+
+       nu
+
+
+
+                               arthur
+
+       no  ni  more like this ni
+
+
+
+                               bedevere
+
+       ni ni ni
+
+
+
+                               arthur
+
+      its not working
+
+       youre not doing it properly  ni
+
+
+
+                               bedevere
+
+       ni
+
+
+
+                               arthur
+
+       thats it  ni  ni
+
+
+
+   a passerby on a horse is observing them
+
+
+
+                               roger
+
+       are you saying ni to that old woman
+
+
+
+                               arthur
+
+       erm yes
+
+
+
+                               roger
+
+       oh what sad times are these when passing ruffians can say ni
+
+       at will to old ladies  there is a pestilence upon this land
+
+       nothing is sacred  even those who arrange and design
+
+       shrubberies are under considerable economic stress
+
+       at this point in time
+
+
+
+                               arthur
+
+       did you say shrubberies
+
+
+
+                               roger
+
+       yes  shrubberies are my trade  i am a shrubber  my name
+
+       is roger the shrubber  i arrange design and sell shrubberies
+
+
+
+                               bedevere
+
+           rather aggressively to roger
+
+       ni
+
+
+
+                               arthur
+
+       no  no  no
+
+
+
+
+
+26 exterior  glade  dusk
+
+
+
+   cut to the glade in the forest again
+
+
+
+                               arthur
+
+        oh knights of ni here is your shrubbery  may we go now
+
+
+
+                               tall knight
+
+       that is a good shrubbery  i like the laurels particularly 
+
+       but there is one small problem
+
+
+
+                               arthur
+
+       what is that
+
+
+
+                               tall knight
+
+       we are now no longer the knights who say ni
+
+
+
+                               one knight
+
+       ni
+
+
+
+                               others
+
+       sh
+
+
+
+                               one knight
+
+           wispers
+
+       sorry
+
+
+
+                               tall knight
+
+       we are now the knights who go neeeow  wum  ping
+
+
+
+                               others
+
+       ni
+
+
+
+                               others
+
+       ni
+
+
+
+                               one knight
+
+       peng
+
+
+
+                               others
+
+       ni
+
+
+
+                               others
+
+       sh  sh
+
+
+
+                               tall knight
+
+       therefore  we are no longer contractually bound by any agreements
+
+       previously entered into by the knights who say ni
+
+
+
+                               one knight
+
+       ni
+
+
+
+                               another
+
+       peng
+
+
+
+                               another
+
+       sh
+
+
+
+                               tall knight
+
+       shut up
+
+           to arthur
+
+       therefore we must give you a test a test to satisfy the knights who
+
+       say neeeow  wum  ping
+
+
+
+                               others
+
+         terrific chorus
+
+       neeeow  wum  ping
+
+
+
+                               arthur
+
+       what is this test knights of n
+
+           cant say it
+
+        recently knights of ni
+
+
+
+                               knight
+
+       ni
+
+
+
+                               tall knight
+
+       firstly  you must get us another shrubbery
+
+
+
+                               other knights
+
+           half seen
+
+       more shrubberies  more shrubberies for the exknights of ni
+
+
+
+                               arthur
+
+       not another shrubbery 
+
+
+
+                               tall knight
+
+       when you have found the shrubbery place the shrubbery here
+
+       beside this shrubbery  only slightly higher so you get a
+
+       twolevel effect with a path through the middle
+
+
+
+                               other knights
+
+       a path  a little path for the late knights of ni
+
+
+
+   chorus of ni  ni
+
+
+
+                               tall knight
+
+       when you have found the shrubbery then you must cut
+
+       down the mightiest tree in the forest  with a herring
+
+
+
+                               other knights
+
+       yes  with a herring  with a herring  cut down with a herring
+
+
+
+                               arthur
+
+       we shall do no such thing  let us pass
+
+
+
+                               tall knight
+
+       oh please
+
+
+
+                               arthur
+
+       cut down a tree with a herring  it cant be done
+
+
+
+                               other knights
+
+           they all recoil in horror
+
+       oh
+
+
+
+                               tall knight
+
+       dont say that word
+
+
+
+                               arthur
+
+       what word
+
+
+
+                               tall knight
+
+       i cannot tell you  suffice to say is one of the words
+
+       the knights of ni cannot hear
+
+
+
+                               arthur
+
+       how can we not say the word if you dont tell us what it is
+
+
+
+                               tall knight
+
+           cringing in fear
+
+       you said it again
+
+
+
+                               arthur
+
+       what is
+
+
+
+                               tall knight
+
+           dismissively
+
+       no no  not is
+
+
+
+                               other knights
+
+       not is  not is
+
+
+
+   suddenly singing is heard from deep in the forest
+
+
+
+                               sir robins singers
+
+       bravely good sir robin was not at all afraid
+
+       to have his eyeballs skewered 
+
+
+
+                               tall knight
+
+           irritated
+
+       is is all right  you wouldnt get far not saying is
+
+
+
+                               bedevere
+
+       my liege its sir robin
+
+
+
+                               tall knight
+
+           covering his ears
+
+       youve said the word again
+
+
+
+   sir robin and his singers appear in the clearing  the singers are going on
+
+   cheerfully as usual and robin walks in front of them continually
+
+   embarrassed at their presence
+
+
+
+                               singers
+
+        and his kidneys burnt and his nipples skewered off 
+
+
+
+   robin holds his hand up for silence
+
+
+
+                               arthur
+
+       sir robin
+
+
+
+   he shakes his hand warmly
+
+
+
+                               robin
+
+    my liege  its good to have found you again 
+
+
+
+                               tall knight
+
+    now hes said the word
+
+
+
+                               arthur
+
+    where are you going good sir robin
+
+
+
+                               robins singers
+
+           starting up again
+
+       he was going home  he was giving up
+
+       he was throwing in the sponge
+
+
+
+                               robin
+
+           to singers
+
+       shut up  no  er  no  i  er  i  er  i certainly
+
+       wasnt giving up  i was actually looking for the grail 
+
+       er thing  in this forest
+
+
+
+                               arthur
+
+       no  it lies beyond this forest
+
+
+
+                               tall knight
+
+       stop saying the word
+
+
+
+                               other knights
+
+       stop saying the word  the word we cannot hear  the word 
+
+
+
+                               arthur
+
+           losing his patience with the fearful knights of ni
+
+       oh stop it
+
+
+
+   terrific confusion amongst the knights of ni they roll on the ground
+
+   covering their ears  the tall knight remains standing trying to control
+
+   his men
+
+
+
+                               other knights
+
+       theyre all saying the word 
+
+
+
+                               tall knight
+
+       stop saying it  aaaarghh  ive said it 
+
+
+
+                               other knights
+
+       youve said it  aaaaarghhh  weve said it  wwere all saying it
+
+
+
+   arthur beckons to bedevere and robin and they pick their way through
+
+   the helpless knights of ni and away into the forest
+
+
+
+
+
+27 exterior  historians glade  day
+
+
+
+   we cut to an almost subliminal shot of the historians wife being shown
+
+   into a police car which then roars off out of the glade
+
+
+
+   cut back to the forest  the knights of ni are slowly recovering  they
+
+   get up
+
+
+
+                              tall knight
+
+      well at least weve got one shrubbery
+
+
+
+                              other knights
+
+      yes yes  weve done very well   ni
+
+
+
+                              tall knight
+
+      ssh i think somebodys coming  well get them to give us
+
+      another shrubbery
+
+
+
+                              other knights
+
+      good idea  more shrubberies  as many as possible
+
+
+
+   perhaps we start to track back from the scene as they go on talking
+
+
+
+                              tall knight
+
+      what shall we call ourselves this time
+
+
+
+                              knight
+
+      how about the knights of nickynicky
+
+
+
+
+
+28 exterior  day
+
+
+
+   a small group of peasants are being shuffled into a group formation at the
+
+   apparent direction of someone behind the camera  a few coughs
+
+   as they shuffle together  a moment of silence  then they burst
+
+   into pleasant melliflubus song
+
+
+
+   song   when the trees do blossom full
+
+           and all the hills are green
+
+           oh oh we sing
+
+           hey hey we sing
+
+           our country song
+
+
+
+   a hail of arrow hits them and they crumple up  sound of raucous
+
+   laughter off camera
+
+
+
+   cut to reveal a firing squad of archers kneeling not ten feet away from
+
+   the group of singers
+
+
+
+   sitting on the throne on a dais is king brian the wild  he is roaring with
+
+   roaring with laughter  and his court is slightly shabby  bearing all the
+
+   marks of a faded richness  it is a court without women and nobody
+
+   does the washing or shaves very well perhaps there is washing however
+
+   on the line over the castle  king brians advisers stand around
+
+   him   everyone bears the signs of past injuries except for brian
+
+   himself ie they have an arm in a sling or head bandaged all the people
+
+   at court except for brian have their left arm missing possibly
+
+   the result of some violent edict a few years back
+
+
+
+                              king brian
+
+      ha ha ha ha ha ho ho ho ho ha ha ha ha
+
+      oh very good next
+
+
+
+                              first adviser
+
+          a little uncomfortably  perhaps his arm is in a sling obviously
+
+           giving him some pain
+
+      there are no more sir
+
+
+
+                              king brian
+
+          grabbing him by the collar
+
+      what doyou mean you filthy dog
+
+
+
+                              first adviser
+
+      there are no more close harmony groups in the kingdom sir
+
+
+
+                              king brian
+
+      no more close harmony groups
+
+
+
+                              first adviser
+
+      we have scoured the kingdom
+
+
+
+                              king brian
+
+          lifting him bodily into the air and breaking his
+
+           arm again slightly
+
+      you miserable worm you wretch you walking son of a dunghill keeper
+
+      guards
+
+
+
+   two rather shabby looking guards approach as everyone else they also
+
+   have their left arms missing
+
+
+
+                              first adviser
+
+      have mercy your majesty
+
+
+
+                              king brian
+
+   guards take him away and suspend him by his nostrils from the highest
+
+   tree in the kingdom
+
+
+
+   the guards grab him unmercifully and drag him off  he whines piteously
+
+
+
+
+
+29 exterior  day
+
+
+
+   cut back to the glade where the knights of ni were  a police car
+
+   roars up  two plain clothes detective and a constable get out look
+
+   around suspiciously perhaps kneel and examine the ground one policeman
+
+   finds patsys shoe and the other finds a strange scientific instrument that
+
+   was hanging from bedevere
+
+
+
+   they nod grimly to each other climb back in the car and drive off
+
+
+
+
+
+30 exterior  day
+
+
+
+   back in king brians court the first adviser has been dragged off  there
+
+   are muffled screams coming from the nearby tree  the first adviser
+
+   is being hauled up it on pulleys
+
+
+
+                              second adviser
+
+      your majesty i can find you a lute player whose music is passing
+
+      sweet
+
+
+
+                              king brian
+
+      its not the same you thickheaded fool
+
+          king brian hits him on the back of the head  he falls
+
+      theres no fun in killing soloists
+
+
+
+                              second adviser
+
+          picking himself up
+
+      he may have a friend
+
+
+
+                              king brian
+
+      guards
+
+
+
+                              second adviser
+
+      oh please your majesty  please
+
+
+
+                              king brian
+
+      take him away and tie his kidneys to the longest hedge in the kingdom
+
+
+
+   the guards drag the adviser roughly away
+
+
+
+                              second adviser
+
+      no
+
+          he is dragged off screaming and protesting
+
+
+
+                              king brian
+
+          roaring at the rest of the court
+
+      i will personally disembowel the next little bastard who tells me that
+
+      there are no more close harmony 
+
+
+
+   at this moment we hear faintly the sound of singing king brian stopped
+
+   to listen  the entire court turns thankfully towards the mellifluous
+
+   sounds
+
+
+
+      were the knights of the round table
+
+      our shows are formidable
+
+      but many times were given rhymes
+
+      that are quite unsingable
+
+
+
+                              king brian
+
+      wait a minute five point harmony with a countertenor lead
+
+
+
+   various members of the court sigh and breathe more easily
+
+
+
+                              creep
+
+      thank goodness
+
+
+
+                              king brian
+
+      shut up
+
+          punches him right on the end of the nose and shouts to the
+
+           second adviser
+
+      oy you
+
+
+
+                              second adviser
+
+          doubledup surrounded by soldiers busy with his stomach
+
+      yes your majesty
+
+
+
+                              king brian
+
+      go and get em
+
+
+
+                              second adviser
+
+          gratefully
+
+       thank you sir
+
+          he staggers off with some difficulty
+
+
+
+                              guard
+
+      ere wed just started taking his kidneys out
+
+
+
+   cut to arthurbedeveregalahad and lancelot  garwinthrstam hecrot
+
+   plus all their pages  there are riding along singing cheerily
+
+
+
+                              knights
+
+      were baby mad and camelot
+
+      we nurse and push the pram a lot
+
+      in war were tough and able
+
+      quite indefatigable
+
+      between our quests we sequin vests
+
+      and dress like betty gable
+
+      its a
+
+
+
+                              second adviser
+
+      halt
+
+
+
+                              sir galahad
+
+      who are you who dares to halt the knights of king arthurs round table
+
+      in midverse
+
+
+
+                              second adviser
+
+      i bring greetings from the court of king brian
+
+
+
+                              sir lancelot
+
+      king brian the wild
+
+
+
+                              second adviser
+
+      some call him that but hes calmed down allot recently
+
+
+
+                              sir galahad
+
+      are those your kidneys
+
+
+
+                              second adviser
+
+          covering his stomach
+
+      no no its nothing  just a flesh wound
+
+          the knights look at each other
+
+      he has herd your beautiful melody and wishes you to come to his court
+
+      that he may listen at his ease ooh
+
+
+
+                              sir lancelot
+
+      you must be joking
+
+          general murmur or agreement from the other knights
+
+      go to the court of king brian the wild and sing close harmony
+
+
+
+                              other knights
+
+      no fear etc
+
+
+
+                              second adviser
+
+          in increasing pain
+
+      it need not be close harmony oooh agh
+
+
+
+                              sir galahad
+
+      ah but it would get round to close harmony wouldnt it
+
+
+
+                              second adviser
+
+      not necessarily  as i say king brian is much more relaxed than
+
+      he used to be
+
+
+
+                              sir galahad
+
+      i mean could we just stick to one line of plainsong with a bit of
+
+      straight choral work
+
+
+
+                              second adviser
+
+      well obviously hed prefer a bit of close harmony arghhh
+
+
+
+                              knights
+
+      ah there you are
+
+
+
+                              sir launcelot
+
+      wed end unlike the shalott choral society
+
+
+
+                              second adviser
+
+      oh that was an accident  honestly hes so calm now oh
+
+
+
+                              arthur
+
+      no we must be on our way
+
+
+
+   they start off
+
+
+
+                              second adviser
+
+          by now lying on the ground at his last gasp but still trying to
+
+           sound threatening
+
+      if you dont come and sing for him  ah  hell drive  oh
+
+       iron spikes though your heads
+
+
+
+                              knights
+
+      ah that sounds more like brian the wild
+
+
+
+                              second adviser
+
+          looking helplessly at his intestines
+
+      he  he  still gets irritable occasionally
+
+
+
+                              sir galahad
+
+      like with close harmony groups
+
+
+
+                              second adviser
+
+      ooh  look if youre scared 
+
+
+
+                              sir lancelot
+
+      were not scared
+
+
+
+                              second adviser
+
+          with his last ounce of strength
+
+      very well king brian challenges your to sing before him in close
+
+      harmony
+
+
+
+                              arthur
+
+      a challenge
+
+
+
+   the knights look at each other rather taken aback but an idealistic glow
+
+   suffuses king arthurs eyes as he looks heavenwards the other knights
+
+   look at him rather fearfully
+
+
+
+                              arthur
+
+          majestacally
+
+      it is a challenge  we cannot refuse
+
+
+
+                              sir galahad
+
+      king brians a fucking looney
+
+
+
+                              second adviser
+
+      great
+
+          dies
+
+
+
+                              sir galahad
+
+      are you all right
+
+
+
+   cut to king brian the wild on his dias  he sees the knights enter
+
+   the arena
+
+
+
+                              king brian
+
+      ah good
+
+
+
+   cut to trumpeters who executes a rather bad fanfare full of missed
+
+   notes  meanwhile various shots of preparation
+
+
+
+   king brian settling down
+
+
+
+   knights being led up to the podium the last of the previous close harmony
+
+   group is being loaded onto a cart and pushed away by the cart driver
+
+   from scene tow perhaps we see him being paid off
+
+
+
+   shot of king brian on his podium and the herald being untied and having
+
+   his gag removed
+
+
+
+   shot of arthur and knights getting into a group on the podium still
+
+   rather nervous
+
+
+
+   the fanfare comes to an end and several wrong notes
+
+
+
+                              king brian
+
+          who cant wait
+
+      right carry on gentleman
+
+
+
+                              herald
+
+      king brian says carry on
+
+
+
+                              arthur
+
+          wispering
+
+      all right  two tenor lines  ill take the base
+
+
+
+   they all nod
+
+
+
+      one two three
+
+
+
+   sound of bows being drown very near by
+
+
+
+   arthur looks up and frowns
+
+
+
+   cut to reveal a line of twenty archers they all have their left leg
+
+   missing but they do have two arms
+
+
+
+   their arrows are drawn back and point directly at arthur  co
+
+
+
+                              arthur
+
+      hold it err  king brian
+
+
+
+                              herald
+
+          louder than ever
+
+      arthur of camelot addresses thee oh mighty king brian
+
+
+
+                              king brian
+
+           trueulently
+
+      what
+
+
+
+                              arthur
+
+      what are they for
+
+          indicates the archers
+
+
+
+                              king brian
+
+      them theyre just to show you where the audience would be
+
+
+
+                              arthur
+
+      well wed prefer to do it without an audience
+
+
+
+                              king brian
+
+      oh youve got to have an audience
+
+
+
+                              herald
+
+      king brian the wise and good ruler of this land says youve got to
+
+      have an audience
+
+
+
+                              arthur
+
+      wed rather give a private recital
+
+
+
+                              herald
+
+      they say theyd rather give a private recital o wise good and just
+
+      king brian and not the least bit wild
+
+
+
+                              king brian
+
+          to himself
+
+      turds
+
+
+
+   he nods to the archers who turn and hop smartly off in step
+
+
+
+                              onelegged rsm
+
+      left  left  left left left left
+
+      left  left  left left left left
+
+
+
+   they hop round behind a long fence and disappear from sight
+
+   fence needs to be about 7 or 9 feet high
+
+
+
+                              king brian
+
+      right ready when you are
+
+
+
+                              herald
+
+      king brian is ready
+
+
+
+                              arthur
+
+      and  one  two  three  four 
+
+
+
+   they are just about to sing when the archers bows read and arrows points
+
+   peep over the top of the fence
+
+
+
+      hold it
+
+
+
+                              sir gawain
+
+          singing
+
+      were
+
+
+
+   quick flash of archers sensed to fire one tires to hold his shot back but
+
+   fails and fires his arrows by accident in the air
+
+
+
+   quick flash of first adviser who is hanging by his nostrils from the
+
+   highest tree in the kingdom moaning getting hit by the arrow
+
+
+
+                              king brian
+
+      what is it now
+
+
+
+                              arthur
+
+      were not entirely happy with the acoustics
+
+
+
+                              herald
+
+      theyre not entirely happy with
+
+
+
+                              king brian
+
+          impatiently
+
+      oh sod the acoustics  get on with the singing
+
+
+
+                              herald
+
+      king brian says sod the acoustics
+
+
+
+                              arthur
+
+      in that case we shall just have to perform elsewhere
+
+          turns to his knights and begins to usher them off
+
+
+
+                              herald
+
+      they say in that case they shall have to perform elsewhere o rich
+
+      famous and extremely calm king
+
+
+
+                              king brian
+
+          getting very angry and dribbling slightly
+
+      no youve got to sing on the target are  er  convert  er 
+
+      thing 
+
+
+
+                              herald
+
+      king brian has stumbled over his words what a wonderfully human
+
+      incident
+
+
+
+                              king brian
+
+      dont editorialize
+
+
+
+                              herald
+
+      sorry king
+
+
+
+                              king brian
+
+      come on you bastards sing close harmony
+
+
+
+   king brian snaps his finders and the archers rise above the fence without
+
+   any pretence it concealment  fitting arrows into their bows
+
+
+
+                              herald
+
+      king brian calls them bastards and demands to head close harmony
+
+      what will happen next
+
+
+
+                              king brian
+
+      i said dont
+
+
+
+                              herald
+
+      sorry king
+
+
+
+                              king brian
+
+      right on the count of three  one 
+
+
+
+                              herald
+
+      the kings said one
+
+
+
+                              king brian
+
+      two
+
+
+
+                              herald
+
+      the kings said two theyve only got one left
+
+
+
+   we hear the sound of bows being drawn back  tension mounts  the knights
+
+   all look pretty grim  the end is clearly pretty near
+
+
+
+                              king brian
+
+          face in a paroxysm of bloodlust
+
+      three
+
+
+
+                              herald
+
+      three
+
+
+
+   sound in the distance of beautiful close harmony singing
+
+
+
+      bravely good sir robin was not at all afraid
+
+
+
+   cut to see sir robin and his minstrels approaching from round a corner
+
+   of the castle sir robin walks a few feet in from of the them looking
+
+   rather embarrassed
+
+
+
+                              king brian
+
+          turning to the sound
+
+      fantastic
+
+
+
+   cut back to robins minstrels
+
+
+
+      to have his eyeballs skewered and his kidneys  argh
+
+
+
+   they are suddenly pincushioned with arrows
+
+
+
+                              king brian
+
+      ha ha ha ha ho ho ho ho
+
+      oh bloody marvellous
+
+
+
+   robin turns and looks at the decimated remains of his minstrels surprised
+
+   but relieved
+
+
+
+                              arthur
+
+      sir robin this way
+
+
+
+   arthur leads is men off the platform and they are joined by their pages and
+
+   make good their escape
+
+
+
+                              king brian
+
+      ha ha ha ha ha ha ho ho ho ho
+
+
+
+                              herald
+
+      king brians shot the wrong group
+
+
+
+                              king brian
+
+      shut up
+
+
+
+   he swings his sword and slices the heralds head off
+
+
+
+                              heralds head
+
+          as it rolls away
+
+      press freedom infringed
+
+
+
+
+
+28 exterior  beyond forest  day  animation
+
+
+
+   shots of arthur etc  riding out of the forest  they leave the forest and
+
+   they meet launcelot and galahad
+
+
+
+                               voice over
+
+       and so arthur and bedevere and sir robin set out on their search to
+
+       find the enchanter of whom the old man had spoken in scene twentyfour
+
+       beyond the forest they met launcelot and galahad and there was much
+
+       rejoicing
+
+
+
+
+
+29 exterior  another landscape  day  animation
+
+
+
+                               voice over
+
+       in the frozen land of nador they were forced to eat robins
+
+       minstrels   and there was much rejoicing  a year passed 
+
+
+
+   montage of shots of the knights
+
+
+
+       autumn changed into winter  winter changed into spring   spring
+
+       changed back into autumn and autumn gave winter and spring a miss and
+
+       went straight on into summer   until one day 
+
+
+
+
+
+30 exterior  wastes  day
+
+
+
+   the knights are riding along the top of a ridge  the country is wild and
+
+   inhospitable  suddenly some of them see fire in the distance and ride
+
+   towards it  as they approach they see an impressive wizard figure striding
+
+   around conjuring up fire from the ground and causing various bushes and
+
+   branches to burst into flame
+
+
+
+                               arthur
+
+       what manner of man are you that can conjure up fire without flint
+
+       or tinder
+
+
+
+                               tim
+
+       i am an enchanter
+
+
+
+   arthur looks at bedevere
+
+
+
+                               arthur
+
+       by what name are you known
+
+
+
+                               tim
+
+       there are some who call me tim
+
+
+
+                               arthur
+
+       greetings tim the enchanter
+
+
+
+                               tim
+
+       greetings king arthur
+
+
+
+                               arthur
+
+       you know my name
+
+
+
+                               tim
+
+       i do
+
+           does another fire trick
+
+       you seek the holy grail
+
+
+
+                               arthur
+
+       that is our quest  you know much that is hidden o tim
+
+
+
+                               tim
+
+           does another fire trick
+
+       quite
+
+
+
+   ripple of applause from the knights
+
+
+
+                               arthur
+
+       yes we seek the holy grail
+
+           clears throat very quietly
+
+       our quest is to find the holy grail
+
+
+
+                               one or two knights
+
+       yes it is
+
+
+
+                               arthur
+
+       and so were looking for it
+
+
+
+                               knights
+
+       yes we are
+
+
+
+                               bedevere
+
+       we have been for some time
+
+
+
+                               knights
+
+       yes
+
+
+
+                               robin
+
+       months
+
+
+
+                               arthur
+
+       yes  and obviously any help we get is  is very  helpful
+
+
+
+                               galahad
+
+       do you know where it 
+
+
+
+   tim does another fire trick
+
+
+
+                               all other knights
+
+       sssssh
+
+
+
+                               arthur
+
+       fine  well er  we mustnt take up anymore of your time 
+
+       i dont suppose  sorry to sort of keep on about it  you
+
+       havent by any chance  aaah  any idea where one might
+
+       find  a  aaa 
+
+
+
+                               tim
+
+       what
+
+
+
+                               arthur
+
+       a ggg
+
+
+
+                               tim
+
+       a grail
+
+
+
+   they all jump slightly and look about apprehensively
+
+
+
+                               arthur
+
+       er  yes  i think so
+
+
+
+                               all other knights
+
+       yes
+
+
+
+                               tim
+
+       yes
+
+
+
+                               knights
+
+       fine
+
+
+
+                               robin
+
+       splendid
+
+
+
+                               others
+
+       yes marvellous
+
+
+
+   tim looks thoughtful and they all stand around a little  then tim produces
+
+   another fire trick producing several different colours
+
+
+
+                               arthur
+
+       look youre a busy man 
+
+
+
+                               tim
+
+       yes i can help you with your guest
+
+
+
+   slight pause
+
+
+
+                               all other knights
+
+       thank you  yes thank you very much
+
+
+
+                               tim
+
+       to the north there lies a cave  the cave of caerbannog
+
+       wherein carved in mystic runes upon the very living rock
+
+       the last words of olfin bedwere of rheged 
+
+
+
+   there is a thunderclap and a wind starts  they knights get nervous
+
+
+
+                               tim
+
+         make plain the last resting place of the most holy grail
+
+
+
+                               arthur
+
+       how shall we find this cave o tim
+
+
+
+                               tim
+
+       follow
+
+
+
+   the knights register delight and wheel round on themselves
+
+
+
+       but follow only if you are men of valour  for the entrance
+
+       to this cave is guarded by a monster a creature so foul
+
+       and cruel that no man yet has fought with it and lived
+
+       bones of full fifty men lie strewn about its lair 
+
+       therefore sweet knights if you may doubt your strength or courage
+
+       come no further for death awaits you all with nasty pointy teeth
+
+
+
+                              arthur
+
+      what an eccentric performance
+
+
+
+
+
+31 exterior  day
+
+
+
+   cut to impressive rock face with caves in it  the knights are riding
+
+   towards it  a foreboding atmosphere supervenes  tim gives a signal for
+
+   quietness  arthur shushes the horses
+
+
+
+                               arthur
+
+       shhh
+
+
+
+   the pages decrease the amount of noise they are making with the coconuts
+
+   for a few seconds  then there is a burst of noise from them including
+
+   whinnying
+
+
+
+                               bedevere
+
+           to arthur
+
+       theyre nervous sire
+
+
+
+                               arthur
+
+       then wed best leave them here and carry on on foot
+
+
+
+   tim takes a strange look at them  they walk on leaving the pages behind
+
+   after a few more strides tim halts them with a sign
+
+
+
+                               tim
+
+       behold the cave of caerbannog
+
+
+
+   cut to shot of cave  bones littered around  the knights get the wind
+
+   up partially  a little dry ice glowing green can be seen at the
+
+   entrance  suddenly we become aware of total silence  any noises the
+
+   knights make sound very exaggerated  they unsheathe their swords
+
+
+
+                               arthur
+
+       keep me covered
+
+
+
+   stir among knights
+
+
+
+                               bedevere
+
+       what with
+
+
+
+                               arthur
+
+       just keep me covered
+
+
+
+                               tim
+
+       too late
+
+
+
+                               arthur
+
+       what
+
+
+
+                               tim
+
+       there he is
+
+
+
+   they all turn and see a large white rabbit lollop a few yards out of the
+
+   cave  accompanied by terrifying chord and jarring metallic monster noise
+
+
+
+                               arthur
+
+       where
+
+
+
+                               tim
+
+       there
+
+
+
+                               arthur
+
+       behind the rabbit
+
+
+
+                               tim
+
+       it is the rabbit
+
+
+
+                               arthur
+
+        you silly sod
+
+
+
+                               tim
+
+       what
+
+
+
+                               arthur
+
+       you got us all worked up
+
+
+
+                               bedevere
+
+       you cretin
+
+
+
+                               tim
+
+       that is not an ordinary rabbit  tis the most foul cruel
+
+       and badtempered thing you ever set eyes on
+
+
+
+                               robin
+
+       you tit  i soiled my armour i was so scared
+
+
+
+                               tim
+
+       that rabbits got a vicious streak its a killer
+
+
+
+                               galahad
+
+      oh fuck off
+
+      get stuffed
+
+
+
+                               tim
+
+       hell do you up a treat mate
+
+
+
+                               galahad
+
+       oh yeah
+
+
+
+                               robin
+
+      you turd
+
+      mangy scots git
+
+
+
+                               tim
+
+       look  im warning you
+
+
+
+                               robin
+
+       whats he do  nibble your bum
+
+
+
+                               tim
+
+       well its got huge  very sharp  it can jump a
+
+       look at the bones
+
+
+
+                               arthur
+
+       go on bors chop its head off
+
+
+
+                               bors
+
+       right  silly little bleeder  one rabbit stew coming up
+
+
+
+                               tim
+
+       look
+
+
+
+   as tim points they all spin round to see the rabbit leap at bors
+
+   throat with an appalling scream  from a distance of about twenty feet
+
+   there is a tin opening noise a cry from bors  a quick closeup
+
+   of a savage rabbit biting through tin and bors head flies off  the
+
+   rabbit leaps back to the mouth of the cave and sits there looking
+
+   in the knights direction and growling menacingly
+
+
+
+                               arthur
+
+       jesus christ
+
+
+
+                               tim
+
+       i warned you
+
+
+
+                               robin
+
+       i done it again
+
+
+
+                               tim
+
+       did i tell you  did you listen to me  oh no no you knew better
+
+       didnt you  no its just an ordinary rabbit isnt it  the names you
+
+       called me  well dont say i didnt tell you
+
+
+
+                               arthur
+
+       oh shut up
+
+
+
+                               tim
+
+           quietly
+
+       its always the same  if ive said it once
+
+
+
+                               arthur
+
+       charge
+
+
+
+   they all charge with swords drawn towards the rabbit  a tremendous twenty
+
+   second fight with peckinpahish shots and borrowing heavily also on the
+
+   kung fu and karatetype films ensues in which some four knights are
+
+   comprehensively killed
+
+
+
+       run away  run away
+
+
+
+                               all knights
+
+           taking up cry
+
+       run away  run away
+
+
+
+   they run down from the cave and hide regrouping behind some rocks  tim
+
+   some way away is pointing at them and laughing derisively
+
+
+
+                               tim
+
+       ha ha ha  ha ha ha
+
+
+
+                               arthur
+
+       who did we lose
+
+
+
+                               launcelot
+
+       sir gawain
+
+
+
+                               galahad
+
+       ector
+
+
+
+                               arthur
+
+       and bors  five
+
+
+
+                              galahad
+
+      three sir
+
+
+
+                               arthur
+
+       three  well well not risk another frontal
+
+       assault  that rabbits dynamite
+
+
+
+                               robin
+
+       would it help to confuse him if we ran away more
+
+
+
+                               arthur
+
+       shut up  go and change your armour
+
+
+
+   robin leaves walking strangely
+
+
+
+                               galahad
+
+       let us taunt it  it may become so cross that it will make
+
+       a mistake
+
+
+
+                               arthur
+
+       like what
+
+
+
+   galahad cannot find a suitable answer to this
+
+
+
+                               galahad
+
+       do we have any bows
+
+
+
+                               arthur
+
+       no
+
+
+
+                               launcelot
+
+       we have the holy hand grenade
+
+
+
+                               robin
+
+       the what
+
+
+
+                               arthur
+
+       the holy hand grenade of antioch  tis one of the sacred
+
+       relics brother maynard always carries with him
+
+
+
+                               all
+
+       yes of course
+
+
+
+                               arthur
+
+           shouting
+
+       bring up the holy hand grenade
+
+
+
+   slight pause  then from the area where the horses are a small group
+
+   of monks process forward towards the knights the leading monk bearing
+
+   and ornate golden reliquary and the accompanying monks chanting and
+
+   waving incense  they reach the knights  the hand grenade is suffused
+
+   with the holy glow
+
+
+
+   arthur takes it  pause
+
+
+
+                               arthur
+
+       how does it  er 
+
+
+
+                               launcelot
+
+       i know not
+
+
+
+                               arthur
+
+       consult the book of armaments
+
+
+
+                               brother maynard
+
+       armaments chapter two verses nine to twenty one
+
+
+
+                               another monk
+
+           reading from bible
+
+       and st  attila raised his hand grenade up on high saying
+
+       o lord bless this thy hand grenade that with it thou mayest blow
+
+       thine enemies to tiny bits in thy mercy and the lord did grin and
+
+       people did feast upon the lambs and sloths and carp and anchovies
+
+       and orangutans and breakfast cereals and fruit bats and
+
+
+
+                               brother maynard
+
+       skip a bit brother 
+
+
+
+                               another monk
+
+        er  oh yes  and the lord spake saying first shalt thou
+
+       take out the holy pin then shalt thou count to three no more
+
+       no less  three shalt be the number thou shalt count and the
+
+       number of the counting shalt be three  four shalt thou not count
+
+       neither count thou two excepting that thou then proceed to three
+
+       five is right out  once the number three being the third number
+
+       be reached then lobbest thou thy holy hand grenade of antioch
+
+       towards thou foe who being naughty in my sight shall snuff it
+
+
+
+                               arthur
+
+       right
+
+
+
+   he pulls pin out  the monk blesses the grenade as 
+
+
+
+                               arthur
+
+          quietly
+
+       one two
+
+       three 
+
+       five 
+
+
+
+                              galahad
+
+      three sir
+
+
+
+                              arthur
+
+      three
+
+
+
+   arthur throws the grenade at the rabbit  there is an explosion and cheering
+
+   from the knights
+
+
+
+                               all knights
+
+       praise be to the lord  huzzah
+
+
+
+32 interior  cave  day
+
+
+
+   mix through to the knights entering the cave  it is a large cave and as
+
+   they walk inside it we see in the darkness at the side of the cave
+
+   a fearsome looking creature which watches them with some surprise
+
+   as they walk to some writing carved on the back of the cave wall
+
+   the knights are accompanied by brother maynard
+
+
+
+                               arthur
+
+       there  look
+
+
+
+                               bedevere
+
+       what does it say
+
+
+
+                               galahad
+
+       what language is this
+
+
+
+                               bedevere
+
+       brother maynard you are a scholar
+
+
+
+                               brother maynard
+
+       it is aramaic
+
+
+
+                               galahad
+
+       of course  joseph of aramathea
+
+
+
+                               all
+
+       of course
+
+
+
+                               arthur
+
+       what does it say
+
+
+
+                               brother maynard
+
+       it reads  here may be found the last words of joseph of
+
+       aramathea
+
+
+
+   excitement
+
+
+
+       he who is valorous and pure of heart may find the holy grail
+
+        in the aaaaarrrrrrggghhh
+
+
+
+                               arthur
+
+       what
+
+
+
+                               brother maynard
+
+        the aaaaarrrrrrggghhh
+
+
+
+                               bedevere
+
+       whats that
+
+
+
+                               brother maynard
+
+       he must have died while carving it
+
+
+
+                               bedevere
+
+       oh come on
+
+
+
+                               brother maynard
+
+       thats what it says
+
+
+
+                               arthur
+
+           miming
+
+       but if he was dying he wouldnt bother to carve aaaaarrrrrrggghhh
+
+       hed just say it
+
+
+
+                               brother maynard
+
+       its down there carved in stone
+
+
+
+                               galahad
+
+       perhaps he was dictating
+
+
+
+                               arthur
+
+       shut up  is that all it says
+
+
+
+                               brother maynard
+
+       thats all  aaaaarrrrrrggghhh
+
+
+
+                               arthur
+
+       aaaaarrrrrrggghhh
+
+
+
+                               bedevere
+
+       do you think he meant the camargue
+
+
+
+                               galahad
+
+       wheres that
+
+
+
+                               bedevere
+
+       france i think
+
+
+
+                               launcelot
+
+       isnt there a st aaaaarrrrrrggghhhs in cornwall
+
+
+
+                               arthur
+
+       no thats saint ives
+
+
+
+   a muffled roar is heard
+
+
+
+                              robin
+
+      hey
+
+
+
+                              bedevere
+
+      no thats in herefordshire
+
+
+
+                              robin
+
+          more urgently
+
+      no  hey
+
+
+
+                              launcelot
+
+      aaaaarrrrrrggghhh  
+
+
+
+                              robin
+
+      no  hey is surprise and alarm
+
+
+
+                              bedevere
+
+      oooooh
+
+
+
+                              launcelot
+
+      no aaaaarrrrrrggghhh   at the back of the throat
+
+
+
+                              bedevere
+
+      no  oooooh in surprise and alarm
+
+
+
+   he indicated the entrance of the cave  they all turn and look  there in
+
+   the opening is a huge unpleasant fairly well drawn cartoon beast
+
+
+
+                               arthur
+
+       oh
+
+                               galahad
+
+       my god
+
+
+
+                               launcelot
+
+       what is it
+
+
+
+                               bedevere
+
+       i know  i know  i know
+
+
+
+                               arthur
+
+       what
+
+
+
+                               bedevere
+
+       its the  oh 
+
+           snaps his fingers as he tries to remember
+
+       its the  its on the tip of my tongue 
+
+
+
+   another hideous roar
+
+
+
+       thats it
+
+
+
+                               arthur
+
+       what
+
+
+
+                               bedevere
+
+       its the legendary black beast of aaaaarrrrrrggghhh
+
+
+
+  at that moment there is a yell and a scream out of vision  arthur turns
+
+
+
+                              arthur
+
+      who was that
+
+
+
+                              hector
+
+          from back of group northern and helpful
+
+      it was sir alf
+
+
+
+                              arthur
+
+      i didnt know we had a sir alf
+
+
+
+                              hector
+
+      he was feeding it bread
+
+
+
+                              arthur
+
+          shouting back
+
+      well that was a very silly thing to do  now the rest of you stand
+
+      well back from the black beast of aaaaarrrrrrggghhh
+
+
+
+                              hector
+
+      aaaaarrrrrrggghhh
+
+
+
+                              robin
+
+      look out
+
+
+
+  the animation monster starts lumbering towards them  the knights retreat
+
+  into the darkness of the cave
+
+
+
+                              gawain
+
+          as they run
+
+      its only a cartoon
+
+
+
+                              arthur
+
+      sh
+
+
+
+   they run off  darkness  the monster lumbering through on animation
+
+
+
+                              voice over
+
+      as the horrendous black beast lunged forward escape for arthur
+
+     and his knights seemed hopeless  when suddenly  the animator
+
+     suffered a fatal heart attack
+
+
+
+                              animator
+
+      aaaaagh
+
+
+
+                              voice over
+
+      the cartoon peril was no more  the quest for holy grail
+
+      could continue
+
+
+
+   animated sequence  leads through to the group reappearing and seeing a
+
+   distant opening to the cave  they reach the opening  it is day
+
+
+
+
+
+33 exterior  day
+
+
+
+   the knights emerge from the mouth of the cave to find themselves in a
+
+   breathtaking barren landscape  glencoe  they are half they way up
+
+   the side of a mountain  they rest a few seconds and get their breath
+
+   back
+
+
+
+                              galahad
+
+     look
+
+
+
+                              galahad
+
+     there it is
+
+
+
+                              arthur
+
+     the bridge of death
+
+
+
+                              robin
+
+          to himself
+
+      oh great 
+
+
+
+   they look and see on the side of the mountain there is a sort of milestone
+
+   which bears the words  aaaaarrrrrrggghhh  5 miles and an arrow
+
+
+
+                              arthur
+
+      god be praised  this must be the gorge of which the old man spoke
+
+      in scene twentyfour
+
+
+
+   the knights set off along and rather perilous track edging along
+
+   the side of the mountain  galahad is leading
+
+
+
+   mix through they are climbing higher  the path gets more and more
+
+   slippery and dangerous  they reach another milestone which says
+
+   aaaaarrrrrrggghhh  4 miles and an arrow and ni  82 miles and
+
+   an arrow pointing in the opposite direction  they go on  it is
+
+   dangerous and difficult  tension in their faces
+
+
+
+   as they are climbing bedevere turns to robin and arthur
+
+
+
+                              bedevere
+
+      we must find the bridge  the bridge of death 
+
+
+
+                              robin
+
+          to himself
+
+      oh great
+
+
+
+                              bedevere
+
+      the bridge is guarded by a bridgekeeper who asks each traveller
+
+      three questions  and he who answers the three questions can
+
+      cross in safety
+
+
+
+                              robin
+
+          warily
+
+      and if you get a question wrong
+
+
+
+                              bedevere
+
+      you are cast into the gorge of eternal peril
+
+
+
+34 exterior  day
+
+
+
+   cut to them struggling along  perhaps downhill now  it is growing misty
+
+   sir launcelot stops them and points  they peer
+
+
+
+   cut to see in the mist  a weird bridge with mist swirling up from the
+
+   gorge below  we cannot see the other side
+
+
+
+   beside the bridge an old man stands he is the blind soothsayer they
+
+   met earlier in the forest
+
+
+
+                              arthur
+
+          to bedevere
+
+      hes the keeper of the bridge  its the old man
+
+
+
+                              bedevere
+
+          swallowing hard
+
+      whos going to answer the questions
+
+
+
+                              arthur
+
+      you go robin and god be with you
+
+
+
+                              robin
+
+          looking round wildly
+
+      er  i tell you what 
+
+          lowering voice
+
+      why doesnt launcelot go
+
+
+
+                              arthur
+
+          considering a moment
+
+      very well  sir launcelot  brave sir launcelot  this is the bridge
+
+      of death 
+
+
+
+                              launcelot
+
+      oh yes sir  i will take it singlehanded
+
+          drawing his sword
+
+      i will 
+
+
+
+   arthur restrains him
+
+
+
+                              arthur
+
+      no hang on  all we want is for you to approach the old man
+
+      and he will ask you three questions  answer those question as
+
+      best you can and we will watch  and pray
+
+
+
+                              launcelot
+
+      yes my liege 
+
+
+
+                              arthur
+
+      good luck brave sir launcelot  be careful 
+
+
+
+   they shake hands arthurs eyes moisten  launcelot approaches the
+
+   bridge of death
+
+
+
+                              arthur
+
+      listen to the questions
+
+
+
+                              bedevere
+
+      look  its the old man from scene 24  whats he doing here
+
+
+
+                              arthur
+
+      he is the keeper of the bridge  he asks each traveler five questions 
+
+                              galahad
+
+      three questions
+
+
+
+                              arthur
+
+      three questions  he who answers the five questions
+
+
+
+                              galahad
+
+      three questions
+
+
+
+                              arthur
+
+      three questions may cross in safety
+
+
+
+                              robin
+
+          warily
+
+      and if you get a question wrong
+
+
+
+                              arthur
+
+      you are cast into the gorge of eternal peril
+
+
+
+                              robin
+
+      oh  wacho
+
+
+
+                              galahad
+
+      whos going to answer the questions
+
+
+
+                              arthur
+
+      sir robin brave sir robin you go
+
+
+
+                              robin
+
+      hey ive got a great idea
+
+      why doesnt launcelot go
+
+
+
+                              launcelot
+
+      yes let me  i will take it singlehanded 
+
+      i will make feint to the northeast 
+
+
+
+                              arthur
+
+      no hang on  just answer the five questions 
+
+
+
+                              galahad
+
+      three questions 
+
+
+
+                              arthur
+
+      three questions   and we shall watch  and pray
+
+
+
+                              launcelot
+
+      i understand my liege
+
+
+
+                              arthur
+
+      good luck  brave sir launcelot   god be with you
+
+
+
+   launcelot approaches the bridgekeeper
+
+
+
+                               bridgekeeper
+
+       stop
+
+
+
+   sir launcelot stops  the knights watch anxiously  arthur sniffs briefly
+
+   and glances momentarily down at sir robins lower armour
+
+
+
+                               bridgekeeper
+
+       who approaches the bridge of death
+
+       must answer me
+
+       these questions three
+
+       ere the other side he see
+
+
+
+                               launcelot
+
+       ask me the questions bridgekeeper  i am not afraid
+
+
+
+                               bridgekeeper
+
+       what is your name
+
+
+
+                               launcelot
+
+       my name is sir launcelot
+
+
+
+                               bridgekeeper
+
+       what is your quest
+
+
+
+                               launcelot
+
+       to find the holy grail
+
+
+
+                               bridgekeeper
+
+       what is your favorite colour
+
+
+
+                               launcelot
+
+       blue
+
+
+
+                               bridgekeeper
+
+       right  off you go
+
+
+
+   sir launcelot runs across into the mist  the bridge perhaps disappears
+
+   into the mist and we cannot see the other side  arthur and sir robin
+
+   exchange glances  robin breathes a great sigh of relief
+
+
+
+                               robin
+
+       thats easy
+
+
+
+                               bridgekeeper
+
+       stop
+
+       who approacheth the bridge of death
+
+       must answer me
+
+       these questions three
+
+       ere the other side he see
+
+
+
+                               robin
+
+       ask me the questions bridgekeeper  i am not afraid
+
+
+
+                               bridgekeeper
+
+       what is your name
+
+
+
+                               robin
+
+       my name is sir robin of camelot
+
+
+
+                               bridgekeeper
+
+       what is your quest
+
+
+
+                               robin
+
+       to seek the grail
+
+
+
+                               bridgekeeper
+
+       what is the capital of assyria
+
+
+
+                               robin
+
+           indignantly
+
+       i dont know that
+
+
+
+   he is immediately hurled by some unseen force over the edge of the
+
+   precipice
+
+
+
+                               robin
+
+       aaaaarrrrrrggghhh
+
+
+
+
+
+35 exterior  day
+
+
+
+   cut to sir launcelot who is only just arriving on the other side  he looks
+
+   back across the invisible chasm  dimly in the distance he hears
+
+
+
+                               gawain  out of vision
+
+       sir gawain of camelot
+
+
+
+                               bridgekeeper oov
+
+       what is your quest
+
+
+
+                               gawain oov
+
+       to seek the holy grail
+
+
+
+                              bridgekeeper oov
+
+      what goes  black white  black white  black white
+
+
+
+                              gawain oov
+
+      oh er  babylon  er  aaaaarrrrrrggghhh
+
+
+
+   sir launcelot stands on the other side of the bridge  in the
+
+   distance we hear the ritual of questions and then a scream and thud
+
+   suddenly a hand lands on launcelots shoulder
+
+
+
+                              policeman voice over
+
+      just want to ask you some questions sir
+
+
+
+    launcelot turns and reacts  he is led away
+
+
+
+
+
+36 exterior  lake  day
+
+
+
+   cut to arthur galahad and bedevere struggling towards the lake
+
+
+
+                              bedevere
+
+          to arthur
+
+      how did you know how many wingbeats a swallow needs to
+
+      maintain velocity
+
+
+
+                              arthur
+
+      oh  when youre king you know all those things
+
+
+
+                              bridgekeeper
+
+      what is your favorite colour
+
+
+
+                              gawain
+
+      blue   no yelloooooww
+
+
+
+   arthur and bedevere step forward
+
+
+
+                              bridgekeeper
+
+      what is your name
+
+
+
+                              arthur
+
+      it is arthur king of the britons
+
+
+
+                              bridgekeeper
+
+      what is your quest
+
+
+
+                              arthur
+
+      to seek the holy grail
+
+
+
+                              bridgekeeper
+
+      what is the airspeed velocity of an unladen swallow
+
+
+
+                              arthur
+
+      what do you mean  an african or european swallow
+
+
+
+                              bridgekeeper
+
+      er   i dont know that  aaaaarrrrrrggghhh
+
+
+
+   bridgekeeper is cast into the gorge
+
+
+
+                              bedevere
+
+      how do you know so much about swollows
+
+
+
+                              arthur
+
+      well you have to know these things when youre a king you know
+
+
+
+   suddenly they appear at waters edge  they look across the water  a huge
+
+   expanse disappearing into the mist  how can they cross
+
+
+
+   suddenly the air is filled with ethereal music and out of the mist
+
+   appears a wonderful barge silently and slowly drifting towards them
+
+
+
+   they gaze in wonder  the mysterious boat comes to where they are standing
+
+   as if bewitched they find themselves drawing closer
+
+   to the boat  as they are about to step in a ragged figure looks
+
+   up at them
+
+
+
+                              boatkeeper
+
+          he is the same as the bridgekeeper and the soothsayer
+
+      he who would cross the sea if fate
+
+      must answer me
+
+      these questions twentyeight
+
+
+
+   he fixes them with a baleful eye arthur and bedevere exchange glances
+
+   then turn with minds made up pick him up bodily and throw him in the
+
+   water  they climb into the boat and the boat moves off into the mist
+
+
+
+   fade out
+
+
+
+
+
+37 animation
+
+
+
+   a wondrous journey in animation carries them across the lake
+
+
+
+   mix to
+
+
+
+
+
+38 exterior  day
+
+
+
+   the boat carries them across a magical lake  they land and get out of
+
+   the boat their faces suffused with heavenly radiance and fall to their
+
+   knees
+
+
+
+   crescendo on music
+
+
+
+                               arthur
+
+       god be praised  the deaths of many find knights have this day
+
+       been avenged
+
+
+
+   music swells  they bend their heads in prayer before the castle for
+
+   which they have searched for so long  suddenly a voice comes from
+
+   the battlements
+
+
+
+   music cuts dead
+
+
+
+                               frog
+
+       ha ha  hello  smelly english kniggets  and monsieur arthur
+
+       king who has the brain of a duck you know
+
+
+
+   the knights look up
+
+
+
+                               frog
+
+       we french persons outwit you a second time perfidious english
+
+       mousedropping hoarders  how you say  begorrah
+
+
+
+   arthur stands and shouts
+
+
+
+                               arthur
+
+       how dare you profane this place with your presence  i command
+
+       you in the name of the knights of camelot open the door to the
+
+       sacred castle to which god himself has guided us
+
+           he turns to the knights
+
+       come
+
+
+
+   arthur and the knights advance towards the castle
+
+
+
+                               frog
+
+       how you english say  i one more time mac i unclog my nose towards you
+
+       sons of a windowdresser  so you think you could outclever us french
+
+       fellows with your silly kneesbent creeping about advancing
+
+       behaviour
+
+           blows a raspberry
+
+       i wave my private parts at your aunties you brightlycoloured
+
+       mealytempled cranberrysmelling electric donkeybottom biters
+
+
+
+   by this time arthur and bedevere and galahad have reached the door
+
+   arthur bangs on the door
+
+
+
+                               arthur
+
+       in the name of the lord we demand entrance to this sacred
+
+       castle
+
+
+
+   jeering from the battlements
+
+
+
+                               frog
+
+       no chance english bedwetting types  we burst our pimples at you
+
+       and call your dooropening request a silly thing you tinybrained
+
+       wipers of other peoples bottoms
+
+
+
+   french laughter
+
+
+
+                               arthur
+
+       if you do not open these doors we will take this castle by force 
+
+
+
+   a bucket of slops land on arthur  he tries to retain his dignity
+
+
+
+                               arthur
+
+       in the name of god  and the glory of our 
+
+
+
+   another bucket of what can only be described as human ordure hits arthur
+
+
+
+        right
+
+           to the knights
+
+       that settles it
+
+
+
+   they turn and walk away  french jeering follows them
+
+
+
+                               frog
+
+       yes depart a lot at this time and cut the approaching any more or
+
+       we fire arrows into the tops of your heads and make castanets
+
+       of your testicles already
+
+
+
+                               arthur
+
+           to knights
+
+       walk away  just ignore them
+
+
+
+   arthur bedevere and galahad walk off  a small hail of chickens
+
+   watercress   badgers and mattresses follows them  but they are on their
+
+   dignity as they try to talk nonchalantly as they walk away into the trees
+
+
+
+                               frog
+
+       and now remain gone illegitimatefaced buggerfolk  and if you think
+
+       you got a nasty time this taunting you aint heard nothing yet dappy
+
+       kniggets and a king esquire
+
+
+
+  cut back to the drenched bridgekeepersoothsayer beside the lake he
+
+  rises up into shot
+
+
+
+                              bridgekeeper
+
+      he would cross the sea of fate
+
+      must answer me these questions
+
+      twentyeight
+
+
+
+  cut to see he is talking to two plainclothes policemen and two
+
+  constables
+
+
+
+                              inspector
+
+      all right put him in the van
+
+
+
+  the bridgekeeper is led away and put into a police van
+
+
+
+   cut back to arthur still walking away  french taunts still audible in
+
+   the distance
+
+
+
+                               french
+
+       you couldnt catch clap in a brothel silly english kniggets 
+
+
+
+                               arthur
+
+           to bedevere
+
+       we shall attack at once
+
+
+
+                               bedevere
+
+       yes my liege
+
+           he turns
+
+       stand by for attack
+
+
+
+   cut to enormous army forming up  trebuchets rows of pikemen siege
+
+   towers pennants flying shouts of stand by for attack  traditional
+
+   army buildup shots  the shouts echo across the ranks of the army
+
+   we see various groups reacting and stirring themselves in readiness
+
+
+
+                               arthur
+
+       who are they
+
+
+
+                               bedevere
+
+       oh just some friends
+
+
+
+   we end up back with arthur  he seems satisfied that the army is ready
+
+
+
+   panning down the serried ranks pikes ready pennants flapping in the
+
+   wind  some of the horses whinny nervously  and rattle their coconuts
+
+
+
+   arthur is satisfied at last  he addresses the castle
+
+
+
+                               arthur
+
+       french persons  today the blood of many valiant knights shall
+
+       bee avenged  in the name of god we shall not stop our fight
+
+       until each one of you lies dead and the grail returns to those
+
+       whom god has chosen
+
+
+
+   arthur lowers his visor turns to have a last look at army then
+
+
+
+       charge
+
+
+
+   the mighty army charges  thundering noise of feet  clatter of coconuts
+
+   shouts etc
+
+
+
+   the charge towards the castle
+
+
+
+   suddenly there is a wail of a siren and a couple of police cars roar
+
+   round in front of the charging army and the police leap out and stop
+
+   them  two policeman and the historians wife  black marias skid up
+
+   behind them
+
+
+
+   the army halts
+
+                               historians wife
+
+       theyre the ones im sure
+
+
+
+                               inspector end of film
+
+       grab em
+
+
+
+   the police grab arthur and bundle him into the maria
+
+
+
+   sir bedevere is led off with a blanket over his head  they are bundled
+
+   into the black maria and the van drives off
+
+
+
+   the rest of the army stand around looking at a loss
+
+
+
+                               inspector end of film
+
+           picks up megaphone
+
+       all right  clear off  go on
+
+
+
+   a few reaction shots of the army not quite sure what to do
+
+
+
+                               inspector end of film
+
+       move along  theres nothing to see  keep moving
+
+
+
+   suddenly he notices the cameras
+
+
+
+   as the black maria drives away quick shot through window of all the
+
+   knights huddled inside
+
+
+
+                               inspector end of film
+
+           to camera
+
+       all right put that away sonny
+
+
+
+   he walks over to it and puts his hand over the lens
+
+
+
+   the film runs out through the gate and the projector shines on the
+
+   screen
+
+
+
+   there is a blank screen for some fifteen seconds
+
+
+
+  suddenly jazzy music  animated titles  a new film completely free
+
+  with the monty python film
+
+
+
+
+
+                         the credits
+
+
+
+  four of five minute film mainly animated about the credits ie it
+
+  includes the actual credits for the film but is really elaborate
+
+
+
+
+
+                          the end
+
+
+
+
+
+  slushy organ music starts and the houselights in the cinema come on 
+
+  organ music continues as the audience leave
+
+
+
+
+
+
+
+
+
+cast list
+
+
+
+
+
+  graham chapman played        king arthur hiccoughing guard
+
+                                threeheaded knight
+
+  john cleese played           second soldier with a keen interest in birds
+
+                                large man with dead body black knight
+
+                                mr newt a village blacksmith interested in
+
+                                burning witches a quite extraordinarily
+
+                                rude frenchman tim the wizard sir launcelot
+
+
+
+  terry gilliam played         patsy arthurs trusty steed the green
+
+                                knight soothsayer bridgekeeper sir gawain
+
+                                the first to be killed by the rabbit
+
+
+
+  eric idle played             the dead collector mr bint a village neerdo
+
+                                well very keen on burning witches sir robin
+
+                                the guard who doesnt hicough but tries to get
+
+                                things straight concorde sir launcelots
+
+                                trusty steed roger the shrubber a shrubber
+
+                                brother maynard
+
+
+
+  neil innes played            the first selfdestructive monk robins least
+
+                                favorite minstrel the page crushed by a
+
+                                rabbit the owner of a duck
+
+  terry jones played           denniss mother sir bedevere threeheaded
+
+                                knight prince herbert
+
+
+
+  michael palin played         1st soldier with a keen interest in birds
+
+                                dennis mr duck a village carpenter who is
+
+                                almost keener than anyone else to burn
+
+                                witches threeheaded knight sir galahad
+
+                                king of swamp castle brother maynards
+
+                                roomate
+
+
+
+  connie booth played          the witch
+
+
+
+  carol cleveland played       zoot and dingo
+
+
+
+  bee duffell played           old crone to whom king arthur said ni
+
+
+
+  john young played            the dead body that claims it isnt and the
+
+                                historian who isnt ajp taylor at all
+
+
+
+  rita davies played           the historian who isnt ajp taylor
+
+                                honestlys wife
+
+
+
+  sally kinghorn played        either winston or piglet
+
+
+
+  avril stewart played         either piglet or winston
+
+
+
+
+
+python monty pictures ltd
+
+ registered address 20 fitzroy square london w1p6bb
+
+ registerd number 1138069 england
+
+
+
+                                                               august 5th 1974
+
+dear mike
+
+
+
+the censors representative tony kerpel came along to fridays
+
+screening at twinkenham and he gave up his opinion of the films
+
+probale certificate
+
+
+
+he thinks the film will be aa but it would be possible given
+
+some dialogue cuts to make the film an a rating which would
+
+increase the audience  aa is 14 and over and a is 514
+
+
+
+for an a we would have to
+
+
+
+           lose as may shits as possible
+
+
+
+           take jesus christ out if possible
+
+
+
+           loose i fart in your general direction
+
+
+
+           lose the oral sex
+
+
+
+           lose oh fuck off
+
+
+
+           lose we make castanets out of your testicles
+
+
+
+i would like to get back to the censor and agree to lose the
+
+shits take the odd jesus christ out and lose oh fuck off but
+
+to retain fart in your general direction castanets of your
+
+testicles and oral sex and ask him for an a rating on
+
+that basis
+
+
+
+please let me know as soon as possible your attitude to this
+
+
+
+yours sincerely
+
+
+
+mark forstater
+
+
+
+
+

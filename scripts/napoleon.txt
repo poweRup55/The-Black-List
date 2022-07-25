@@ -1,0 +1,18 @@
+wayback machinewindowaddeventlistenerdomcontentloadedfunctionvar varchiveanalyticsvaluesvservicewbvservernamewwwbapp40usarchiveorgvserverms442archiveanalyticssendpageviewbody 
+  margintop0 important
+  paddingtop0 important
+  minwidth800px important
+successfailmayjunoct2520002001200244 captures06 may 2001  28 jun 2013about this capturecollected byorganizationalexa crawlsstarting in 1996alexa internethas been donating their crawl data to the internet archive  flowing in every day these data are added to thewayback machineafter an embargo periodcollectionalexa crawls dfcrawl data donated by alexa internet this data is currently not publicly accessibletimestampswmbt62527252webhttpwwwinterlinkescookiesguionnapoleontxt200106250408371996staticstaticcssbannerstylescssvhyr5oymjstaticcssiconochivecssvqtvmkcijvar margintop  65
+function fitplayback 
+  playbackcss
+    height windowinnerheight  margintop  px
+    top margintop
+  
+
+fitplayback
+windowonresize function 
+  fitplayback 
+
+wmtbcloseclickfunction
+  margintop  0
+  fitplayback

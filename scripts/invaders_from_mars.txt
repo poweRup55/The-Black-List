@@ -1,0 +1,5308 @@
+invaders from mars revised draft by john tucker battleowneriq
+var oiqpct  50
+if oiqpct100  mathfloormathrandom100100oiqpct  0  
+var oiqq  oiqq  
+oiqqpushoiqaddpagebrandlycos
+oiqqpushoiqaddpagecatinternet  websites
+oiqqpushoiqaddpagelifecycleintend
+oiqqpushoiqdotag
+function 
+var oiq  documentcreateelementscript oiqtype  textjavascript oiqasync  true
+oiqsrc  documentlocationprotocol  pxowneriqnetstasslycosnjs
+var s  documentgetelementsbytagnamescript0 sparentnodeinsertbeforeoiq s
+
+
+google analytics
+var gaq  gaq  
+gaqpushsetaccountua2140269519
+gaqpushsetdomainnametripodcom
+gaqpushsetcustomvar1membernameleonscripts3
+gaqpushtrackpageview
+function 
+var ga  documentcreateelementscript gatype  textjavascript gaasync  true
+gasrc  https  documentlocationprotocol  httpsssl  httpwww  googleanalyticscomgajs
+var s  documentgetelementsbytagnamescript0 sparentnodeinsertbeforega s
+
+lycos init
+function getreferrer 
+var all thisdocumentcookie
+if all  return false
+var cookiename  referrer
+var start  alllastindexofcookiename
+if start  1 return false
+start  cookienamelength
+var end  allindexof start
+if end  1 end  alllength
+return allsubstringstart end
+
+function getquery 
+var rfr  getreferrer
+if rfr   return false
+var q  extractqueryrfr yahoocom p
+if q return q
+q  extractqueryrfr  q
+return q  q  
+
+function extractqueryfull site qparam 
+var start  fulllastindexofsite
+if start  1 return false
+start  fulllastindexofqparam
+if start  1 return false
+start  qparamlength
+var end  fullindexof start
+if end  1 end  fulllength
+return unescapefullsubstringstart endsplit join
+
+function generatehrefatag template
+ataghreftemplatereplacemyurl windowlocationhrefreplacehttp replacemytitlecheck20out20this20tripod20member20site 
+
+var lycosad  array
+var lycosonloadtimer
+var cmrole  live
+var cmhost  tripodlycoscom
+var cmtaxid  memberembedded
+var tripodmembername  leonscripts
+var tripodmemberpage  leonscriptsscriptsinvadersoldhtm
+var tripodratingshash  1592391871d5474ebe0081363a7d9ec3801103c6b0
+
+var lycosadcategory  dmozcomputersprogrammingontargetcattechnologyl2catcomputingl3catprogrammingfindwhatwhat and is and net
+
+var lycosadremoteaddr  77139130116
+var lycosadwwwserver  wwwtripodlycoscom
+var lycosadtracksmall  httpmemberstripodcomadmimgcommonotsmallframegifrand166756
+var lycosadtrackserved  httpmemberstripodcomadmimgcommonotadservedgifrand166756
+var lycossearchquery  getqueryvar googletag  googletag  
+ googletagcmd  googletagcmd  
+ function 
+   var gads  documentcreateelementscript
+   gadsasync  true
+   gadstype  textjavascript
+   var usessl  https  documentlocationprotocol
+   gadssrc  usessl  https  http 
+     wwwgoogletagservicescomtagjsgptjs
+   var node  documentgetelementsbytagnamescript0
+   nodeparentnodeinsertbeforegads node
+ googletagcmdpushfunction 
+   googletagdefineslot95963596tri300x250dfp 300 250 divgptad14502041591260addservicegoogletagpubads
+   googletagdefineslot95963596triabove728x90dfp 728 90 divgptad14502041591261addservicegoogletagpubads
+   googletagdefineslot95963596tribelow728x90dfp 728 90 divgptad14502041591262addservicegoogletagpubads
+   googletagpubadsenablesinglerequest
+   googletagenableservices
+ functionisv
+
+    if isv 
+    
+        return
+    
+    var admgr  new admanager
+    var lycosprodset  admgrchooseproductset
+    var slots  leaderboard leaderboard2 toolbarimage toolbartext smallbox toppromo footer2 slider
+    var adcat  thislycosadcategory
+    admgrsetforcedparampage adcat  adcatdmoz  adcatdmoz  member
+    if thislycossearchquery
+    
+        admgrsetforcedparamkeyword thislycossearchquery
+     
+    else ifadcat  adcatfindwhat
+    
+        admgrsetforcedparamkeyword adcatfindwhat
+    
+    
+    for var s in slots
+    
+        var slot  slotss
+        if admgrisslotavailableslot
+        
+            thislycosadslot  admgrgetslotslot
+        
+    
+
+    admgrrenderheader
+    admgrrenderfooter
+function 
+
+var w  0 h  0 minimumthreshold  300
+
+if top  self
+
+    return true
+
+if typeofwindowinnerwidth  number 
+
+    w  windowinnerwidth
+    h  windowinnerheight
+
+else if documentdocumentelement  documentdocumentelementclientwidth  documentdocumentelementclientheight
+
+    w  documentdocumentelementclientwidth
+    h  documentdocumentelementclientheight
+
+else if documentbody  documentbodyclientwidth  documentbodyclientheight
+
+    w  documentbodyclientwidth
+    h  documentbodyclientheight
+
+return w  minimumthreshold  h  minimumthreshold
+
+
+
+
+
+windowonload  function
+
+    var f  documentgetelementbyidfooterad
+    var b  documentgetelementsbytagnamebody0
+    bappendchildf
+    fstyledisplay  block
+    documentgetelementbyidlycosfooteradiframesrc  admadfooteradiframehtml
+    
+
+
+    
+     dom inj ad
+    functionistrellix
+    
+        var e  documentcreateelementiframe
+        estyleborder  0
+        estylemargin  0
+        estyledisplay  block
+        estylecssfloat  right
+        estyleheight  254px
+        estyleoverflow  hidden
+        estylepadding  0
+        estylewidth  300px
+
+
+        var isblokedbydomain  function href 
+        
+            var blockeddomains  
+                ananyaporn13000tripodcom
+                xxxpornxxxtripodcom
+            
+            var flag  false
+            
+            for var i0 iblockeddomainslength i 
+            
+                if hrefsearch blockeddomains i    0 
+                
+                    flag  true
+                
+            
+            return flag
+        
+
+        var getmetacontent  function metaname 
+        
+            var metas  documentgetelementsbytagnamemeta
+            for i0 imetaslength i
+             
+                if metasigetattributename  metaname 
+                 
+                    return metasigetattributecontent 
+                 
+            
+            return false
+        
+        
+        var getcommentnodes  functionregexpattern
+        
+            var nodes  
+            var nodesa  
+            var preferrednodeslist  a c b
+        
+            function getnodesthathavecommentsn pattern
+            
+                if nhaschildnodes
+                
+                    if ntagname  iframe
+                    
+                        return false
+                    
+                    for var i  0 i  nchildnodeslength i
+                    
+                        if nchildnodesinodetype  8  patterntestnchildnodesinodevalue
+                        
+                            var areaname  patternexecnchildnodesinodevalue1
+                            nodesareaname  n
+                        
+                        else if nchildnodesinodetype  1
+                        
+                            getnodesthathavecommentsnchildnodesi pattern
+                        
+                    
+                
+            documentbody regexpattern
+
+            for var i in preferrednodeslist
+            
+                if nodespreferrednodeslisti
+                
+                    if istrellix  nodespreferrednodeslistiparentnodeparentnodeparentnodeparentnode 
+                    
+                        nodesapushnodespreferrednodeslistiparentnodeparentnodeparentnodeparentnode
+                    
+                    else
+                    
+                        nodesapush nodespreferrednodeslisti 
+                    
+                
+            
+            return nodesa
+        
+        
+        
+        var propernode  null
+        var areanodes  getcommentnodes new regexp area typeareaw  
+
+        for var i  0 i  areanodeslength i
+        
+            var a  parseintgetcomputedstyleareanodesiwidth
+            if a  300  a  400
+            
+                propernode  areanodesi
+                break
+            
+        
+
+
+        var propertyname  getmetacontentproperty  false
+        if istrellix  propernode 
+        
+            esrc  admadinjectadiframehtml
+            propernodeinsertbeforee propernodefirstchild
+        
+        else if istrellix   propernode    slap the ad eventhought there is no alocated slot
+        
+            esrc  admadinjectadiframehtml
+            estylecssfloat  none
+            var cdiv  documentcreateelementdiv
+            cdivstyle  width300pxmargin10px auto
+            cdivappendchild e 
+            binsertbeforecdiv blastchild
+        
+        else if isblokedbydomain locationhref  
+        
+            var injf  documentcreateelementiframe
+            injfstyleborder  0
+            injfstylemargin  0
+            injfstyledisplay  block
+            injfstylecssfloat  none
+            injfstyleheight  254px
+            injfstyleoverflow  hidden
+            injfstylepadding  0
+            injfstylewidth  300px
+            injfsrc  admadinjectadiframehtml
+
+            if b   istrellix   typeof istrellix  undefined     all other tripod props
+            
+                var cdiv  documentcreateelementdiv
+                cdivstyle  width300pxmargin10px auto
+                cdivappendchild injf 
+                binsertbeforecdiv blastchild
+             
+        
+   documentistrellix 
+adcenterclassmargin0 autoif typeof lycosad  undefined  leaderboard in lycosad 
+  documentwritelycosadleaderboard
+if typeof lycosad  undefined  slider in lycosad 
+  documentwritelycosadslider
+invaders from marsoriginal screenplay
+
+                                   by
+
+                           john tucker battle
+
+
+
+
+
+
+
+
+
+
+                                                revised 9550
+
+
+
+
+
+
+
+
+
+
+        music of finlandia type behind credits builds to
+        crescendo on 
+
+        fade in
+
+  1    pan shot  special effects  night
+
+         of starstudded heavens at night  scattered cumulus
+        clouds alternately obscure and disclose a threequarter
+        moon and vast open deeps of glittering constellations
+        the music diminishes and backs the voice of the narra
+        tor
+
+                               narrator
+                 since the beginning of time the people
+                 of our earth have looked upon the stars
+                 and pondered  they wondered what man
+                 ner of man  or creature  inhabited
+                 the faint mysterious worlds that lay
+                 beyond
+
+
+  2    ext mt wilson observatory  night  long shot
+
+        large telescope pivoting against the sky
+
+
+  3    int telescope room  night  med shot
+
+        two astronomers  adjusting eyepieces
+
+                               narrator
+                 but the largest telescopes have
+                 failed to penetrate the dark and awe
+                 some secret
+
+
+  4    int telescope room  different observatory  night 
+        close shot
+
+        white haired astronomer  peering into the eyepiece of
+        a telescope
+
+                               narrator
+                 men still probe the deeps of space 
+                 men of all ages  seeking the answer
+
+
+  5    int david macleans bedroom  night  close shot
+
+        of telescope  dolly back to disclose david maclean 
+        a twelve year old boy who is sitting on the floor
+        with his eyes glued to a telescope  he is dressed
+        in rumpled pajamas  a student lamp on the floor
+        lights the scene in low key  a star map and nauti
+        cal almanac lay on the floor in high key under the
+        lamp  a small cairn terrier named cricket stares
+        up at him with wistful curiosity
+
+
+  6    int davids bedroom  night  med shot
+
+         as david moves back from the telescope and rubs
+        his eyes with his knuckles  he leafs through the
+        nautical almanac and reaches for the aluminum can
+        teen on the window sill  it falls to the floor with
+        a clatter  he picks it up quickly and listens ap
+        prehensively for an indication that he has awakened
+        his parents sighs with relief and glances at an
+        alarm clock on the window sill which reads 340
+        he unscrews the canteen stopper and tilts it to
+        drink then stops as a bright light illuminates the
+        darkness outside the window
+
+
+  7    int davids bedroom  night  full shot  special
+        effects
+
+        davids angle  through window of a swiftly descend
+        ing ball of brilliant white fire as it sweeps down
+        out of the heavens hovers for a moment then drops
+        behind foreground trees
+
+
+  8    int davids bedroom  night  close shot
+
+        david  his face highlighted by the ball of fire as
+        he stares with incredible bewilderment
+
+                               david
+                        with awe
+                 well  gee whiz
+
+
+  9    int davids bedroom  night  med shot
+
+        david crosses to foot of bed puts on his bathrobe
+        and slippers climbs through the window chirping
+        at the dog cricket who hops up on the window sill
+        and follows him out
+
+
+ 10    ext back of macleans house  field in bg  night 
+        med shot
+
+         as david turns and looks at the dog who growls and
+        trots toward the field  david follows him toward
+        field but stops suddenly
+
+
+ 11    ext maclean field  shooting away from house  night 
+        special effects
+
+        david sees a brilliant white light glow suddenly in
+        the distance  it casts a gigantic black shadow of a
+        thing that could be a man against the flank of the
+        dark hill  the light goes out suddenly and a strange
+        humming sound fills the air
+
+
+ 12    ext back of macleans house  night  reverse med
+        shot
+
+        david reacts with amazement to what he has seen he
+        turns and runs toward house followed by cricket
+
+
+ 13    int davids room  shooting toward field  night
+
+         as the dog jumps through the window followed by
+        david who grabs a flashlight  camera pans with david
+        as he exits into the hall
+
+
+ 14    int mr  mrs macleans bedroom  low key  night 
+        med shot
+
+        david bursts through the door and shines the flash
+        light on the bed and his father and mother sit up
+        maclean fumbles for the table light and shades his
+        eyes against the flashlight  he turns on the light
+
+                               mrs maclean
+                        with concern
+                 whats the matter david  are you
+                 all right
+
+                               david
+                        excitedly
+                 dad  listen  i saw a  a  a some
+                 thing  just landed in our field
+                 a flying saucer or something
+
+                               mrs maclean
+                 a what
+
+                               david
+                 a space ship  i think  its there
+                 now  over by the hill  come on
+                 dad
+
+                               maclean
+                        with weary exasper
+                         ation
+                 have you gone completely crazy  four
+                 oclock in the morning
+
+                               david
+                 but dad  i saw it  i tell you 
+
+                               mrs maclean
+                 oh you had a dream dear  a night
+                 mare
+
+                               david
+                 i wasnt asleep  i saw it  it
+                 landed in our field
+
+                               maclean
+                        putting his feet on
+                         floor
+                 now thats enough
+
+                               david
+                 but dad 
+
+                               maclean
+                 all right march
+
+                               david
+                        leaving followed by
+                         cricket
+                 aw gee
+                        he slams door
+
+        maclean gets up and puts on his slippers
+
+                               mrs maclean
+                 oh john dont scold him  he didnt
+                 mean to slam the door
+
+                               maclean
+                        walking towards door
+                         and yawning
+                 im not  im just going to see that
+                 he goes to bed
+
+
+ 15    int davids room  night  full shot
+
+        he is standing by the window staring out  cricket
+        has his forepaws on the windowsill  the door opens
+        david turns and looks at his father guiltily as he
+        closes the door  maclean indicates the bed with his
+        thumb  with a sigh david shucks off his bathrobe and
+        slippers and crawls into the bed  cricket jumps onto
+        the foot of the bed  maclean crosses to a wardrobe
+        chest and selects a medicine bottle and a spoon from
+        the top of it  he returns and sits on the side of the
+        bed
+
+                               david
+                 im not sick
+
+                               maclean
+                       shakes bottle and pours
+                        into spoon
+                 i know  this is some of that stuff
+                 doctor weber left to make you sleep
+                 when you had the flu  come on  open
+                 up
+
+        david looks at his father with exasperated patience
+        and with a shrug of martyrdom swallows the medicine
+        and drops back on his pillow
+
+                               maclean
+                       gently
+                 now what makes you think you saw a
+                 flying saucer
+
+                               david
+                       rising on elbows try
+                        ing to convince him
+                 i dont think dad  i know  i 
+
+        maclean with a smile pushes him back on the pillow
+
+                               maclean
+                 maybe it was one of the experiment
+                 al rockets from over at white sands 
+                       david shakes his head
+                 if anything had fallen in the field 
+                 id have heard it wouldnt i
+
+                               david
+                 it didnt fall dad  itlandedover
+                 in the field  blossom  gee dad
+                 blossoms out there  wed better gogether
+
+        maclean regards the boy with a patient affectionate
+        smile
+
+                               maclean
+                       with a smile
+                 blossom is an intelligent cow  she
+                 can take care of herself
+
+                               david
+                 but dad 
+
+                               maclean
+                 youve been reading too many of
+                 those science stories  flying
+                 saucers
+
+                               david
+                       yawning
+                 but i saw it  and cricket saw it 
+                 he growled
+
+                               maclean
+                       fondling the dog
+                 he growls at hoot owls too  and
+                 shadows  and i wantyouto stop
+                 growling at shadows and go to sleep
+
+        david stares at him with patient resignation
+
+                               maclean
+                 tomorrow morning ill take my 12
+                 gauge and you take your 410 and
+                 you and i and cricket will go out
+                 in that field and if theres any
+                 space ship or flying saucer out
+                 there well take a shot at it 
+                 especially if theyve bothered our
+                 cow
+
+        david feeling the effects of the sedative yawns
+        again  his father runs his fingers lightly through
+        davids hair in a soothing fashion
+
+                               maclean
+                       gently
+                 thats a good boy  go to sleep
+
+        davids eyes close and maclean gets up softly tiptoes
+        to the lightswitch and turns out the light
+
+                                             slow dissolve to
+
+
+ 16    ext maclean field  night  long shot
+
+        nothing is moving the bellow of a cow is heard over
+        scene
+
+
+ 17    int mr  mrs macleans bedroom  night  med shot
+
+        very low key  moonlight through bedroom window
+         mrs macleans voice comes over scene with alarmed
+        insistence
+
+                               mrs maclean
+                 john  john 
+
+                               maclean
+                       annoyed and sleepy
+                 now whats the matter
+
+        off scene is heard the low mournful bellowing of a cow
+        the light goes on revealing maclean irritably rubbing
+        his eyes
+
+                               mrs maclean
+                 the cow  somethings wrong with
+                 her
+
+        the cows mooing rises to a terrified bellowing
+
+                               maclean
+                 probably caught in the fence
+
+        he gets up puts on his shoes and bathrobe and takes a
+        flashlight
+
+                               mrs maclean
+                 hurry she may be hurt
+
+        as maclean exits 
+
+                                                      wipe to
+
+
+ 18    ext maclean field  night  med shot
+
+        maclean enters carrying lighted flashlight  he walks
+        toward sound of bellowing and disappears behind bushes
+        bellowing suddenly stops
+
+                                                      fade out
+
+
+        fade in
+
+ 19    ext maclean field  morning  long shot
+
+        maclean house in background  david and cricket in
+        foreground are walking hesitantly into the field
+        there is a sudden highfrequency hum and both david
+        and the dog stare at the ground which trembles
+        slightly  david turns and runs toward the house fol
+        lowed by cricket
+
+                                                  dissolve to
+
+
+ 20    ext front of maclean house  morning  med shot
+
+        a police car stands in front of the house and two of
+        ficers stand on the front porch talking to mrs mac
+        lean
+
+                               mrs maclean
+                  and i cant understand what hap
+                 pened to him
+
+                               blaine
+                       reassuringly
+                 you say hes been gone for 
+
+        david and cricket run into scene
+
+                               mrs maclean
+                 whats the matter david
+
+                               david
+                       breathlessly
+                  over there in the field  i heard
+                 something  i mean  it was more
+                 like i felt something
+
+                               mrs maclean
+                 what
+
+                               david
+                 i dont know  a kind of buzzing
+                 sound deep down under the ground
+
+                               mrs maclean
+                 oh david this is no time to let
+                 your imagination run away with you
+                 when im so concerned about your
+                 father
+
+                               jackson
+                 dont worry well find him mrs
+                 maclean  come on blaine
+
+        they exit from the porch  mrs maclean and david look
+        after them
+
+                                               dissolve to
+
+
+ 21    ext maclean field  day  med shot
+
+        blaine and jackson are walking through the field
+        they stop and look around
+
+                               jackson
+                 the cow may have trampled him 
+                 they can be dangerous
+
+                               blaine
+                 yeah thats possible
+
+                               jackson
+                 you take the north side and ill
+                 look over here
+
+                               blaine
+                 okay
+
+
+ 22    ext maclean field  day  full shot
+
+         as the two men separate and walk toward hill  the
+        camera stays with blaine who stops and looks at some
+        thing in the grass
+
+
+ 23    ext maclean field  day  med shot
+
+        blaine looking at flashlight in the grass
+
+
+ 24    ext maclean field  day  close shot
+
+         of flashlight lying in the grass  blaines hand
+        reaches into scene and picks it up
+
+
+ 25    ext maclean field  day  med shot
+
+        blaine straightens up with flashlight and calls
+
+                               blaine
+                 hey jackson  heres a flashlight
+
+         he looks around for jackson  his face registers be
+        wilderment
+
+
+ 26    ext maclean field  day  blaines angle
+
+         the camera reveals an empty field with no possible
+        place of concealment
+
+
+ 27    ext maclean field  day  med shot
+
+                               blaine
+                       calling
+                 hey jackson  
+
+        he runs toward the spot where he last saw jackson  he
+        stops and looks uncertainly
+
+
+ 28    ext maclean field  day  full shot
+
+        blaine  with hill in background  he stares about him
+        in puzzled incredulity  then a four foot round section
+        of turf immediately behind him raises up about a foot
+
+
+ 29    ext maclean field  day  close shot
+
+        blaines face  as he emits a choking scream and drops
+        out of scene
+        camera pans down to ground and we see a section of turf
+        closing like the lid of a trap door spider
+
+                                                  dissolve to
+
+
+ 30    int maclean living room  day  full shot
+
+        mrs maclean is pacing nervously and david stands look
+        ing out of the front window  cricket is in the room
+
+                               mrs maclean
+                 youre not going out there
+
+                               david
+                 but theyve been gone over an hour
+                 let me golook too mom  please
+
+                               mrs maclean
+                 you stay right here
+
+                               david
+                 aw gee 
+
+                               macleans voice
+                       off scene
+                 any chance of getting a cup of coffee
+
+        mrs maclean and david turn toward doorway
+
+
+ 31    int maclean living room  day  med shot
+
+         john maclean is standing in the living room doorway
+        he is wearing his bathrobe and pajamas  he looks some
+        what disheveled  over scene mrs maclean and david
+        speak together
+
+                               mrs maclean and david
+                 john  dad 
+
+
+ 32    int maclean living room  day  med shot
+
+         as mrs maclean and david rush toward maclean
+
+                               mrs maclean
+                 oh john where have you been  ive
+                 been so worried
+
+                               david
+                 gee dad what happened
+
+        cricket looks at maclean and crawls under the sofa
+
+        maclean looks down at his wife and son  his face is
+        tense and he wears a tight forced smile
+
+                               maclean
+                 nothing to get excited about  tell
+                 you all about it when ive had my
+                 coffee
+
+        maclean crosses and sits in an armchair
+
+                               mrs maclean
+                       exiting
+                 ill just be a minute
+
+        david leans over the back of his fathers chair
+
+                               david
+                 what took you so long
+
+                               maclean
+                       impatiently
+                 ive been looking for blossom  i
+                 followed her trail but finally lost
+                 track of her in those scrub oak
+                 flats behind blue hill
+
+
+ 33    int maclean living room  day  close shot
+
+        davids face  as he stares down at the back of his
+        fathers head
+
+
+ 34    int maclean living room  day  reverse close shot
+
+        davids angle  of back of macleans head
+
+        there is a livid red scar the size of a quarter on the
+        back of his head just above the nape of his neck
+
+                               davids voice
+                       over scene
+                 gosh dad what happened to your
+                 head
+
+
+ 35    int maclean living room  day  med close shot
+
+        a shadow of anger crosses macleans face
+
+                               maclean
+                 its only a scratch  caught it on
+                 a barbed wire fence
+
+                               david
+                 a barbed wire fence  but how could 
+
+                               maclean
+                       interrupting
+                 go on out and play
+
+                               david
+                 but  dad 
+
+        maclean suddenly slaps the boy a vicious backhand blow
+        across the face as mrs maclean enters the scene from
+        background carrying a cup of coffee  mrs maclean
+        drops the cup registering horrified incredulity
+        david staggers across the room and fetches up against
+        the wall  mrs maclean crosses to him puts her arms
+        around him with a sheltering attitude  cricket comes
+        out from under the sofa and growls at maclean and hud
+        dles near david
+
+                               maclean
+                       coldly
+                 now will you go out and play  and
+                 take that animal with you
+
+
+ 36    int maclean living room  day  med close shot
+
+        david his mother  with cricket huddled close by
+        they stare at maclean with incredulous baffled expres
+        sions
+
+                               mrs maclean
+                       in a low hurried voice
+                 please david  do as your father
+                 says
+
+
+ 37    int maclean living room  day  med shot
+
+        david goes out through the hall followed by cricket
+        we hear the front door slam  maclean turns to his wife
+
+                               maclean
+                       in a cold mechanical
+                        voice
+                 im still waiting for my coffee
+
+                               mrs maclean
+                       in a tone of hurt be
+                        wilderment
+                 whats the matter with you john
+                 whats happened
+
+                               maclean
+                 get me a cup of coffee
+
+        mrs maclean exits looking apprehensively over her
+        shoulder at her husband
+
+                                                  dissolve to
+
+
+ 38    ext maclean front porch  midmorning  full shot
+
+        jackson blaine and maclean are exiting onto the front
+        porch  david is sitting on the steps with cricket
+        mrs maclean stands nervously twisting her apron look
+        ing through the front screen door from the hallway
+
+                               maclean
+                       he now speaks normally
+                        and seems like his old
+                        self
+                 well thanks gentlemen i wont keep
+                 you any longer  im sure you have
+                 important things to take care of 
+
+
+ 39    ext maclean front porch  day  close shot
+
+        high angle  back of jacksons head
+
+         as he removes cap and wipes forehead with handker
+        chief  a livid round red scar is on the back of his
+        head just above the nape of his neck
+
+
+ 40    ext maclean front porch  day  reverse close shot
+
+        davids face  puzzled  he reacts to what he has seen
+
+
+ 41    ext maclean front porch  day  med shot
+
+        jackson blaine and maclean  from davids angle
+
+                               blaine
+                       with meaning
+                 yes  we have 
+
+        jackson nods his head
+
+
+ 42    ext maclean front porch  day  close shot
+
+        mrs maclean staring at her husband with nervous incred
+        ulity
+
+
+ 43    ext maclean front porch  day  full shot
+
+        blaine and jackson  as they leave the porch  jackson
+        leans over and ruffles davids hair as he passes
+
+                               jackson
+                 take it easy on those comic books
+                 youngster
+
+                               blaine
+                       as they walk toward car
+                 yes  that imagination of yours is
+                 liable to get you in trouble
+
+                                                      fade out
+
+
+        fade in
+
+ 44    ext back of maclean house  day  med shot
+
+        small hummock in foreground  maclean home in background
+        the hummock is thickly grown with bushes
+        the leaves of a bush are pushed slowly back and the eye
+        piece of a oneinch telescope pushes full into camera
+
+
+ 45    ext back of maclean house  day  close shot
+
+        david is lying on the ground behind the bushes looking
+        through the telescope  cricket is with him
+        david  raises his face from the eyepiece and looks
+        over the telescope with interest and consternation
+        he then looks back through telescope
+
+
+ 46    ext field  day  as through telescope  matte
+
+        a little girl kathy wilson aged five walks across
+        the field picking flowers  suddenly a round section of
+        the earth opens up behind her and an indistinct some
+        thing grabs her by the ankles and snatches her down in
+        to the hole  a flap of earth closes back over the hole
+
+
+ 47    ext back of maclean house  day  pan shot
+
+        david and cricket  as david jumps up runs toward the
+        field stops with indecision then turns and runs fran
+        tically toward the house followed by the dog
+
+
+ 48    int hallway  maclean house  day  med shot
+
+         as david and cricket enter and david starts toward
+        the telephone  then he looks over his shoulder toward
+        the living room and stops
+
+
+ 49    int maclean living room  day  med shot
+
+        davids angle  john maclean  sitting rigidly in a
+        chair in the living room staring fixedly at david
+
+                               maclean
+                 well  what doyouwant
+
+
+ 50    int maclean living room  day  close shot
+
+        shooting toward david and cricket in hallway
+
+                               david
+                       hesitatingly
+                 i  i was looking for mom
+
+                               maclean
+                       sharply
+                 shes not here  whats on your mind
+
+                               david
+                 oh  uh  nothing 
+
+                               maclean
+                 what have you been up to
+
+                               david
+                 nothing  just playing
+
+                               maclean
+                 your mother told you not to play in
+                 the field didnt she
+
+                               david
+                       hesitatingly
+                 but  i  uh 
+
+                               maclean
+                       pointedly
+                 i tell you youcanplay in the field 
+                 all you want  understand
+
+                               david
+                 yes sir
+
+        he turns and starts toward the front door cricket at
+        his heels
+
+
+ 51    int maclean living room  day  close shot
+
+        maclean  as he picks up a map which hes holding in
+        his lap and studies it intently  his head jerks up as
+        the front screen door slams  he looks out the window
+
+
+ 52    ext front  maclean house  day  long shot
+
+        through window  david and cricket  running down road
+
+                                                  dissolve to
+
+
+ 53    ext back porch  wilson house  day  full shot
+
+        this is a small cottage with an old fashioned storm cel
+        lar door leading into the basement adjacent to back
+        steps  david and cricket walk into scene  david knocks
+        on the door which opens  david walks in  cricket
+        waits outside
+
+
+ 54    int wilson kitchen  full shot
+
+        mrs wilson dries her hands on her apron and pushes
+        back a strand of hair from her forehead
+
+                               mrs wilson
+                 well  hello  david 
+
+                               david
+                 mrs wilson  is mr wilson home
+
+                               mrs wilson
+                       puzzled
+                 why  no david  hes out of town
+                 what is it
+
+                               david
+                 well  i mean  you know your little
+                 girl 
+
+                               mrs wilson
+                       with instant alarm
+                 has something happened to kathy
+
+                               david
+                 well  i mean  gee mrs wilson 
+                 you see i was up on the hill with
+                 my telescope  hiding in the bushes
+                 and 
+
+        mrs wilsons face darkens with frightened suspicion
+
+                               mrs wilson
+                 you were hiding in the bushes and
+                 what happened
+
+                               david
+                 well i  i was watching the field
+                 and i saw kathy  she was picking
+                 flowers  i think
+
+                               mrs wilson
+                 yes
+
+                               david
+                 and then  well  the ground opened
+                 up and something grabbed her and
+                 pulled her down into a hole
+
+         as she reacts with annoyance and disbelief
+
+                               mrs wilson
+                 oh david stop all this nonsense
+                 where is she
+
+        david backs away from mrs wilson who advances threat
+        eningly
+
+                               david
+                 honest mrs wilson theres some
+                 thing out there under the ground
+                 its a space ship or 
+
+                               mrs wilson
+                 what kind of a ship
+
+                               david
+                 a space ship
+
+        mrs wilson bursts into nervous laughter and grabs david
+        by the shoulders and shakes him severely
+
+                               mrs wilson
+                 now listen david  what have you
+                 done to my little girl  where is
+                 she  answer me
+
+                               david
+                       frantically
+                 honest mrs wilson  the ground
+                 opened up  and 
+
+        mrs wilson slaps him sharply  david raises his elbow
+        to ward off further blows
+
+                               mrs wilson
+                 you tell me what youve done to
+                 kathy
+
+        the sound of the back kitchen door opening causes mrs
+        wilson to look over her shoulder and react with relief
+
+
+ 55    int wilson kitchen  day  new angle
+
+        kathy wilson is entering the kitchen  she stops and
+        looks at her mother curiously  mrs wilson rushes
+        across the room and gathers the child in her arms
+
+                               mrs wilson
+                 kathy honey  where have you been
+                 whats happened
+
+
+ 56    two shot  kathy and mrs wilson
+
+        kathy looks up at her mother with a round cherubic baby
+        face
+
+                               kathy
+                       blandly
+                 nothing mama
+
+                               mrs wilson
+                       turning to david
+                 oh david  how could you
+
+        she puts kathy down
+
+
+ 57    int wilson kitchen  day  med two shot
+
+        david sidles around and attempts to get a look at the
+        back of kathys head  she puts her hands to the back
+        of her head and smoothes her hair down
+
+
+ 58    int wilson kitchen  day  three shot
+
+                               mrs wilson
+                 what do you mean  coming in here
+                 and scaring me to death  whats
+                 the matter with you david
+
+                               david
+                       flatly
+                 im sorry
+
+                               mrs wilson
+                 i am too  im sorry i lost my
+                 temper
+
+        she turns and reaches for the cookie box
+
+                               mrs wilson
+                 here  dont you want some cookies 
+                 and a glass of milk
+
+                               david
+                       starting toward kit
+                        chen door
+                 no thank you
+
+                               mrs wilson
+                 im really very sorry david for
+                 the way i treated you  but after
+                 all  here dear  take some cookies
+                 with you
+
+                               david
+                 im not hungry
+
+        at this point hes reached the kitchen door
+
+
+ 59    ext rear of wilson house  day  full shot
+
+        cricket is barking frantically at a column of smoke
+        that issues from the open cellar door  david comes out
+        of kitchen door sees the smoke coming from the cellar
+        and calls back inside
+
+                               david
+                       calling
+                 mrs wilson  mrs wilson  your
+                 house is on fire
+
+        mrs wilson runs to the screen door and exits carrying
+        kathy with her into the yard
+
+
+ 60    ext rear of wilson house  day  med shot
+
+        smoke is pouring out the cellar door  mrs wilson
+        places kathy on the ground then snatches a garden hose
+        and runs to a faucet near the back porch  she fumbling
+        ly attempts to attach it just as a neighbor arthur
+        turner a man about fortyfive runs into scene  he
+        quickly attaches the hose while david points the nozzle
+        toward the cellar door  he turns on the water then
+        runs and takes the hose from david adjusts the nozzle
+        to spray then ducking his head against the billowing
+        smoke enters the cellar
+
+
+ 61    ext rear wilson house  day  full shot
+
+        as turner directs the spray of water into the cellar
+        we can see red tongues of flame diminish  he advances
+        into the cellar  mrs wilson is frantically trying to
+        peer through the smoke
+
+                               david
+                 youd better call the fire depart
+                 ment mrs wilson
+
+                               mrs wilson 
+                       calling through smoke
+                 mr turner shall i call the fire
+                 department
+
+                               turners voice
+                       off scene
+                 no  ive got it under control
+
+        mrs wilson steps back and sighs with relief  kathy
+        crosses to her mother and stands pressed against her
+        mothers legs calmly watching the smoke
+
+
+ 62    ext rear wilson house  day  close two shot
+
+         as david sidles around kathy and looks at the back of
+        her head
+
+
+ 63    ext wilson house  day  full shot
+
+         as turner backs up out of the cellar coughing  he
+        is turning off the hose at the nozzle as he exits  he
+        drops the hose crosses to the faucet and turns off the
+        valve  he takes out a handkerchief and dabs at his
+        streaming eyes
+
+                               turner
+                 its all right mrs wilson  its
+                 out
+
+                               mrs wilson
+                        relieved
+                 oh thank heavens
+
+                               turner
+                 someone spilled a gallon can of gaso
+                 line down there
+
+                               mrs wilson
+                 thats impossible  we keep our spare
+                 gasoline in the garage
+
+                               turner
+                 well  a can of gasoline was laying
+                 over on its side down there with the
+                 top off  thats what was burning
+
+                               mrs wilson
+                 are you sure
+
+                               turner
+                 positive
+
+                               mrs wilson
+                 kathy were you down in the cellar
+
+                               kathy
+                       blandly
+                 no mamma
+
+
+ 64    ext wilson  day  close shot
+
+        kathys face  as her eyes look up and meet davids
+
+
+ 65    ext wilson house  day  close shot
+
+        david  staring intently at kathy
+
+
+ 66    ext wilson house  day  close shot
+
+        kathy  as she smiles faintly and her eyes take on a
+        curious hard triumphant expression
+
+                                             quick dissolve to
+
+
+ 67    int grocery store  day  full shot
+
+         with telephone booth in foreground  david enters
+        scene followed by cricket  they go into phone booth
+        and david closes the door
+
+
+ 68    int telephone booth  day  med shot
+
+        david drops a nickel in the coin box
+
+                               david
+                       into phone
+                 state 43559 please
+
+
+ 69    ext griffith observatory  day  full shot
+
+                                                   dissolve to
+
+
+ 70    int professor stuart kelstons office  day  full shot
+
+        his secretary a woman of indeterminate age wearing
+        hornrimmed spectacles is speaking on the telephone
+
+                               secretary
+                       into phone
+                 im sorry david but professor
+                 kelston is out  is there any mes
+                 sage
+
+
+ 71    int phone booth  day  close shot
+
+                               david
+                       into phone
+                 do you know when hell be back
+
+
+ 72    int professor kelstons office  day  close shot
+
+                               secretary
+                       into phone
+                 hes not expected until late this
+                 afternoon
+
+
+ 73    int phone booth  day  close shot
+
+                               david
+                       into phone
+                 oh gee  never mind  thank you
+
+        david hangs up and is about to leave the booth when he
+        sees his father enter the grocery store
+
+
+ 74    int grocery store  day  through door of phone booth
+
+         maclean buying a pack of cigarettes
+
+
+ 75    int phone booth  day  close shot
+
+        david sees maclean and crouches down behind the solid
+        panel of the phone booth door  he holds cricket to
+        keep him from barking
+
+
+ 76    int grocery store  day  med shot
+
+        maclean  turns and leaves scene walking past phone
+        booth
+
+
+ 77    ext phone booth  day  med shot
+
+         as the door opens and david peeps out  then he and
+        cricket emerge  david stops pauses with indecision
+        his decision crystalizes into resolution  he sets his
+        chin and compresses his lips and walks quickly out of
+        scene followed by cricket
+
+                                                   dissolve to
+
+
+ 78    int police station  day  full shot
+
+        david and cricket stand staring up at the desk sergeant
+        who speaks in an exasperated tone
+
+                               desk sergeant
+                 im tellin ya the chief of police
+                 dont see nobody without their first
+                 statin the nature of their business
+
+                               david
+                        pleadingly
+                 but ive gotta see him  its im
+                 portant
+
+                               desk sergeant
+                 well if its so important  why
+                 cant ya tell me
+
+                               david
+                 cause 
+                       he pauses
+                  you wouldnt believe me
+
+                               desk sergeant
+                 so what makes ya think the chief
+                 would believe ya
+
+                               chief of polices voice
+                        off scene
+                 whats the trouble finley
+
+        camera angle widens to include a jovial middleaged
+        heavyset man standing in a halfopen doorway  the
+        door is lettered chief of police
+
+                               desk sergeant
+                 aw this kid here claims hes got
+                 something very important but he
+                 wont tell me what it is
+
+                               david
+                 are you the chief of police sir
+
+                               chief of police
+                 thats right  come in son
+
+        david crosses and enters the chiefs office followed
+        by cricket  the door closes behind them
+
+
+ 79    int office of chief of police  day  full shot
+
+        the chief crosses and sits in a swivel chair at his
+        desk  he indicates a chair for david
+
+                               chief
+                 sit down young man  now whats
+                 your name
+
+                               david
+                 david maclean
+
+                               chief
+                 well whats so important david
+
+        david looks apprehensively clears his throat and
+        starts
+
+                               david
+                 well you see sir  it started
+                 last night when i was looking through
+                 my telescope
+
+                                                   dissolve to
+
+
+ 80    int office  chief of police  day  close shot
+
+        the chief is listening intently leaning his hand on
+        his cheek
+
+                               davids voice
+                       over scene
+                  and thats the truth sir  every
+                 word of it  and i know theyre
+                 under there because ive seen them
+
+        camera dollies back to two shot
+
+                               chief
+                 and after peopleve been down there 
+                 they act different eh
+
+                               david
+                 yes sir  very different
+
+                               chief
+                 whats your telephone number david
+
+                               david
+                 webster 6397
+
+        the chief reaches over and picks up the telephone
+
+                               david
+                       in alarm
+                 but youre not going to call my
+                 father  please  please
+
+        the chief of police swings around in his swivel chair
+        and speaks into the phone
+
+                               chief
+                       into phone
+                 webster 6397
+
+        he looks over his shoulder at david who is nervously
+        biting his lips
+
+                               chief
+                 now take it easy son
+
+        then he turns back to the telephone
+
+
+ 81    int chief of polices office  day  close shot
+
+        david is staring at the back of the chiefs head
+
+
+ 82    int chief of polices office  day  close shot
+
+        on the back of the chiefs head there is a round red
+        livid spot just above the nape of the neck
+
+
+ 83    int chief of polices office  day  close shot
+
+        david reacts to what he has seen
+
+                                                   dissolve to
+
+
+ 84    int jail detention room  day  full shot
+
+        this is a rather barren room with a bench and a
+        straight back chair  david stands at the window star
+        ing through the heavy wire grill  his lips tremble and
+        his face is pinched and white and terror lives in his
+        eyes  startled he looks over his shoulder at the
+        sound of the door opening  he turns and stands at bay
+        he picks up cricket and backs against the wall next to
+        the window
+
+                               macleans voice
+                       off scene
+                 all right david
+
+
+ 85    int jail detention room  day  reverse shot
+
+        john maclean stands near the open door  his face bears
+        a sad resigned expression  the chief of police stands
+        with his hands clasped behind his back  he is benign
+        and kindly in his attitude  dr james blake a well
+        favored young man in his early thirties stands looking
+        at david with a friendly gracious smile  next to him
+        patricia collins smiles down at david with affectionate
+        concern  she is dressed in a nurses blue cape and
+        the stiff white cuffs and uniform collar are apparent
+        below and above the cape
+
+                               dr blake
+                 hello david im doctor blake
+
+        david stares up at him tightmouthed and tightlipped
+
+        pat advances and tries to put her hand on davids shoul
+        der  he pulls away
+
+                               dr blake
+                       reassuringly
+                 theres nothing to be afraid of
+                 david this is miss collins
+
+        david stares up at his father then at the chief of pol
+        ice then back to dr blake  he starts to back away but
+        pats arm restrains him gently
+
+                               pat
+                 no ones going to hurt you
+
+                               maclean
+                       to david
+                 listen to me
+
+        david looks up at his father
+
+                               maclean
+                       continuing
+                 these people are going to take you
+                 to a  school  for a little while 
+                 its for your own good  understand
+                 ill take care of the dog
+
+                               david
+                       frantically
+                 youre not going to take cricket
+
+        he makes a dash for the outer door  maclean steps for
+        ward and grabs his wrist and holds it with unnecessary
+        force  david winces  dr blake steps forward quickly
+        glances curiously at maclean and detaches his fingers
+        from the boys arm
+
+                               blake
+                       kindly
+                 its all right david  you can
+                 bring your dog
+
+                               david
+                       in a scared voice
+                 but i dont understand why  
+
+        pat crosses and inserts davids arm through hers and
+        pats his hand
+
+                               pat
+                       gently
+                 come on david  your father knows
+                 whats best  were going to be good
+                 friends  just wait and see
+
+        dr blake opens the door with one hand  casually
+        takes davids arm and they swiftly exit with him out
+        into the hall closing the door behind them
+
+                                                   dissolve to
+
+
+ 86    ext county hospital  night  full shot
+
+                                                   dissolve to
+
+
+ 87    int hospital  night  insert
+
+        sign reading mental ward
+
+                                                   dissolve to
+
+
+ 88    int dr blakes consultation room  night  full shot
+
+        david is seated in a large comfortable overstuffed
+        chair  a practically empty plate of sandwiches stands
+        on a coffee table next to the chair  david feeds a
+        piece of sandwich to cricket  pat who has removed her
+        cape and is now wearing a starched rn cap enters the
+        scene with three paper cartons of malted milk  dr
+        blake has removed his coat and is seated on a sofa fac
+        ing david  pat passes one of the containers to dr
+        blake who opens the top and inserts a straw  she
+        hands the other one to david then sits on the sofa
+        near the doctor and starts drinking her malted milk
+        david is in a much better frame of mind than in the
+        preceding scene
+
+                               david
+                  and thats what happened 
+                 look doctor if youd talk to my
+                 mother shell tell you about my
+                 father  about how hes changed
+                 and everything
+
+        pat and blake exchange glances
+
+                               blake
+                 thats a good idea david  in fact
+                  i had already thought of it
+
+                               david
+                 youve talked to her
+
+                               blake
+                 only over the phone  she ought to
+                 be here any minute now  you know
+                 thats a very interesting story you
+                 just told us
+
+                               david
+                       resignedly
+                  you dont believe me do you
+
+                               blake
+                 oh i wouldnt go so far as to say
+                 that  better say im keeping an open
+                 mind
+
+                               pat
+                 and so am i
+
+                               blake
+                 there are no scars on the back of
+                 my head david
+
+                               pat
+                       showing him
+                 nor mine
+
+        david looks at their heads then sits back with relief
+        and takes a slow meditative pull on his malted milk
+        straw
+
+
+ 89    int dr blakes reception room  night  med shot
+
+        the door opens and mrs maclean enters  she looks
+        around sees no one crosses to desk and taps the bell
+
+
+ 90    int dr blakes consultation room  night  full shot
+
+        they all look up at the sound of the bell  blake rises
+        and crosses to the door
+
+                               blake
+                       opens door
+                 mrs maclean
+
+                               mrs macleans voice
+                       off scene
+                 yes
+
+                               blake
+                 wont you come in  im dr blake
+
+        mrs maclean enters  david jumps up from the chair and
+        runs to his mother
+
+                               david
+                 gee mom  im glad youre here
+
+                               blake
+                 this is miss collins
+
+        mrs maclean looks down and smiles brittlely  then she
+        coldly detaches his hands from her arm
+
+                               mrs maclean
+                       impatiently
+                 how do you do  sit down david
+
+        david stares at her backs away and slowly sits back in
+        the chair  mrs macleans face is calm and composed and
+        her manner brightly pleasant almost to the point of in
+        congruity  she wears a light coat with a high collar
+        and carries a purse
+
+                               blake
+                 wont you sit down mrs mclean
+
+                               mrs maclean
+                 no thanks  my husbands waiting
+                 for me
+
+                               blake
+                 david tells me 
+
+                               mrs maclean
+                       interrupting
+                 i know what davids been telling
+                 you  hes always been highly im
+                 aginative and weve had a great
+                 deal of trouble with him  especi
+                 ally since he got that telescope
+                 and has been reading those trashy
+                 science fiction magazines
+
+                               blake
+                       looking up
+                 science fiction
+
+                               mrs maclean
+                 yes  horrible weird things with
+                 pictures of monsters that come in
+                 space ships from other planets
+
+                               blake
+                 i see  and hes discussed these
+                 stories with you
+
+                               mrs maclean
+                 incessantly  hes gotten completely
+                 beyond our control
+
+                               blake
+                       with decision
+                 all right mrs maclean  im sure
+                 well be able to help him
+
+        mrs maclean turns and looks at david with unsympathetic
+        eyes
+
+                               mrs maclean
+                 now you be a good boy  and do what
+                 the doctor tells you
+
+        she walks toward the door
+
+
+ 91    int dr blakes consultation room  night  close shot
+
+        david stares incredulously at his mother  his eyes focus
+        on the back of her head as she walks toward the door
+
+
+ 92    int dr blakes consultation room  night  reverse
+
+        davids angle of mrs macleans head  the back of her
+        head is concealed by her hair and the high collar of
+        her coat
+
+
+ 93    int of dr blakes consultation room  night  med
+        long shot
+
+        david looks up quickly at dr blake who is also look
+        ing at mrs mcleans head as she opens the door and
+        exits  dr blakes and davids eyes meet in a curious
+        look of understanding  dr blake takes a notebook and
+        pencil from his pocket
+
+                              blake
+                  have you any relatives david 
+                  around here i mean
+
+                              david
+                        shaking his head
+                  just my aunt margaret  but
+                  she lives over in crystal falls
+
+                              blake
+                  whats her name and address
+
+                              david
+                  miss margaret maclean  926
+                  drexel avenue  crystal falls 
+                  why
+
+                              blake
+                  oh just in case something
+                  comes up
+                        he squeezes davids
+                        shoulder reassuringly
+                  well work this out together
+                  david
+
+        blake exchanges a meaningful look at pat  he crosses
+        to an end table and picks up some magazines which he
+        hands to david
+
+                              blake
+                        continued
+                  mind amusing yourself for a
+                  few minutes
+
+                              david
+                  no sir
+
+                              blake
+                  those are the latest issues
+                  of look and life  well be
+                  right back
+
+                              david
+                  thank you sir
+
+        blake and pat exit into laboratory
+
+
+ 9495 omitted
+
+
+ 96    int dr blakes laboratory  night  full shot
+
+        blake and pat enter  pat looks up
+
+                              pat
+                        shaking her head
+                  that womans a coldblooded per
+                  son if i ever saw one
+
+                              blake
+                  too coldblooded  you know
+                  dear i think that boy is tell
+                  ing the truth
+
+                              pat
+                  but surely you dont believe  
+
+        he crosses to the desk and punches an automatic tele
+        phone directory list then dials a number
+
+                              pat
+                  who are you calling
+
+                              blake
+                  stuart kelston  david says hes
+                  a very good friend of his
+
+                              pat
+                        as he dials
+                  you dont expect to find him at
+                  the observatory at this time of
+                  night do you
+
+                              blake
+                  thats when astronomers work
+                  my dear
+                        into phone
+                  hello  professor kelston
+                  please
+
+        pat sits beside blake placing her hand upon his shoulder
+        affectionately
+
+                              blake
+                  hello stu  jim blake 
+
+
+ 97    int prof kelstons office  observatory  night 
+        med shot
+
+        kelston is a lean sandyhaired angular man with a
+        pleasant scandinavian face and a slow pedantic method
+        of speech
+
+                              kelston
+                  hello jim  who  yes i know
+                  him 
+                        pauses
+                  no  id say just the opposite
+                   matter of fact i think he
+                  has the makings of a firstrate
+                  scientist
+                        chuckles
+                  of course i mean astronomer
+                  what other science is there
+                  why certainly  come on up to
+                  the main entrance and ring the
+                  night bell  right  goodbye
+
+        he hangs up the phone and assumes a thoughtful puzzled
+        expression
+
+                                               dissolve to
+
+
+ 98    ext newspaper building  night  full shot
+
+        there is a sign reading  heraldnews
+
+                                               dissolve to
+
+
+ 99    int of editors office  night  med shot
+
+        ralph pulzer a dignified middleaged gentleman is
+        seated at his desk talking to john maclean who is
+        standing looking down at him
+
+                             pulzer
+                       shrugging his
+                        shoulders
+                 i dont get it  in the first
+                 place i gave up leg work
+                 several years ago and in the
+                 second place i dont see why
+                 you cant give me some inkling
+                 as to what the story is about
+
+                               maclean
+                 this story is so important that
+                 i am not taking anyone out
+                 there except you  and if you
+                 dont want to go ill try the
+                 editor of the blade
+
+                               pulzer
+                       with resignation
+                 all right mr maclean  pick me up
+                 at ten oclock tonight
+
+                               maclean
+                 alone
+
+                               pulzer
+                 ill be alone  and the storyd better
+                 be worth it
+
+                               maclean
+                 it will be  youll see
+
+                                                   dissolve to
+
+
+100    ext griffith park observatory  night  long shot
+
+        as the camera trucks in with the car the headlights
+        illuminate the facade and the heavy bronze door in high
+        key  the lights cut off and blake pat and david enter
+        the observatory
+
+
+101    int foyer of observatory  night  med shot
+
+        pat blake and david  the focault pendulum is in the
+        background  the interior of the observatory foyer is
+        illuminated in low key
+
+                               pat
+                 whats that thing
+
+                               david
+                       glibly
+                 thats the focault pendulum  it de
+                 monstrates the peripherial aberration
+                 of axial inclination
+
+        then david realizes he is talking to an amateur
+
+        pat turns and stares at david in astonishment
+
+                               david
+                       continuing
+                 i mean it shows how much the earth
+                 is tilting on its axis
+
+        at this point professor kelston approaches
+
+                               kelston
+                 well it didnt take you very long
+
+                               blake
+                 youve met patricia collins stu
+
+                               pat
+                 of course  how are you professor
+
+                               kelston
+                 fine thank you
+
+                               blake
+                 i believe you know 
+
+                               kelston
+                       interrupting and af
+                        fectionately putting
+                        his hand on davids
+                        shoulder
+                 yes  david and i are old friends
+                 lets go to my office
+
+
+102    int professor kelstons office  night  full shot
+
+        large scale star maps hang on the walls interspersed
+        with large photographs of comets spiral nebulae solar
+        coronae various lunar and solar eclipses  his desk is
+        littered with a miscellaneous array of meteorites photo
+        graphs and electrical viewing apparatus for astronomical
+        plates  professor kelston seats himself at his desk
+        after indicating comfortable chairs in which his visitors
+        dispose themselves
+
+                               kelston
+                 now  whats the big mystery
+
+                               blake
+                 well  first wed like to have a
+                 look at the back of your head
+
+        a slow smile comes over kelstons face and his eyes
+        twinkle
+
+                               kelston
+                 are you sure some of these patients
+                 you deal with arent contagious
+
+                               blake
+                 tonight im not altogether sure of
+                 anything
+
+        blake and david are seated together on a leather divan
+
+                               blake
+                       continuing
+                 no  seriously  you dont happen
+                 to have any scars on the back of
+                 your head  do you
+
+                               kelston
+                 not since football  why
+
+                               blake
+                 mind letting us have a look
+
+                               kelston
+                 are you serious
+
+        blake nods in affirmation  kelston rises crosses in
+        front of the desk and turns his head around for inspec
+        tion
+
+                               kelston
+                 the bump of intelligence is prac
+                 tically invisible
+
+                               blake
+                       looks at kelstons
+                        head
+                 okay
+
+        kelston straightens and leans back against the edge of
+        his desk
+
+                               kelston
+                       puzzled
+                 i dont get it
+
+                               blake
+                       seriously
+                 id like david to take it from here
+                 all right david
+
+                               david
+                       uncomfortably
+                 well  i  every time i tell anybody
+                 this they think im crazy
+                       looking up at blake
+                 that is  i  i mean i 
+
+                               blake
+                 now david you go right ahead
+
+                               david
+                 well  it started last night
+                 i was looking for variables in
+                 orion  and all of a sudden i
+                 saw this bright light 
+
+                                              dissolve to
+
+
+103    int kelstons office  night
+
+        camera pulls back from kelstons face  he is smoking a
+        pipe and is staring meditatively through the smoke
+
+                              blakes voice
+                        off scene
+                   and everyone of the people that
+                  have those scars behave strangely
+
+                              kelston
+                        turns to david
+                  are you positive that you saw these
+                  creatures or whatever they are pull
+                  the little wilson girl under the
+                  ground
+
+                              david
+                  yes sir  i wasnt two hundred
+                  yards away and i was looking
+                  through my oneinch telescope and
+                  its fifty power
+
+                              kelston
+                  how far is this field from your
+                  house david
+
+                              david
+                  about a quarter of a mile
+
+                              blake
+                        to kelston
+                  then we could see it from here with
+                  the sixteeninch
+
+                              david
+                        excitedly
+                  yes sir  i know we could
+                        he turns to kelston
+                  you know that time last summer when
+                  you let me look right into the kit
+                  chen window and i could see mom in
+                  there cooking supper
+
+                              kelston
+                        hesitatingly
+                  that was last summer david
+                  since then because of the top
+                  secret experiments at white
+                  sands the army has instructed
+                  me to allow no one but my staff
+                  to use the telescope
+                        he pauses
+                  but under the circumstances im
+                  sure it will be all right  lets
+                  take a look
+
+        they exit
+
+                                               dissolve to
+
+
+104    ext griffith telescope room  night  med shot
+
+         opening of upper aperture and dome rotating approxi
+        mately sixty degrees and stopping
+
+
+105    int griffith telescope room  night  med shot
+
+        kelston blake pat and david station themselves at
+        multiple oculars while kelston focuses instrument
+        with manual verniers
+
+                              kelston
+                  were fortunate  theres plenty
+                  of moonlight tonight
+
+
+106    ext maclean field  night  through telescope  matte
+
+                              david
+                        excitedly
+                  thats it  thats where they
+                  got kathy wilson
+
+                              pats voice
+                        over scene
+                  good heavens  i never imagined
+                  you could see so clearly
+
+
+107    int griffith telescope room  night  med shot
+
+                              kelston
+                  now lets increase the magnifi
+                  cation so we can get a closer
+                  view
+
+
+108    ext maclean field  night  through telescope  matte
+
+        the telescope zooms into med long shot and sharpens
+        an automobile comes slowly into the field of vision
+        and stops and the lights are extinguished
+
+                               davids voice
+                       off scene
+                 thats dads car
+
+        a front door of the sedan opens and the dome light il
+        luminates the interior of the car in comparative high
+        key
+
+                               davids voice
+                       os
+                 someones with him
+
+                               kelstons voice
+                       os
+                 lets get a real close look
+
+        the telescope field narrows and brings maclean and his
+        companion up into a med close shot
+
+                               blakes voice
+                       os
+                 that looks like ralph pulzer
+
+                               pats voice
+                       os
+                 the editor of theheraldnews
+
+                               kelstons voice
+                       os
+                 yes thats who it is  i know him
+
+        pulzer seems to be discussing something rather vehement
+        ly with maclean  he suddenly shrugs his shoulders
+        takes a flashlight which maclean offers him gets out
+        of the car and closes the door walks around the car
+        and starts out across the field lighting his way with
+        the flashlight
+
+                               blakes voice
+                       os
+                 your father stayed in the car
+
+                               david s voice
+                       os
+                 that mans walking right to the place
+                 where 
+
+        the telescope shot pans with pulzer as he ascends a
+        slight rise  he reaches the top of the mound and stops
+        turning the flashlight in a slow circle about him when
+        suddenly the flashlight goes out and all is darkness
+
+
+109    int telescope room  night  close shot
+
+        group around telescope  they look up from the oculars
+        and stare at each other with speechless amazement
+        kelston reaches for the verniers they look back into
+        the oculars
+
+
+110    ext maclean field  night  through telescope  matte
+
+         it pans down to macleans automobile just in time
+        to see the headlights turn on and the car move rapidly
+        out of scene
+
+
+111    int telescope room  night  med shot
+
+        group around telescope  they look at kelston with
+        questioning faces
+
+                              kelston
+                        calmly
+                  if youll go back to my office 
+                  ill join you there in a few
+                  minutes
+
+        blake takes pats arm and he pat and david exit
+        kelston crosses to his desk and flips a switch on
+        the intercom
+
+                              kelston
+                        into intercom
+                  george  when did you check the
+                  rocket at white sands last
+                        pause
+                  no dont bother  ill check it
+                  myself as long as im up here
+
+        kelston hangs up the intercom crosses to the switch
+        box and presses a button  the upper aperture slowly
+        turns on its axis
+
+
+111a   ext observatory dome  night  med shot
+
+        the dome slowly turns on its axis and stops
+
+
+111b   int telescope room  night  med shot
+
+        kelston has just finished swinging the telescope into
+        position  he looks into the eye piece
+
+
+111c   ext white sands  night  special effectsstock shot
+
+        we see a giant rocket standing upright in a takeoff
+        position
+
+
+111d   int telescope room  night  med long shot
+
+        kelston steps down from the telescope and crosses to
+        a small desk lighted by a low power students lamp
+        he sits down and dials the telephone
+
+                              kelston
+                        into phone
+                  hello operator  this is pro
+                  fessor stuart kelston at the
+                  astronomical observatory  get
+                  me the white sands rocket
+                  proving station please
+                        pause
+                  hello  white sands  give me
+                  the security office
+                        pause
+                  hello  is colonel fielding
+                  there
+                        pause
+                  yes its most important
+                        pause
+                  hello colonel  this is stuart
+                  kelston at the observatory
+                  operation 925 is with us
+
+
+111e   int colonel fieldings office  night  med shot
+
+        colonel fielding head of white sands security division
+        is seated at his desk talking into the phone  a keen
+        executive type man he is in his shirt sleeves but in
+        uniform 
+
+                              col fielding
+                        into phone
+                  what
+                        pause
+                  are you sure
+                        pause
+                  all right ill be at your office
+                  in the morning  900 oclock
+                  right  goodbye
+
+        the colonel hangs up the phone and assumes a thoughtful
+        expression  he rises and crosses to a filing cabinet
+        removes a key from his pocket and unlocks the file
+        he pulls out a drawer from which he takes a manila
+        folder  he crosses back to his desk seats himself and
+        then opens the folder  removing some papers  we dolly
+        into an insert of the label on the outside of the folder
+         it reads
+
+                  operation 925  top secret
+
+                                               dissolve to
+
+
+112    int professor kelstons office  night  full shot
+
+        pat david and blake are on scene  kelston enters and
+        crosses behind his desk opens a drawer and takes out
+        a large scrapbook
+
+                              kelston
+                        to david
+                  young man  it looks like youve
+                  stumbled on to something that the
+                  government has been concerned
+                  about for some time
+
+        blake pat and david cross to desk  kelston opens scrap
+        book
+
+                              pat
+                  what do you mean
+
+                              kelston
+                  youve seen most of these magazine
+                  and newspaper stories of socalled
+                  flying saucers before  but have
+                  you ever seen them compiled in one
+                  book
+
+
+113    insert  scrapbook
+
+         with clips of flying saucer stories  camera pans from
+        one headline to another
+
+                              kelston
+                        os
+                  when you see them al together they
+                  begin to add up
+
+
+114    int prof kelstons office  night  full shot
+
+                              blake
+                  but the authorities have denied
+                  all these stories
+
+                              kelston
+                  yes they have  and they will
+                  probably continue to do so
+
+                              pat
+                  but why  why not keep the public
+                  informed
+
+                              kelston
+                  lack of complete information i
+                  suppose  and perhaps afraid it
+                  would cause panic and hysteria
+
+                              david
+                  where are these space ships from
+                  professor kelston
+
+                              kelston
+                  our observations lead us to believe
+                  they are from mother ships in free
+                  orbit just above earths atmosphere
+
+                              pat
+                  but where are these mother ships
+                  from
+
+                              kelston
+                  nobody knows  weve worked out a
+                  postulate and mars seems to be the
+                  logical point of origin  step in
+                  here and ill show you
+
+                                                   dissolve to
+
+
+115    int planetarium  lecture room  night  med shot
+
+        kelston is seated at the operating console  pat david
+        and blake are standing by it  the projector is in back
+        ground  kelston turns a rheostat and the light dims
+
+                              kelston
+                        pointing
+                  thats our planetary system there 
+
+
+116    int planetarium  lecture room  shooting up at dome
+        effect shot
+
+         of our planetary system on inverted dome of planet
+        arium  a white projected arrow indicates each point as
+        kelston speaks os
+
+                              kelstons voice
+                        os
+                  this is the earth moving around the
+                  sun on this orbit  and this is the
+                  orbit of mars  and here is the rela
+                  tive position of mars and earth to
+                  night
+
+                              pats voice
+                        os
+                  why  theyre our next door neigh
+                  bors
+
+                              kelstons voice
+                        os
+                  yes  only a little over three mil
+                  lion miles 
+
+                              pats voice
+                        os
+                  it would take forever to travel
+                  three million miles
+
+                              kelstons voice
+                        os
+                  hardly
+
+        the scene on the planetarium changes
+
+
+117    int planetarium lecture room  night  med shot
+
+                              kelston
+                  our earth is traveling through
+                  space at well over a hundred
+                  thousand miles an hour  at that
+                  speed we could reach mars in
+                  thirty days  or they could reach
+                  us
+
+                              pat
+                  but i dont understand  why dont
+                  we burn up from friction
+
+                              kelston
+                  there isnt any atmosphere in space
+                   therefore  no friction
+
+                              blake
+                  but why do you think theyre from
+                  mars
+
+
+118    int planetarium lecture room  shooting up at dome 
+        effect shot
+
+                              kelstons voice
+                        os
+                  because mars is closer to us than
+                  any other planet  they are now
+                  in their winter and those are
+                  polar caps  the same as ours
+                  see how much smaller they are in
+                  summer  those dark areas are
+                  vegetation
+
+                              pats voice
+                        os
+                  do they have cities too  the
+                  same as ours
+
+                              kelstons voice
+                        os
+                  if they do they are underground 
+                  the low oxygen content and extremes
+                  of temperature indicate a sub
+                  terranean culture
+
+                              davids voice
+                        os
+                  those things in our pasture are
+                  subterranean all right
+
+
+119    int planetarium lecture room  night  med shot
+
+         as the house lights go up  kelston sits at the con
+        trol console
+
+                              pat
+                  but how would martians have enough
+                  intelligence to build space ships
+
+                              kelston
+                  the human race doesnt have a
+                  monopoly on intelligence  besides
+                   mars is millions of years older
+                  than we are
+
+                              pat
+                  but whats their reason for travel
+                  ing so far through space
+
+                              kelston
+                  mars is a dying planet  they are
+                  losing their oxygen and water
+
+                              blake
+                  then this could be the start of
+                  an invasion
+
+                              kelston
+                  im afraid it is
+
+                              pat
+                  but why did they begin here
+
+                              kelston
+                  because of the operations at
+                  white sands
+
+                              pat
+                  but all theyre doing at white
+                  sands is just shooting rockets
+                  up into the air
+
+                              kelston
+                  exactly  very high up into the
+                  air  beyond atmosphere and in
+                  to space  the scientists at
+                  white sands have developed a
+                  rocket powerful enough to take
+                  them to these mother ships in
+                  outer space  that rocket is
+                  completed and ready to be fired
+                  right now  that may be the mar
+                  tians objective
+                        he rises
+                  however well have the answers
+                  to a lot of our questions tomorrow
+                  colonel fielding the head of the
+                  security division will be in my
+                  office in the morning  im sure
+                  he will want to talk to all of you
+                   can you be here
+
+                              blake
+                  certainly  what time
+
+                              kelston
+                  nine oclock
+
+        blake pat and david rise  kelston comes with them to
+        the door
+
+                                               fade out
+
+
+        fade in
+
+120    ext griffith observatory  day  long shot
+
+                                          dissolve through to
+
+
+121    int kelstons office  day  full shot
+
+        colonel robert fielding is seated at kelstons desk
+        talking to kelston  blake pat and david are seated
+        on chairs in the office  david is just hanging up
+        the telephone
+
+                               david
+                 i dont know where they could
+                 be  if theyre at home theyre
+                 not answering the phone  i
+                 called last night and this is
+                 the second time this morning
+
+                               fielding
+                       rising
+                 hm i see  come on young man 
+                 you and i are going out to do a
+                 little investigating
+
+                               david
+                 can we stop by the hospital and
+                 get my dog
+
+                               fielding
+                 i dont think wed better take the
+                 time right now
+
+                               blake
+                 well take care of him david
+
+        blake and david exit  kelston stops fielding at the
+        door
+
+                               kelston
+                       in a low voice
+                 just a moment colonel  i called
+                 ralph pulzers office this morning 
+                 hes left town with chief of police
+                 barrows and detectives jackson and
+                 blaine  and they didnt say where
+                 they were going
+
+                               fielding
+                 will you get me a description of all
+                 these people  ill phone you later
+
+                               kelston
+                 i will colonel
+
+                                                   dissolve to
+
+
+122    ext front of macleans house  day  full shot
+
+        a cadillac limousine with a long whip aerial pulls up
+        in front of the house and stops  it is driven by ser
+        geant balardi  he opens the door and fielding and
+        david step out  david runs up the driveway  fielding
+        remains standing by the car door
+
+                               fielding
+                 sergeant phone professor kelston
+                 at the observatory and see if he
+                 has that information i wanted
+
+                               balardi
+                       reaching for the phone
+                 yes sir
+
+        fielding turns and exits from the scene
+
+                                                        pan to
+
+
+123    ext front of maclean house  day  med shot
+
+        david is waiting in the driveway as fielding joins him
+
+                               david
+                 the cars not here
+
+                               fielding
+                 well lets take a look inside the
+                 house
+
+        they walk toward the front door
+
+
+124    ext front maclean house  day  med close shot
+
+        balardi is on the telephone in the car holding a note
+        book on his knee and writing
+
+                               balardi
+                 yes sir  john maclean age thirty
+                 five height five feet eleven inches
+                 weight 165 hair brown
+
+
+125    int maclean bedroom  day  full shot
+
+        fielding is standing in the middle of the room and david
+        is standing before an open closet very perturbed
+
+                               david
+                       perturbed
+                 my mothers suitcase is gone and
+                 my fathers rifle  he used to keep
+                 it in this closet
+
+                               fielding
+                 what kind of a rifle
+
+                               david
+                 a 3006
+
+                               fielding
+                 hm  id like to talk to someone
+                 who  what about that little girl 
+                 the one you think set fire to her
+                 mothers house
+
+                               david
+                 kathy wilson  i can take you over
+                 there
+
+                                                   dissolve to
+
+
+126    ext wilson front porch  day  full shot
+
+        mrs wilson stands on the porch talking to fielding
+        balardi and david  she is distraught and nervous
+
+                               fielding
+                 im very sorry to hear that mrs
+                 wilson  when did it happen
+
+                               mrs wilson
+                       through tears
+                 early this morning
+
+                               fielding
+                 what did the doctor say
+
+                               mrs fielding
+                 he said something about a cerebral
+                 hemorrhage
+                       then semihysterically
+                 but how a little child could have a
+                 thing like that 
+
+
+127    ext wilson house  day  close shot
+
+        david  reacting and thinking about his mother and
+        father
+
+                               fieldings voice
+                       os
+                 mrs wilson i dont like to disturb
+                 you at a time like this  but theres
+                 just one question id like to ask you
+                  do you have any idea why your lit
+                 tle girl started the fire in the cel
+                 lar yesterday
+
+
+128    ext wilson house  med group shot
+
+                               mrs wilson
+                 i dont know what started the fire
+                 and i dont know why you have to
+                 torture me with a lot of questions
+
+                               fielding
+                       bowing
+                 im sorry and i wont bother you any
+                 more
+
+        david stands frozen thinking what could happen to his
+        mother and father
+
+                               fielding
+                 thank you  come along david
+
+        mrs wilson turns abruptly and enters front door
+
+                                                    dissolve to
+
+
+129    ext maclean field  day  full shot
+
+        fielding balardi and david  with the bushes in fg
+        where david observed kathy wilsons capture through his
+        small telescope  fielding holds a monocular sportscope
+        in his hand
+
+                               fielding
+                       to david
+                 can you point out the place where
+                 the wilson child disappeared
+
+        he hands the monocular to david who adjusts it
+
+                               david
+                       after a slight pause
+                 there  those three white stones
+                 are right by the edge of it  you
+                 can even see the crack  see it over
+                 there
+
+                               fielding
+                 lets have a look
+
+        david hands him the monocular fielding looks through
+        it
+
+
+130    ext maclean field  day  telescope matte shot
+
+         a faint crack approximately four feet in diameter is
+        clearly visible near three white stones
+
+
+131    ext maclean field  day  med shot
+
+        fielding removes the monocular from his eye and turns
+        to sergeant balardi
+
+                               fielding
+                       pointing
+                 see those bushes down there  by
+                 the road sergeant
+
+                               balardi
+                 yes sir
+
+                               fielding
+                 there are three white stones in the
+                 field about one hundred feet from
+                 there at two oclock
+
+                               balardi
+                 yes sir i see them
+
+                               fielding
+                 go down behind those bushes  and
+                 when you get there throw some
+                 rocks as close to those three white
+                 stones as you can
+
+                               balardi
+                 yes sir
+
+                               fielding
+                 whatevers down there must be sensi
+                 tive to sound  so keep your distance
+
+                               balardi
+                 yes sir
+
+                               fielding
+                 and when i signal you come back here
+                 on the double
+
+                               balardi
+                 yes sir
+
+        the sergeant crosses out of scene and fielding turns
+        to david
+
+                               fielding
+                       to david
+                 just exactly what did this thing
+                 look like son  the thing that
+                 grabbed the little wilson girl
+
+                               david
+                 it moved so fast it was hard for
+                 me to see exactly what it looked
+                 like
+
+
+132    ext maclean field  day  med close shot  balardi
+
+        he kneels on one knee beside a small pile of stones
+        about the size of peaches  he takes one in his right
+        hand and hurls it over the bushes as one throws a gren
+        ade
+
+
+133    ext maclean field  day  med shot
+
+        fielding and david  as fielding looks through monocu
+        lar
+
+
+134    ext maclean field  day  matte shot
+
+        through monocular  of stone falling near the center
+        of the shot
+
+                               fielding
+                       os
+                 well that one ought to be close
+                 enough for them to hear
+
+        another stone falls in the same area and a circular
+        fourfoot section of earth slowly rises about six in
+        ches revealing an indistinct shape that moves as though
+        someone or something were peering out of the crack
+
+                               fielding
+                       os
+                 somethings moving  but i cant
+                 make out what it is
+
+        another stone falls near the trapdoor and it closes
+        swiftly
+
+
+135    ext maclean field  day  med shot
+
+        fielding and david  as fielding lowers monocular
+
+                               fielding
+                 thats a trapdoor all right  some
+                 things in there
+
+        david looks at him and nods concerned affirmation
+        fielding raises his monocular again and looks toward
+        the bushes where sergeant balardi was throwing the
+        rocks
+
+                               fielding
+                 wheres balardi  come on
+
+        he runs toward field david follows and camera pans
+        with them
+
+
+136    ext maclean field  day  med shot
+
+        fielding and david  warily approach the bushes behind
+        which the sergeant was throwing rocks  suddenly they
+        stop staring at the ground
+
+                               david
+                 they got him  see there
+
+
+137    ext maclean field  day  reverse close shot
+
+        their angle of the faint circular fourfoot outline
+        near where the sergeant was last seen  his military
+        cap lies on the ground and scratches and gouges show
+        where his fingers clawed as he was dragged down into
+        the hole
+
+                               fieldings voice
+                       os
+                 thats thelastone theyll get 
+                 come on son
+
+                                                   dissolve to
+
+
+138    ext maclean field  day  med shot
+
+        fieldings car  fielding reaches into car and flips
+        the catch on the fish pole antenna which flies up
+        david watches with interest as fielding takes out a
+        phone and pushes the button on the hand set
+
+                               fielding
+                       into phone
+                 this is wj605  dispatch white
+                 sands 121a  closed circuit
+                 expedite  priority a14
+                       pause
+                 hello walter
+                       pause
+                 fielding  operation 925 is with
+                 us
+                       pause
+                 yes im sure  now hear this 
+                 i want you to muster two platoons
+                 and a demolition team with plenty
+                 of ctwo charge  equip them with
+                 submachine guns and grenades
+                 bring the light sherman tank and
+                 get here as fast as you can  get
+                 rolling  ill expect you here by
+                 tomorrow at fourteen hundred  got
+                 that
+                       pause
+                 rendezvous is at the intersection
+                 off state highway eightysix and
+                 belle meade road  if any newspaper
+                 people ask you any questions tell
+                 them its a training maneuver
+                       pause
+                 right  goodbye
+
+        he presses the stud again
+
+                 wj605  dispatch 143  expedite
+                 closed circuit
+                       pause
+                 hello cagle  fieldingopera
+                 tion 925
+                       pause
+                 yes  now clear the boards for
+                 thiscover all key supply sources
+                 for the white sands rocket project
+                       fielding reading
+                       from notebook
+                 put out an allpoints alarm for the
+                 following subjects  john maclean
+                 age thirtyfive height five feet
+                 eleven  weight 165  hair 
+
+                                               dissolve to
+
+
+139    insert  ext plate glass door
+
+        it reads us army intelligence  major ga cagle
+
+                                               dissolve to
+
+
+140    int us army intelligence office  day  full shot
+
+        major cagle is seated at his desk listening on the
+        phone and writing on a pad  he is an alert hawk
+        eyed man who looks like a successful attorney
+
+                              cagle
+                        in a sharp incisive
+                        manner
+                  yes colonel  i have it  john
+                  maclean  mary maclean  ralph
+                  pulzer chief fred barrow detectives
+                  jackson and blaine
+                        pause
+                  yes sir  all points bulletin
+                  and they are to be returned to
+                  dr blake at the county hospital
+
+        he hangs up the phone and flips the toggle on an inter
+        com box on his desk
+
+                              cagle
+                        into intercom
+                  clear the teletype  and code
+                  this right away with special
+                  attention to armstrong liquid
+                  oxygen plant and belaer magnesium
+                  plant  also all other key
+                  supply sources for the white sands
+                  rocket project  get that
+                        pause
+                  first subject  john maclean age
+                  thirtyfive height five feet
+                  eleven 
+
+                                               wipe to
+
+
+141    montage
+
+        1  teletypes
+
+        2  hands operating telegraph keys in high speed code
+
+        3  telegraph wires  odd angles
+
+                                               fade out
+
+
+        fade in
+
+
+142    ext alley  silhouette of belaer magnesium plant in
+        bg  night  long shot
+
+        detectives blaine and jackson run toward camera and
+        turn around corner of building and stand flattened
+        against the wall  camera pans to blaine and jackson
+        behind them is sign  belaer magnesium plant  the
+        scene is lighted in low key by street light  over
+        scene there is a terrific shattering explosion
+
+
+143    ext alley  night  long shot
+
+        the silhouette of the factory is gone  a siren os
+        builds up to crescendo
+
+
+144    ext alley  night  full shot
+
+        blaine and jackson  as they turn and run away from an
+        army military police car that pulls up to the curb  they
+        turn and run up the alley in the direction from whence
+        they came and the headlights of another military police
+        car come into alley with siren going
+
+
+145    ext alley  night  close shot
+
+         blaine and jackson huddle back against the wall caught
+        in the blazing headlights of the two military police cars
+        as a group of soldiers emerge from each car and converge
+        upon blaine and jackson with drawn revolvers 
+
+                                          quick dissolve to
+
+
+146    ext wire fence  oxygen plant  night  full shot
+
+        the camera pans along the woven wire fence and pulls in
+        on
+
+
+147    ext wire fence  oxygen plant  night  med shot
+
+        sentry  standing guard at which is obviously a side
+        gate
+
+
+148    insert  sign over gate
+
+        armstrong liquid oxygen plant
+
+        a small sign underneath reads
+
+        apply to main gate for admittance
+
+        camera pulls back to
+
+
+149    ext oxygen plant  night  med shot  sentry
+
+        he straightens up at the sound of a car approaching off
+        scene  the motor of the car sputters and the headlights
+        pick up the sentry as the forepart of the car moves into
+        scene
+
+
+150    ext oxygen plant  night  med shot  sedan in bg 
+        sentry in fg
+
+                               sentry
+                 you cant park here lady
+
+                               mary maclean
+                 somethings the matter with my car 
+                 i think its the ignition 
+
+
+151    ext oxygen plant  night  med close shot
+
+        through window of car  mary maclean  speaking to sen
+        try in background
+
+                               mary maclean
+                       continuing
+                 do you suppose you could find out
+                 whats the matter with it
+
+                               sentry
+                       leaning rifle against
+                        fence
+                 im not much of a mechanic lady
+                 but ill take a look
+
+        he crosses to the front of the car and there is a click
+        as mary maclean releases the hood catch  the sentry
+        leans over the motor and turns on his flashlight  the
+        rear door of the sedan opens and john maclean moves
+        swiftly around behind the sentry carrying a rifle
+        there is a thud as he strikes the sentry over the back
+        of the head with the rifle butt and the sentry falls
+        over the fender of the car unconscious and then falls
+        to the ground  maclean closes the hood of the car and
+        drags the sentry over near the fence
+
+                               maclean
+                 start the motor  ill be right
+                 back
+
+        there is the sound of the engine starting over scene
+
+
+152    ext oxygen plant  night  new angle
+
+         as maclean swiftly enters the gate the sentry was guard
+        ing and runs to the corner of the adjacent brick building
+
+
+153    ext oxygen plant  night  med shot
+
+        corner of building  as maclean peers around it
+
+
+154    ext oxygen plant  night  long shot
+
+        macleans angle  lighted window in small building in
+        background  a man is seated working at a desk  he has
+        a fringe of bushy white hair and a bald head  from the
+        silhouette he looks very much like albert einstein  be
+        hind the desk at which he is working is the usual para
+        phenalia of a physicists lab  john maclean in the fore
+        ground raises his rifle to his shoulder and steadies it
+        against the corner of the building
+
+
+155    ext oxygen plant  night  med close shot  matte
+
+         scientist  with crossedhairs of rifle telescope
+        sights superimposed on view  the scientist suddenly
+        leans forward to pick up a book  as he does so a glass
+        retort on the shelf behind him is shattered by a bullet
+        the scientist looks fearfully out the window then quick
+        ly extinguishes the light
+
+
+156    ext oxygen plant  night  med shot
+
+        john maclean  lowering the rifle from his shoulder and
+        staring toward the blacked out window  over scene the
+        shrill blast of a police whistle causes him to turn and
+        run out of scene
+
+
+157    ext oxygen plant  night  med long shot
+
+        with maclean car in fg  moving away from camera at
+        high speed  suddenly two sets of headlights appear in
+        the distance coming toward car with the sound of the
+        sirens over scene  the maclean car screeches to a stop
+        is quickly backed and turned around and comes racing
+        toward camera with the headlights of the two pursuing
+        cars closing rapidly and the sound of the sirens build
+        ing  the maclean car swerves past camera at high speed
+        followed by the two pursuing cars with sirens and there
+        is a loud crash off scene
+
+
+158    ext oxygen plant  night  full shot
+
+        side of road  with maclean car turned over in a ditch
+        and a command car in a position relative to it indicat
+        ing that it ran the maclean car off the road  four
+        guards emerge from the command car and two others from
+        the second car and surround the wrecked maclean car
+        some of the guards carry carbines others drawn pistols
+
+
+159    ext oxygen plant  night  med close shot
+
+        the maclean car  the macleans are dazed from the im
+        pact  as they start to resist the soldiers imprison
+        their arms and lead them from the wrecked car
+
+                                             quick dissolve to
+
+
+160    ext rocket station  night  full shot
+
+        the silhouette of a gigantic rocket is in background
+        in foreground ralph pulzer and chief barrows carrying
+        heavy suitcases are sneaking around a high steellink
+        barbed wire top fence  suddenly a searchlight pans
+        across scene and comes to rest on them  they straighten
+        up shade their eyes with their hands from the glare and
+        run away from camera
+
+
+161    ext rocket station fence  night  med shot
+
+         soldier standing by fence  he raises his carbine to
+        his shoulder
+
+                               soldier
+                       shouting
+                 halt
+
+        another soldier runs into scene
+
+                               2nd soldier
+                 there they go
+
+
+162    ext rocket station  night  reverse angle
+
+         of pulzer and barrows running with the suitcases and
+        the searchlight following them
+
+                               1st soldier
+                       os shouting
+                 halt
+
+
+163    ext rocket station fence  night  med shot
+
+        two soldiers raising their carbines and firing several
+        shots at rapid fire  suddenly there is a terrific ex
+        plosion and the scene is lighted by the flash of the
+        explosion  the soldiers stagger back with the force
+        wave
+
+                               1st soldier
+                 what was that
+
+                               2nd soldier
+                 those suitcases must have been full
+                 of nitroglycerine
+
+                               1st soldier
+                 good thing we got them before they
+                 got to the rocket
+
+                                                   dissolve to
+
+
+164    int blakes office  day  med shot
+
+        david fielding and cricket are sitting  pat enters
+        from laboratory
+
+                               pat
+                 colonel fielding would you step
+                 in here please
+
+
+165    int blakes office  day  med shot
+
+        fielding exits into laboratory leaving david and the
+        dog waiting
+
+                               fielding
+                 ill only be a minute david
+
+
+166    int dr blakes laboratory  day  med shot
+
+         with shelf bearing testtubes retorts and equipment
+        in bg  doctors blake and metzler enter scene wearing
+        operating caps and gowns  blake crosses to a table and
+        places a covered tray on it
+
+                               blake
+                       introducing the two
+                        men
+                 colonel fielding  dr metzler
+                       both men murmur how
+                        do you do
+                        fielding looks at
+                        blake questioningly
+                 dr metzler has completed the aut
+                 opsy on the little wilson girl
+
+                               metzler
+                 i have  and my findings are al
+                 most unbelievable  that child died
+                 of a subdural hematoma all right
+                 but thiscaused it
+
+        everyone crowds around the desk  metzler picks up a
+        small hexagonal crystal about a halfinch long with
+        the diameter of a pencil  attached to one end is a
+        thin platinum disk and two small wires run from this
+        to a ruptured platinum globe the size of a small mar
+        ble
+
+                               metzler cont
+                 i found this device inserted in the
+                 base of the skull  and the hemorrhage
+                 was caused when this little detonator
+                       points to ruptured globe
+                 exploded in her brain
+
+                               fielding
+                 incredible
+
+                               metzler
+                 thiscrystalwas in direct contact
+                 with the medulla oblongata
+
+                               blake
+                 do you suppose thats how they con
+                 trolled kathy wilson and impelled
+                 her to set fire to her house
+
+                               metzler
+                 very possible  weve done some
+                 thing similar with white mice 
+                 and have made them follow directional
+                 impulses with high frequency oscil
+                 lation
+
+                               pat
+                 but why did the thing explode
+
+                               blake
+                 probably their method of getting
+                 rid of people when they have no
+                 further use for them
+
+                               pat
+                 then  davids father and mother  
+
+        blake looks at her meaningly and shrugs his shoulders
+
+
+167    int blakes office  day  med shot
+
+        the phone rings  david crosses and answers it
+
+                               david
+                 hello
+                       pause
+                 yes sir  just a moment  ill
+                 call him
+
+        he crosses to laboratory door and knocks  door opens
+        and fielding blake and pat enter blakes office
+
+                               david
+                 its for you colonel fielding
+
+                               fielding
+                 thank you david
+
+        he crosses and takes the telephone
+
+                               fielding
+                 fielding
+                       pause
+                 oh hello moody
+                       pause
+                 fine  bring it to the intersection
+                 of state highway eightysix and belle
+                 meade road  with an operator 
+                       pause
+                 right
+
+        he hangs up phone and crosses speaking to blake
+
+                               fielding
+                       to blake
+                 well we finally got an earth augur
+
+                               david
+                 is that for boring into the trap
+                 doors
+
+                               fielding
+                 thats what we expect to do david
+
+                               david
+                 gosh  how soon do we start
+
+                               fielding
+                       kindly
+                 well i was planning on having you
+                 wait here
+
+                               david
+                       jumping up and crossing
+                        to fielding
+                 but  but  im the one that dis
+                 covered this whole thing  and
+                 gee i ought to be there i mean 
+                 gee
+
+                               fielding
+                 well  all right but youll have
+                 to follow orders  like any other
+                 soldier
+
+                               david
+                 oh i will  sir
+
+                               fielding
+                 youd better leave your dog here
+                 david he might get hurt out there
+
+                               david
+                 all right  sir
+
+                                                   dissolve to
+
+
+168    ext macleans field  day  full shot
+
+        a platoon of soldiers are gathered around a sherman
+        tank a truck two jeeps and an earth augur  blake
+        pat david and fielding in combat uniform are in a
+        group near the machines
+
+                               david
+                 is that the earth augur
+
+
+169    ext maclean field  day  davids angle  med shot
+
+        motorized earth augur  such as are used to dig cess
+        pools  on trailer
+
+                               fielding
+                       os
+                 yes
+
+
+170    ext maclean field  day  med shot
+
+        lieutenant blair and lieutenant cole enter scene
+
+                               fielding
+                 all right cole  these people 
+                 or whatever theyare react to
+                 sound or vibrations  send kelley
+                 over to the northeast corner 
+                       points
+                  of the field
+
+                               cole
+                 yes sir
+
+                               fielding
+                 full drums of live ammunition for
+                 your 505  and better carry ten
+                 rounds of he for the 175  now get
+                 this  this is important  tell
+                 kelley to take out twenty mills gren
+                 ades  tell him to traverse the
+                 northern border of the field and to
+                 throw the grenades out at short in
+                 tervals  got that
+
+                               cole
+                 yes sir
+
+                               fielding
+                 thats to cover the sound of the
+                 earth augur
+                 after that have kelley run the tank
+                 up and down that corner of the field
+                 and create a disturbance
+                       looking at his watch
+                 he will proceed at 1533 on a vary
+                 flare from this position
+
+                               cole
+                 yes sir
+
+        he leaves
+
+                               fielding
+                       turning to blair
+                 blair you have your crew stand by
+                 with the earth augur  on a hand sig
+                 nal from me proceed to that spot by
+                 those three stones  go six feet
+                 north of them and drill a hole until
+                 you have penetrated a subterranean
+                 passage
+
+                               blair
+                 yes sir
+
+                               fielding
+                 as soon as you effect an entrance
+                 take two squads and your demolition
+                 team with full attack equipment and
+                 stand by for me
+                       looking at watch
+                 youve got nine minutes
+
+                               blair
+                       saluting and exiting
+                 yes sir
+
+
+171    ext maclean field  day  full shot
+
+        blake fielding and pat are in a group  david is stand
+        ing about ten feet apart from them watching the earth
+        augur  a white uniformed interne enters the scene and
+        crosses to blake
+
+                               interne
+                       in a low voice
+                 the boys father and mother and the
+                 others have been brought in  dr
+                 metzler is preparing to operate
+
+                               blake
+                 good
+
+                               interne
+                 his aunt has arrived too  shes
+                 very disturbed and wants him back
+                 at the hospital immediately
+
+                               blake
+                       turning to pat
+                 pat why dont you take david back
+                 to the hospital
+
+                               fielding
+                       to pat
+                 you can take my car  sergeant
+                 roberts will drive you
+
+                               pat
+                 thank you
+                       calling
+                 oh david
+
+        david turns around and walks up to the group
+
+                               pat
+                       continuing
+                 david we have to go back to the
+                 hospital  your aunts waiting to
+                 see you
+
+                               david
+                       disappointed
+                 aw gee  what for
+
+                               fielding
+                 soldiers dont question orders
+                 david
+
+                               david
+                 but  but 
+
+                               fielding
+                 an order is an order young man
+
+                               david
+                        straightening up mili
+                         tarily
+                 okay sir
+
+        pat moves off scene followed by david
+
+
+172    ext maclean field  day  med shot
+
+        david straggles some fifteen or twenty feet behind pat
+        looking reluctantly over his shoulder
+
+
+173    ext maclean field  day  close shot
+
+         as david traverses a clump of bushes looking back
+        a round section of earth opens just ahead to the left
+        of him
+
+
+174    ext maclean field  day  close shot
+
+        pat  who looks over her shoulder sees it and stops
+
+                               pat
+                       yelling
+                 david
+
+
+175    ext maclean field  day  close shot
+
+        top half of david  as he stops
+
+                               david
+                       calling
+                 what
+
+
+176    ext maclean field  day  med shot
+
+        pat  as she screams and runs toward camera
+
+                               pat
+                 look out david
+
+
+177    ext maclean field  day  med long shot
+
+        dr blake  reacting to what he sees 
+
+
+178    ext maclean field  day  med long shot
+
+        reverse shot from blakes angle as he sees a flap of
+        earth is closing over davids and pats screams
+
+
+179    ext maclean field  day  med shot
+
+        blake and fielding
+
+                               blake
+                       excitedly
+                 they got them  pat and the boy
+                       pointing
+                 over there
+
+        he starts to run toward the spot where david and pat
+        disappeared
+
+                               fielding
+                       running after him and
+                        stopping him
+                 hold it blake theres nothing you
+                 can do now
+
+        blake rages impotently 
+
+
+180    int tunnel  day  low key  close shot
+
+        pats face  as she looks up and reacts with terrified
+        scream shrinking back
+
+
+181    int tunnel  day  low key  med close shot
+
+        reverse  pats angle
+
+        two mutants stand over her looking down  the lighting
+        of the tunnel scenes seems to come from a luminous
+        quality in the walls of the tunnels themselves  these
+        tunnels are cut through the earth by an atomic heat ray
+        which blasts a hole through the earth and fuses the
+        silica along the walls of the tunnel into a radioactive
+        phosphorescent glassylike substance  for these shots
+        we will use water glass sprayed on cellophane and back
+        light it with hot arcs
+
+        these creatures are mutations developed by the martians
+        for physical labor  they are humanoid in appearance
+        but are covered with a coarse black hair  flocked
+        baggy tights  their feet are about twice the length
+        of human feet and the four toes of each foot terminate
+        in heavy black digging claws  the fingers are much long
+        er than human fingers and are equipped with black non
+        retractable digging claws  a hairless snoutlike nose
+        similar to a moles protrudes from the front of the
+        face  they are with ears and beadylike reflecting
+        eyes look out from the hairy mask of the face  at no
+        time do they utter any sound for these creatures are
+        telepathic  one of the mutants leans forward into cam
+        era with extended long prehensile fingers
+
+
+182    int tunnel  day  med close shot
+
+        pat  as she cowers back and the long black fingers
+        curl around her wrist  pat screams and struggles fran
+        tically and another long black hand comes into scene and
+        grasps the other wrist
+
+
+193    int tunnel  day  med shot
+
+        david is lying unconscious from his fall momentarily
+        ignored by the mutants  a mutant grabs at pats shoul
+        der  pat struggles frantically  her screams revert to
+        hoarse gasps of effort and terror and in the struggle
+        her dress is ripped  the long fingers of a hand curl
+        around pats neck and squeeze for a moment  she sudden
+        ly relaxes into unconsciousness  one of the two mutants
+        picks her up the other picks up david  they lope away
+        with them down the tunnel into infinity and darkness
+
+
+194    int tunnel  day  long shot
+
+        the two mutants lope past camera carrying the two inert
+        figures  they disappear around a corner of the tunnel
+
+
+185    int tunnel  day  med shot
+
+        mutants rounding another turn carrying pat and david
+        at a loping run
+
+                                             quick dissolve to
+
+
+186    int tunnel  day  med shot
+
+        from an open metal trapdoor in bg there emanates a
+        stronger light  the two mutants pass camera and lope
+        toward metal door  they enter
+
+
+187    int central area of space ship  day  full shot
+
+        it is a circular room some twenty feet in diameter
+        approximately fifteen feet high  it is composed of a
+        shiny metallic substance similar to polished aluminum
+        the only rivets in evidence mark the outline of bulk
+        heads spaced around the perimeter of the walls  upper
+        left near the spiral steel staircase a low metal table
+        is near the wall  it is flanked by two stationary met
+        al benches  the room is domelike in structure and an
+        area twelve feet in diameter and approximately eight
+        feet in height occupies the apex of the dome which is
+        of a transparent plastic substance  this is the control
+        tower of the space ship  a bank of control panels is
+        placed in this structure and a round cushioned pilots
+        seat is suspended on a crosswalk of perforated metal
+        girders  the room is illuminated by a series of circu
+        lar lights which look like portholes  even so the
+        lighting is in comparative low key  the two mutants
+        descend a spiral staircase and bring pat and david to
+        the center of the room and lay their unconscious bodies
+        on the floor  then they step back approximately five
+        feet and assume a rigid attitude grotesquely reminiscent
+        of soldiers
+
+
+198    int space ship  day  low key  different angle
+
+        a bulkhead opens in the upstage wall  sergeant balardi
+        enters walking like an automaton  he walks up to pat
+        facing upstage  then a mutant backs out of the bulk
+        head carrying a martian seated on a circular metal tray
+        which is surmounted by a plastic bell jar  another mu
+        tant enters supporting the other handles of the metal
+        tray  a mutant steps forward quickly and places a cir
+        cular metal drum approximately three feet in diameter
+        and thirty inches in height in front of pat  the other
+        two mutants then place the martian on the drum and step
+        back and assume an attitude of attention  truck in to
+        close shot  the martian  he is approximately thirty
+        inches in height dressed in a singlet that resembles
+        soft chain mail  over this is a gorget of soft black
+        material similar to velvet  he is seated tailor
+        fashion on a circular cushion resembling sponge rubber
+        he is extremely brontocephalic and his tremendously
+        large skull is completely devoid of hair  his eyes are
+        small and deepset and peer from their dark sockets
+        with a strange ophidion lustre  he is entirely covered
+        by the plastic bell jar and sits so frozen and unmoving
+        that he appears to be a wax figure until we are suddenly
+        aware of the eyes moving to the right then to the left
+        then down where he focuses upon pat
+
+
+189    int space ship  day  med close shot
+
+        pat is unconscious on the floor  she stirs into con
+        sciousness sits up then stands facing the camera
+        her eyes widen and stare straight ahead
+
+
+190    int space ship  day  close shot
+
+        martians eyes  staring into camera
+
+
+191    int space ship  day  close shot
+
+        pat is drawn by the hypnotic stare of the martian  she
+        fights it off
+
+
+192    int space ship  day  med shot
+
+        martian balardi and pat  david is still unconscious
+        on the floor  balardi stands stiffly
+
+                               balardi
+                       mechanically
+                 what is your name
+
+                               pat
+                       in a strained hoarse
+                        voice
+                 patricia collins
+
+                               balardi
+                       indicating the martian
+                 he is from the fourth planet  which
+                 you call mars  he wants to know what
+                 they plan to do  those people up above
+
+                               pat
+                 i dont know 
+
+                               balardi
+                 yes you do  and you will answer
+                 in a few moments
+
+        he gestures to the mutants
+
+
+193    int space ship  day  med shot
+
+         as two mutants approach pat and suddenly grab her
+        arms  she attempts to struggle but is held in a vise
+        like grip  she turns suddenly and stares her eyes
+        widen further with horror  a panel on a bulkhead swings
+        open and a mutant pushes a chromium wheeled operating
+        table into scene  a tray of surgical instruments is on
+        the table
+
+
+194    int space ship  day  med shot
+
+        the surgeon mutant lifts a hypodermic needle and ad
+        vances toward pat  she screams piercingly and hysteric
+        ally and continues to scream
+
+
+195    int space ship  day  close shot
+
+        surgeon mutant  as he lifts the hypodermic needle of
+        a strange design  his hands holding the needle move
+        out of camera and pats screams stop suddenly
+
+
+196    int space ship  day  med shot
+
+         as the two mutants lift pats unconscious body and
+        place it on the operating table  david slowly regains
+        consciousness and sits up rubbing his eyes in a dazed
+        manner
+
+
+197    int space ship  day  new angle  med shot
+
+        david  as his eyes become adjusted to the light and
+        he reacts in terror at seeing pat being placed upon the
+        operating table
+
+                               david
+                       starts to his feet
+                        screaming
+                 no  no
+
+         a mutant grabs him and clamps a long black hand
+        across his mouth
+
+
+198    int space ship  day  close shot
+
+        davids face  with the hand across his mouth his
+        eyes staring in horror
+
+
+199    int space ship  day  med shot
+
+        davids angle  of the mutant surgeon as he takes up
+        a complex surgical instrument  in his other hand he
+        lifts up and examines a tiny crystal capsule to which
+        is affixed a small spiral wire  turning slowly he
+        moves toward the unconscious form of pat on the operat
+        ing table
+
+
+200    int space ship  day  close shot
+
+        back of pats neck and crown of her head  the mutant
+        surgeons hands come in and part the hair just above
+        the nape of the neck
+
+
+201    ext maclean field  day  med shot
+
+         with truck in bg  fielding blake stand in fg
+        looking toward the field  just to the left of fielding
+        a soldier stands with a signal pistol held ready
+        fielding is watching the sweep hand on his wrist watch
+        he turns to the soldier
+
+                               fielding
+                 fire
+
+        the soldier fires a star shell
+
+
+202    ext maclean field  day  long shot
+
+        star shell exploding over pasture
+
+
+203    ext maclean field  day  long shot
+
+        sherman tank  starting and moving alongside the field
+        a hand grenade is thrown from the open hatch rolls to
+        ward camera comes to rest on the plowed field and ex
+        plodes
+
+
+204    int space ship  day  med shot
+
+        martian in bell jar  the martians head turns sharply
+        as a dull explosion is heard over scene  the lights go
+        up in the space ship
+
+
+205    int space ship  day  new angle
+
+         as the surgeon mutant removes a strange complex
+        helmet affair from pats head while two other mutants
+        rush forward and carry the martian quickly through the
+        bulkhead closing the bulkhead behind them  the other
+        mutants race across the room and up the spiral steel
+        staircase leaving sergeant balardi staring after them
+        pat lies unconscious on the operating table  david
+        rushes over to pat
+
+
+206    int tunnel  day  full shot
+
+        just outside trapdoor  as the last mutant enters the
+        tunnel through the trapdoor two other mutants emerge
+        from a side tunnel carrying a machine mounted on a metal
+        stretcherlike base  the machine resembles a large
+        searchlight with a metal megaphoneshaped device fasten
+        ed to the front of the lens  two heavy insulators stand
+        vertically just behind the searchlight part of the
+        machine and they are connected to a thing that looks
+        like a small condenser by two threeinch copper ribbons
+        os can be heard the thumping rumble of the tank treads
+        and a dull sound of exploding grenades  the two mutants
+        with the machine run down the tunnel out of scene leav
+        ing one mutant standing guard
+
+
+207    int tunnel  day  med shot
+
+         as the mutants run past camera with the machine and
+        turn right through an intersecting tunnel
+
+
+208    int tunnel  day  med shot
+
+         as the mutants place machine on floor of tunnel and
+        deflect it upward at an angle of fortyfive degrees
+        os the sound of the sherman tank is much louder  also
+        the sound of bursting grenades
+
+
+209    int tunnel  day  new angle
+
+         as mutants push a stud on the machine and a brilliant
+        rush of flame emerges from the mouth of the megaphone
+        shaped nozzle
+
+
+210    int tunnel  day  long shot
+
+        roof of tunnel  as the flame from the atomic disin
+        tegrator burns a circular hole  the edges of the hole
+        drip with molten silica like wax under the flame of
+        a blow torch
+        production note for the full scale shots this ef
+        rect can be obtained with a military flame thrower
+        burning away a waxcovered flimsy  lycopodiem is jet
+        ted into flame with compressed air
+
+
+211    ext field  day  med shot  miniature
+
+         as a shaft of brilliant white flame comes up out of
+        the earth and engulfs the sherman tank
+
+
+212    ext field  day  close shot
+
+        soldier in open hatchway of tank engulfed in flames
+
+
+213    ext maclean field  day  med close shot  miniature
+
+        tank treads and forepart of tank as it melts into a
+        shapeless molten mass
+
+
+214    ext maclean field  day  full shot
+
+        earth augur  being removed from the circular four
+        foot hold in field  soldiers with submachine guns and
+        miners lamps attached to their helmets stand by
+        lieutenant blair and his demolition team are carrying
+        their ctwo packs strapped across their shoulders
+        fielding runs into scene carrying a submachine gun
+        fielding crosses to the hole and drops down into it and
+        is instantly followed by the men  as the last of them
+        enter the hole blake runs into scene and drops into
+        the hole after them
+
+
+215    int tunnel  day  med shot
+
+         as fielding and the soldiers followed by blake run
+        past camera
+
+
+216    int tunnel  day  new angle
+
+         as the party approaches a branch tunnel  two sol
+        diers are delegated to explore it while the main party
+        including lieutenant blairs demolition team proceeds
+        fielding turns and suddenly recognizes blake
+
+                               fielding
+                 what are you doing down here
+
+                               blake
+                 im going to find pat
+
+                               fielding
+                 well  come on 
+
+
+217    int tunnel  day  med shot
+
+        fielding blake and soldiers cautiously round turn and
+        come toward camera
+
+
+218    int tunnel  day  long shot
+
+         the soldiers in fg  their miners lamps light the
+        tunnel at the far end of which the mutant standing guard
+        by the trapdoor spreads his legs and arms and waits
+
+
+219    int tunnel  day  med close shot
+
+         as the rescue party stops
+
+                               soldier
+                 what in the name of time isthat
+
+                               fielding
+                 i dont know  fire on command
+
+        two of the soldiers drop to their knees and aim their
+        guns at lens  the other four and fielding raise their
+        guns and aim at the lens
+
+
+220    int tunnel  day  med close shot
+
+        mutant  who starts lumbering forward toward group
+
+
+221    int tunnel  day  reverse shot
+
+        rescue party  with all tommy guns aimed at lens
+
+                              fielding
+                  fire
+
+        seven tommy guns fire a short burst directly at lens
+
+
+222    int tunnel  day  med close shot
+
+        mutant  as he is blown over backwards
+
+
+223    int tunnel  day  long shot
+
+        rescue party  running through tunnel toward camera
+        they step over the body of the dead mutant
+
+
+224    int space ship  day  full shot
+
+         as rescue party runs down spiral staircase
+
+
+225    int space ship  day  med shot
+
+         as sergeant balardi looks toward ladder and aims his
+        fortyfive  david grabs his arm and spoils his aim
+
+
+226    int space ship  day  med shot
+
+         as a soldier leaps off the top of the spiral stair
+        case and knocks balardi to the floor  balardis pis
+        tol falls to the floor  david picks up the pistol
+
+
+227    int space ship  day  full shot
+
+         as balardi fights furiously with his fists  a sol
+        dier knocks him out with the butt of his gun
+
+                              soldier
+                        to fielding
+                  hey whats the matter with this
+                  guy
+
+                              fielding
+                  he doesnt know what hes doing
+                  take him outside
+
+        the soldiers exit with balardi  fielding turns to david
+
+                              fielding
+                        continued
+                  you go with them son
+
+        david exits
+
+
+227a   int tunnel  day  med shot
+
+        at door or space ship  david comes up the ladder and
+        looks up the tunnel where the two soldiers and balardi
+        have disappeared  he runs after them
+
+
+228    int space ship  day  med shot
+
+         as blake and fielding run up to pat who is still
+        unconscious
+
+                              blake
+                  pat  pat
+
+        he shakes her but she does not regain consciousness
+        blake picks her up and carries her up the spiral ladder
+
+
+228a   int tunnel intersection  day  med shot
+
+        david runs toward camera and pauses uncertainly at the
+        intersection  he doesnt know which tunnel to take
+        he finally chooses the right hand tunnel and runs out
+        of scene
+
+
+229    int space ship  day  full shot
+
+        fielding blair and his demolition team stare around the
+        space ship  fielding crosses and attempts to open one
+        of the bulkheads
+
+                              fielding
+                  i hate to destroy this ship but
+                  we cant afford to take any
+                  chances  go ahead and place your
+                  ctwo charges lieutenant
+
+        blair signals one or the men who removes his demolition
+        pack and places it near the bulkhead  he pulls back the
+        canvas cover exposing a clock time fuse  the other
+        demolition expert is setting his charge at the opposite
+        end of the ship
+
+                              blair
+                        to fielding
+                  what interval shall i set it to
+                  fire sir
+
+                              fielding
+                  six minutes will give us enough
+                  time
+
+
+230    int space ship  day  close shot
+
+        demolition expert sets dial to six minutes and pulls
+        firing pin
+
+
+231    int tunnel at intersection  day  med shot
+
+         as two soldiers run into scene from branch tunnel
+        they stop just around the corner of the tunnel and
+        each takes a mills grenade from his bag and pulls the
+        pin with his teeth and drops down into position to
+        hurl the grenade into the tunnel
+
+
+232    int tunnel  day  med shot
+
+        the two mutants with the atomic disintegrator are pur
+        suing the soldiers
+
+
+233    int tunnel  at intersection  med shot
+
+        two soldiers  as they wait to throw grenades
+
+                               1st soldier
+                 here they come
+
+        both of them hurl their grenades down the branch tunnel
+        and flatten back against the wall
+
+
+234    int tunnel  day  long shot
+
+         as the grenades explode and roof of tunnel caves in
+        and falls in front of mutants filling the tunnel with
+        earth
+
+
+235    int tunnel  from behind mutants  day  med shot
+
+         as they place the atomic disintegrator on floor of
+        tunnel and direct it toward the piledup debris  one
+        of them presses a stud and a bright sheet of flame
+        burns through the debris
+
+
+236    int tunnel at intersection  day  med shot
+
+         as the flame burns through
+
+                               1st soldier
+                 let them have it again
+
+        they throw two more grenades which explode blocking
+        the tunnel again
+
+                               1st soldier
+                 hurry  tell everybody to get out
+                 of here  ill try and hold em off
+
+        the second soldier turns and runs out of scene and up
+        the main tunnel to the right  the first soldier hurls
+        another grenade which explodes dropping the roof of
+        the tunnel and blocking it again
+
+
+237    int another section of tunnel  day  med shot
+
+         as second soldier encounters the two soldiers bearing
+        the unconscious form of sergeant balardi
+
+                               2nd soldier
+                 pass the word  we gotta get out
+                 of here right away
+
+        a sergeant takes a whistle from his pocket and blows
+        three sharp blasts then repeats it
+
+
+238    int different section of tunnel  day  med shot
+
+         as another soldier hears the whistle signal in the
+        distance and repeats it on his whistle
+
+
+239    int space ship  day  full shot
+
+         as fielding blair and demolition team react to the
+        whistle signal and run to the spiral staircase
+
+
+240    ext maclean field  day  med shot
+
+         as blake emerges from trapdoor carrying pat with
+        him  a soldier standing at the top of the trapdoor
+        hears the whistle signal in the distance
+
+                              soldier
+                  thats emergency retreat  get her
+                  out of here on the double
+
+        blake moves quickly out of scene carrying pat with him
+
+
+241    int tunnel intersection  day  med shot
+
+        soldier at branch tunnel  as a burst of flame cuts
+        through debris some distance up branch tunnel  as
+        flame breaks off he quickly hurls another grenade
+        which explodes down the tunnel again dropping the roof
+        two soldiers running halt by the branch tunnel
+
+                              1st soldier
+                  better stand by with grenades and
+                  help me hold these monkeys off
+
+                              3rd soldier
+                  whats up
+
+                              1st soldier
+                  theyve got some kind of a flame
+                  thrower that cuts right through
+                  rocks and dirt  watch it  here
+                  they come again
+
+        a blast of flame billows out of the tunnel then blacks
+        out and the first soldier throws another grenade  the
+        other soldiers also throw grenades against the collap
+        sing roof of the tunnel  at this point lieutenant
+        blair his men and fielding enter scene
+
+                              fielding
+                  all right  keep going  on the
+                  double  get moving you two
+
+        the two soldiers run out of scene followed by fielding
+        blair signals one of the demolition men to remain and
+        place a charge  the others exit quickly  the demoli
+        tion man who was left behind starts to set the fuse
+
+
+241a   int tunnel  day  med shot
+
+        david hurries along the tunnel approaches another inter
+        section  he hears the whistle faintly in the distance
+        and stops  he is again faced with the decision of which
+        tunnel to choose and is becoming panicstricken
+
+
+241b   int tunnel  intersection  day  close shot
+
+        david  the sweat stands out on his forehead as he tries
+        to peer into the tunnel ahead of him  he starts to turn
+        into the right hand tunnel when he hears faint footsteps
+        approaching  he is about to call when some instinct
+        prompts him to press back against the tunnel wall
+
+
+241c   int tunnel intersection  day  med shot
+
+        a mutant is cautiously making his way down the tunnel
+        he pauses and looks back at the direction from which
+        he came  he advances a few more feet and reaches the
+        intersection where he stops
+
+
+241d   int tunnel intersection  day  close shot
+
+        david is pressing himself as far into the corner of the
+        opposite tunnel wall as he can  he is terrified  as he
+        presses closer to the wall he dislodges a tiny pebble
+        which rolls down the wall on to the floor of the tunnel
+
+
+241e   int tunnel intersection  day  med shot
+
+        the mutant hears the sound of the pebble falling and
+        looks around  he starts to advance toward where david
+        is standing when a whistle is heard faintly in the dis
+        tance  he quickly turns and lopes off into darkness
+
+
+241f   int tunnel intersection  day  med long shot
+
+        david waits until the mutant disappears and then runs
+        up the opposite tunnel
+
+
+241g   int different tunnel intersection  day  med shot
+
+        the demolition man who set the last c2 charge is hurry
+        ing along endeavoring to catch up with blair and the
+        other men  he reaches the intersection and bumps
+        squarely into the mutant who is loping up from the other
+        tunnel  the mutant envelopes the soldier in his huge
+        arms and starts to bend him backwards  the soldier vain
+        ly struggles for his pistol but is like a child in the
+        mutants hands  he screams but the mutant covers his
+        mouth with a hairy paw
+
+                              soldier
+                        gasping
+                  helphelp
+
+
+241h   int tunnel  day  med long shot
+
+        blair and the rest of the demolition team hear the faint
+        screams behind them and turn back
+
+
+241i   int tunnel intersection  day  med shot
+
+        the soldier is struggling but growing weaker as the
+        mutant has him bent over nearly double  blair and his
+        men round the corner and charge for the mutant who
+        drops the soldier  as the mutant leaps forward he is
+        met by a hail of tommygun slugs and drops in his
+        tracks  the men pick up the injured soldier and run back
+        up the tunnel
+
+
+242    int tunnel  different intersection  day  long shot
+
+         as several soldiers and fielding run past camera
+
+                              1st soldier
+                        looking over shoulder
+                  there they are again
+
+
+243    int tunnel  day  reverse long shot  his angle
+
+        mutants  entering main tunnel with machine
+
+                              fieldings voice
+                        os
+                  all right  rest of you keep moving
+                  you sims and watson  give em a
+                  long burst
+
+
+244    int tunnel  day  med shot
+
+        fielding 1st and 3rd soldier firing their tommyguns
+        toward lens as they back around a curve in the tunnel
+
+
+245    int tunnel  day  med shot
+
+        from behind fielding 1st and 3rd soldiers as they back
+        around a 90 degree turn and a blast of flame strikes
+        the wall just in front of them  fielding and the two
+        soldiers back away from the searing heat shielding
+        their faces with their arms
+
+                              fielding
+                  come on  out of here on the double
+
+        they turn and run down tunnel and out of scene
+
+
+246    int intersection tunnel  day  med long shot
+
+        blair and his demolition team enter  the men carrying
+        the injured soldier continue on  blair looks around and
+        signals one of the demolition men to place a ctwo
+        charge at the intersection of the tunnels  blair looks
+        at his wrist watch
+
+                              blair
+                  three minutes
+
+        the soldier sets the time fuse pulls the pin and they
+        all exit quickly
+
+
+247    int intersection tunnel  day  med shot
+
+        fielding and two soldiers run past intersection and con
+        tinue on  huddled in a dark corner we see the two mu
+        tants holding the martian on his tray  one of the mu
+        tants is also carrying a strange looking antenna device
+        they turn and disappear into the darkness
+
+
+247a   int tunnel  day  med shot
+
+        david runs toward camera  it pans with him as he comes
+        to a dead end which slopes steeply up  he stops and
+        looks about him uncertainly
+
+
+247b   int tunnel  different intersection  day  med close
+        shot
+
+        c2 demolition charge  we hear the sound of the time
+        clock ticking away
+
+
+247c   insert
+
+        face of c2 demolition time clock  the second hand is
+        slowly moving around  the minute hand reads two minutes
+
+
+247d   int tunnel  dead end  day  med close shot
+
+        david climbs to the top of the slope at the dead end
+        of the tunnel and peers up at the roof
+
+
+247e   int tunnel  dead end  day  close shot of tunnel roof
+
+        the faint outline of what could be a mutant trapdoor is
+        barely visible in the half light
+
+
+247f   int tunnel  dead end  day  med shot
+
+        david stands on his tiptoes and strives to reach the
+        trapdoor but cant quite touch it  he frantically
+        sets to work digging at the fused earthen wall trying
+        to carve a foothold  his fingers make little impression
+        on the hard surface  seeking something to use as a
+        digging instrument he feels his belt buckle  he tears
+        off the belt and again starts to dig  from over head
+        we hear distant sounds of moving vehicles
+
+
+248    ext maclean field  day  full shot
+
+        trapdoor through which the rescue party entered  two
+        soldiers are on their hands and knees lifting the others
+        out of the hole as swiftly as possible  balardi and
+        pat are already in a waiting jeep which rolls away out
+        of scene  the mechanized earth augur is rapidly moving
+        out of scene  another jeep races into scene as the
+        injured soldier is lifted through the hole and all the
+        soldiers and fielding jump aboard the jeep which moves
+        out of scene
+
+
+249    ext maclean field  long shot
+
+        jeeps and earth augur  hightailing it across pasture
+        as a burst of flame shoots high into the air through
+        the hole from whence the rescue party just emerged
+
+                                               dissolve to
+
+
+250    ext corner of macleans field  day  med shot
+
+        some distance from the trapdoor the two jeeps have
+        stopped by the ambulance  fielding helps five or six
+        soldiers remove balardi from the jeep  he fights
+        furiously  a soldier and blake are lifting the uncon
+        scious form of pat from the jeep
+
+                              blake
+                  hurry lets get them to the
+                  hospital
+                        he gestures toward
+                        the soldier who was
+                        injured in the fight
+                        with the mutant
+                  give him first aid  ill send
+                  the ambulance right back
+
+        the driver runs to the back of the ambulance opens it
+        takes out two stretchers and restraining bands  pat
+        still unconscious is placed on one stretcher balardi
+        is placed on the other and strapped down with the re
+        straining bands  blake and the driver enter the am
+        bulance and it pulls out of the scene at high speed
+        siren wailing
+
+
+250a   ext corner maclean field  day  med shot
+
+        fielding suddenly turns to lieutenant cole
+
+                              fielding
+                        with concern
+                  wheres david
+
+                              cole
+                  i dont know colonel  wasnt
+                  he with lieutenant blair
+
+                              fielding
+                        to blair worried
+                  lieutenant have you seen david
+
+                              blair
+                  why no  didnt he come out of
+                  the tunnel with you
+
+                              fielding
+                  no  i sent him up long ago  if
+                  he didnt come out with you he
+                  must still be down here
+                        he is frantic
+                  how much time before the demoli
+                  tions go off
+
+                              blair
+                        looking at his watch
+                  one minute sir
+
+        fielding makes a move for the jeep  blair puts his hand
+        on fieldings shoulder stopping him
+
+                              blair
+                  youll never make it sir
+
+        fielding and blake look at each other in hopeless
+        despair
+
+
+250b   int tunnel  dead end  day  med shot
+
+        david is desperately digging at the wall of the tunnel
+        he has clawed away enough earth and rock to almost
+        touch the trapdoor  he stops to rest wipes the sweat
+        from his eyes and again attacks the tunnel wall with
+        his belt buckle
+
+
+250c   int tunnel  intersection  day  insert time clock
+        face
+
+        it reads  40 seconds
+
+
+250d   int tunnel  dead end  day  med close shot
+
+        david is frantic  he is within inches of the trapdoor
+        and still digging
+
+
+250e   int tunnel intersection  insert time clock face
+
+        it reads  20 seconds
+
+
+250f   int tunnel  dead end  day  med shot
+
+        david has reached the tunnel roof and is pushing on the
+        trapdoor  it slowly rises and the daylight streams in
+        to his face as he clambers out
+
+
+250g   ext corner maclean field  day  long shot
+
+        shooting over the backs of fielding blair and cole
+        toward the center of the field  david is seen climbing
+        out of the trap door  fielding jumps into the jeep 
+        yells at the driver  the jeep roars toward david
+
+
+250h   ext field  day  at trapdoor
+
+        the jeep tears into the scene  fielding reaches out and
+        lifts david into the jeep  without stopping it roars
+        out of scene
+
+
+251    ext maclean field  day  long shot
+
+        the jeep with fielding and david speeds toward camera
+        the other soldiers are taking refuge behind the cars
+        and equipment awaiting the explosion  suddenly there
+        is a violent detonation and a cloud of earth and debris
+        mushrooms into the sky
+
+
+252    ext rocky ridge overlooking maclean field  day 
+        long shot
+
+        in the distant bg we see the general activity after
+        the explosion  men are picking themselves up from the
+        ground brushing themselves off looking back at the
+        crater caused by the explosion  in the immediate fg
+        a trapdoor opens in the ground and we see the hairy
+        arm of a mutant come into scene  the rest of his
+        body appears in deep silhouette  he is followed by
+        the second mutant who is carrying the antenna device
+
+                                               fade out
+
+
+        fade in
+
+253    ext maclean field  dusk  full shot
+
+        fielding and lieutenant cole are in foreground at rim
+        of crater caused by the explosion  they are inspect
+        ing a battered portion of the space ships instrument
+        panel  lieutenant blair enters scene carrying intricate
+        looking instrument similar to an altimeter  he hands
+        it to colonel fielding
+
+                               blair
+                 this instrument seems to be intact
+                 sir
+
+        fielding inspects the instrument and hands it to cole
+
+                               fielding
+                 it appears to be similar to our
+                 high altitude anaroids
+                       he then turns back
+                        to blair
+                 did you finish checking the tunnels
+                 blair
+
+                               blair
+                 yes sir  our demolition charges
+                 cleaned them all out
+
+                               fielding
+                 be sure the boys bring in everything
+                 they find
+
+        they resume their inspection of the space ship instru
+        ment panel
+
+
+254    ext maclean field  dusk  med shot
+
+        shooting toward rocky ridge  david walks slowly up the
+        hill  he stoops and picks up a small piece of metal
+        which he puts in his pocket
+
+
+255    ext maclean field  rocky ridge  dusk  med shot
+
+        fielding cole blair and several soldiers two of
+        whom have just placed some portions of the space ship
+        on the pile  a sergeant enters scene
+
+                               sergeant
+                 dr metzler just called from the
+                 hospital sir  the operations
+                 were successful
+
+                               fielding
+                 thank you sergeant
+
+        he looks around
+
+                               fielding
+                 i want to get back right away
+                 wheres david
+
+                               blair
+                       pointing
+                 he was up there a couple of minutes
+                 ago sir
+                       laughs
+                 looking for souvenirs
+
+                               fielding
+                 thanks lieutenant  you and your
+                 men did a fine job  you can report
+                 back to the base
+
+                               cole
+                 yes sir
+
+        he leaves  and fielding moves out of scene in the dir
+        ection to which blair had pointed
+
+
+256    ext rocky ridge  maclean field  dusk  med long
+        shot
+
+        david is walking aimlessly toward the mutants whom we
+        see in silhouette in the fg  david stops and picks
+        up a piece of metal  he examines it throws it aside
+        and sees something closer to camera near where the mu
+        tants are hiding  as he starts for the object we hear
+        fieldings voice os
+
+                               fielding
+                       os
+                 david
+
+        david turns looks at him then turns and looks at the
+        object that he was interested in
+
+                               david
+                 theres something up here that
+                 might be 
+
+                               fielding
+                       interrupting
+                 never mind  theyll get all of
+                 that tomorrow  weve got to go
+                 back to the hospital now
+
+        david turns and runs back to fielding
+
+                                                   dissolve to
+
+
+257    int dr blakes consultation room  med full shot
+
+        david and his aunt margaret maclean a pleasant forth
+        right woman are seated  they have an attitude of ex
+        pectancy  cricket is seated on the sofa next to aunt
+        margaret  she is petting him  it is apparent from the
+        dogs attitude that he knows her
+
+                               david
+                 theyve been in there a long time
+                 aunt margaret
+
+                               aunt margaret
+                 it only seems like a long time dear
+                       trying to switch his
+                        thoughts
+                 has cricket had his supper yet
+
+                               david
+                       disgusted
+                 the nurse gave him some toast and
+                 spinach
+
+                               aunt margaret
+                 well give him some real food when
+                 we get home
+
+        fielding and blake enter  david jumps up
+
+                               david
+                       anxiously
+                 are they all right
+
+                               blake
+                       kindly
+                 your father and mother are going
+                 to be just like they were before 
+                 before these  things happened
+                 when i talked to them david their
+                 only concern was for you
+
+                               david
+                       turning to his aunt
+                 they  they didnt know what they
+                 were doing  did they aunt mar
+                 garet
+
+                               fielding
+                 they werent responsible for any
+                 thing that happened david  now
+                 go home with your aunt and get a
+                 good nights sleep  youll see
+                 them tomorrow morning
+
+        aunt margaret and david cross to the door
+
+                               david
+                 yes sir
+                       turns to the dog
+                 come on cricket were going home
+
+        they exit
+
+                                                   dissolve to
+
+
+258    ext rocky ridge  overlooking maclean field  night 
+        med shot
+
+        two mutants and martian  as one of them adjusts a
+        series of rings like a miniature radio direction loop
+        then presses a stud and violet sparks ripple and dance
+        around the edges of the rings and a shrill highfre
+        quency buzzing sound broken up like very fast code
+        emanates from the machine  the two mutants and the
+        martian raise their eyes upward and stare into space
+        then they look off stage
+
+
+259    ext maclean house  night  mutants angle  long shot
+
+        the lights are burning in the maclean house
+
+
+260    int davids bedroom  night  full shot
+
+        david is in his pajamas cricket is on the foot of the
+        bed and aunt margaret is pulling back the covers
+
+                               aunt margaret
+                 all right young man into bed with
+                 you
+
+                               david
+                       yawning
+                 okay aunt margaret
+
+        she ruffles his hair kisses him then crosses to the
+        door turns off the light and pauses before she exits
+
+                               aunt margaret
+                 good night dear
+
+                               david
+                       sleepily
+                 good night
+
+        aunt margaret exits closes the door after her  the
+        camera pans to cricket on the foot of the bed  his
+        ears suddenly perk up and he looks toward the window
+        he whimpers then jumps off the bed and patters to the
+        window  he puts his paws on the sill looks out and
+        growls
+
+                               david
+                       sitting up in bed
+                 whats the matter cricket
+
+        david jumps out of bed and crosses to the window  he
+        looks out into the night  his eyes widen  he quickly
+        removes the muslin cover from his telescope and puts his
+        eye to the eyepiece
+
+
+261    ext maclean field  night  telescope matte shot
+
+         of a ball of white fire rapidly descending  tele
+        scope matte shot pans and the ball of white fire de
+        scends upon the ridge and dies to a soft glow
+
+
+262    int davids room  night  close shot
+
+        david  as he makes quick adjustments of the ocular
+        and again presses his eye to the telescope
+
+
+263    ext maclean field  rocky ridge  night  telescope
+        matte
+
+         of round bulkhead opening in section of space ship
+        seen through screen of heavy bushes and trees  the sil
+        houette of the two mutants carrying the martian in his
+        plastic dome enters scene and goes through bulkhead
+        which closes behind them  then the scene is burned out
+        by a blinding white light
+
+
+264    ext maclean field  night  telescope matte shot
+
+         as the ball of white fire ascends swiftly and dies
+        away in the distance
+
+
+265    int davids room  night  close shot
+
+        david  clutching cricket against him and staring out
+        the window
+
+                               david
+                 well  gee whiz
+
+                                                       fade outthe  end
