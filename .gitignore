@@ -278,4 +278,5 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm
 
-.csv
+/Binary.csv
+/Binary-DESKTOP-F0OPE9V.csv
